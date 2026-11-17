@@ -4,6 +4,12 @@ date: 2026-11-15 19:16:00 +0000
 summary: "ULA's first outright mission failure came ten minutes into Vulcan's fifth flight, with trouble during the Centaur upper stage burn."
 category: launch
 story_key: vulcan-leo-1-failure
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Vulcan_Centaur_rollout_%28Peregrine%29_%28cropped_2%29.jpg/1280px-Vulcan_Centaur_rollout_%28Peregrine%29_%28cropped_2%29.jpg
+  alt: "Archive photo: a Vulcan Centaur rolls out to Space Launch Complex 41 in January 2024"
+  credit: "NASA/Ben Smegelsky / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Vulcan_Centaur_rollout_(Peregrine)_(cropped_2).jpg
 sources:
   - name: Spaceflight Now
     title: "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
