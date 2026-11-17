@@ -44,17 +44,18 @@ its science results are not.
    more when available). Use web search when you need context, to confirm a detail, or
    to find a primary source (company press release, the actual post by an executive on X).
    If you can't read any source for a story, skip that story.
-7. Write the article (format below) to `_posts/`.
-8. `python3 scripts/collect.py --mark-seen` so these candidates aren't considered again.
-   Do this even when you published nothing.
-9. Commit and push:
-   - `git add _posts data/seen.json`
-   - `git commit -m "Newsroom: <n> articles"` (or `"Newsroom: no new stories"`)
-   - `git pull --rebase origin main`. Other newsroom runs may overlap with yours. If the pull
-     brought in a post with the same `story_key` as one you just wrote, delete yours
-     (`git rm` it and commit). If `data/seen.json` conflicts, keep the union of both
-     versions' keys.
+7. Write the article (format below) to `_posts/`, then **publish it right away**, before
+   starting the next story, so readers see each article as soon as it's done:
+   - `git add _posts/<file>` and `git commit -m "Newsroom: <headline>"`
+   - `git pull --rebase origin main`. Other newsroom runs may overlap with yours. If the
+     pull brought in a post with the same `story_key` as yours, delete yours (`git rm` it
+     and commit).
    - `git push origin main`. If the push is rejected, pull with rebase again and retry.
+8. When all stories are done, `python3 scripts/collect.py --mark-seen` so these
+   candidates aren't considered again. Do this even when you published nothing.
+9. Push the seen list: `git add data/seen.json`, `git commit -m "Newsroom: mark seen"`,
+   then pull with rebase and push as in step 7. If `data/seen.json` conflicts, keep the
+   union of both versions' keys.
 
 Only ever change files in `_posts/` and `data/seen.json`. Never edit layouts, config,
 scripts or these instructions.
