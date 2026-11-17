@@ -1,0 +1,91 @@
+{% comment %}
+Generated cover art for posts without a photo. Pure SVG, no external service.
+include.post = the post. Each section gets its own scene; the post's timestamp
+seeds positions, angles and the starfield so no two covers are identical.
+{% endcomment %}{% assign p = include.post %}{% assign seed = p.date | date: "%s" | plus: 0 | divided_by: 60 | modulo: 9973 %}{% assign ox = seed | modulo: 140 | minus: 70 %}{% assign oy = seed | modulo: 37 | minus: 18 %}{% assign rot = seed | modulo: 50 | minus: 25 %}{% assign cat = p.category | default: "industry" %}
+<svg class="art" viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustration: {{ site.sections[cat] | default: 'Transmission' }}" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#23262c"/>
+  <circle cx="{{ 520 | plus: ox }}" cy="{{ 40 | plus: oy }}" r="260" style="fill:var(--c)" opacity=".08"/>
+  <g stroke="#ffffff" stroke-opacity=".05">{% for i in (1..15) %}<line x1="{{ i | times: 42 }}" y1="0" x2="{{ i | times: 42 }}" y2="360"/>{% endfor %}{% for i in (1..8) %}<line x1="0" y1="{{ i | times: 42 }}" x2="640" y2="{{ i | times: 42 }}"/>{% endfor %}</g>
+  <g fill="#ffffff">{% for i in (1..34) %}{% assign sx = seed | times: i | times: 37 | plus: i | modulo: 640 %}{% assign sy = seed | times: i | times: 53 | plus: 7 | modulo: 300 %}{% assign so = i | modulo: 5 | plus: 2 | divided_by: 10.0 %}<circle cx="{{ sx }}" cy="{{ sy }}" r="{% if i == 3 or i == 17 %}1.6{% else %}.9{% endif %}" opacity="{{ so }}"/>{% endfor %}</g>
+  <g fill="none" style="stroke:var(--c)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  {% case cat %}
+  {% when "launch" %}
+    <path d="M{{ 330 | plus: ox }} 92 Q {{ 470 | plus: ox }} 20 {{ 700 | plus: ox }} {{ 10 | plus: oy }}" stroke-dasharray="4 8" opacity=".55"/>
+    <g transform="translate({{ ox }},0)">
+      <rect x="282" y="110" width="18" height="214" opacity=".5"/>
+      {% for i in (0..6) %}<path d="M282 {{ i | times: 30 | plus: 120 }} L300 {{ i | times: 30 | plus: 140 }}" opacity=".4"/>{% endfor %}
+      <path d="M300 150 H322 M300 210 H322" opacity=".6"/>
+      <path d="M322 290 V128 L332 94 L342 128 V290 Z" style="fill:var(--c)" fill-opacity=".14"/>
+      <path d="M322 262 L310 292 H322 M342 262 L354 292 H342"/>
+      <path d="M322 180 H342 M322 140 H342" opacity=".6"/>
+      <ellipse cx="332" cy="318" rx="44" ry="16" style="fill:var(--c)" fill-opacity=".35" stroke="none"/>
+      <ellipse cx="332" cy="306" rx="12" ry="20" style="fill:var(--c)" fill-opacity=".55" stroke="none"/>
+    </g>
+    <path d="M0 326 H640" opacity=".45"/>
+  {% when "vehicles" %}
+    <g transform="translate({{ ox }},{{ oy }}) rotate({{ rot | divided_by: 5 }} 320 180)">
+      <path d="M120 162 H430 L500 172 L520 180 L500 188 L430 198 H120 Z" style="fill:var(--c)" fill-opacity=".12"/>
+      <path d="M300 162 V198 M180 162 V198" opacity=".7"/>
+      <path d="M120 162 L96 146 V214 L120 198" />
+      <path d="M120 230 H520 M120 224 V236 M300 224 V236 M520 224 V236" opacity=".45"/>
+      <path d="M120 130 H300 M120 124 V136 M300 124 V136" opacity=".45"/>
+      <circle cx="212" cy="180" r="6" opacity=".7"/><circle cx="360" cy="180" r="6" opacity=".7"/>
+    </g>
+    <text x="24" y="336" fill="#ffffff" fill-opacity=".35" font-family="monospace" font-size="12" stroke="none">STAGE 1 / STAGE 2 · SCHEMATIC</text>
+  {% when "stations" %}
+    <circle cx="320" cy="1010" r="720" style="fill:var(--c)" fill-opacity=".07"/>
+    <circle cx="320" cy="1010" r="720" opacity=".6"/>
+    <g transform="translate({{ ox }},{{ oy }}) rotate({{ rot | divided_by: 3 }} 320 150)">
+      <path d="M180 150 H460"/>
+      {% for x in (0..1) %}{% assign bx = x | times: 230 | plus: 170 %}
+      <rect x="{{ bx }}" y="96" width="40" height="44" style="fill:var(--c)" fill-opacity=".18"/><rect x="{{ bx }}" y="160" width="40" height="44" style="fill:var(--c)" fill-opacity=".18"/>
+      <path d="M{{ bx | plus: 20 }} 96 V204" opacity=".5"/>{% endfor %}
+      <rect x="276" y="136" width="88" height="28" rx="12" style="fill:var(--c)" fill-opacity=".22"/>
+      <circle cx="320" cy="150" r="9"/>
+      <path d="M320 164 V188 M308 188 H332" opacity=".7"/>
+    </g>
+  {% when "moon" %}
+    <circle cx="{{ 120 | plus: ox }}" cy="{{ 80 | plus: oy }}" r="26" style="fill:var(--c)" fill-opacity=".25"/>
+    <path d="M{{ 106 | plus: ox }} 70 q10 6 6 18" opacity=".6"/>
+    <circle cx="320" cy="880" r="620" fill="#34373e" stroke="none"/>
+    <circle cx="320" cy="880" r="620" opacity=".55"/>
+    {% for i in (1..5) %}{% assign cx = seed | times: i | times: 97 | modulo: 560 | plus: 40 %}<ellipse cx="{{ cx }}" cy="{{ i | modulo: 3 | times: 14 | plus: 300 }}" rx="{{ i | times: 5 | plus: 10 }}" ry="{{ i | times: 2 | plus: 3 }}" opacity=".4"/>{% endfor %}
+    <g transform="translate({{ ox }},0)">
+      <path d="M262 266 A58 58 0 0 1 378 266 Z" style="fill:var(--c)" fill-opacity=".16"/>
+      <path d="M282 266 V246 M300 266 V232 M320 266 V228 M340 266 V232 M358 266 V246" opacity=".45"/>
+      <path d="M378 266 H430 V250 H404" opacity=".7"/>
+      <path d="M440 266 V204 M440 204 L462 196" opacity=".8"/>
+    </g>
+  {% when "manufacturing" %}
+    <g transform="translate({{ ox }},{{ oy }})">
+      {% assign hex = "M28 0 L14 24 L-14 24 L-28 0 L-14 -24 L14 -24 Z" %}
+      <g transform="translate(270 150)"><path d="{{ hex }}" style="fill:var(--c)" fill-opacity=".2"/></g>
+      <g transform="translate(320 179)"><path d="{{ hex }}"/></g>
+      <g transform="translate(370 150)"><path d="{{ hex }}" style="fill:var(--c)" fill-opacity=".12"/></g>
+      <g transform="translate(320 121)"><path d="{{ hex }}"/></g>
+      <g transform="translate(420 179)"><path d="{{ hex }}" opacity=".6"/></g>
+      <g transform="translate(220 179)"><path d="{{ hex }}" opacity=".6"/></g>
+      <path d="M170 210 H140 V120 M470 120 H500 V210" opacity=".5"/>
+      <rect x="110" y="96" width="60" height="24" opacity=".6"/><rect x="470" y="210" width="60" height="24" opacity=".6"/>
+      <circle cx="320" cy="150" r="5" style="fill:var(--c)"/>
+    </g>
+  {% when "policy" %}
+    <g transform="translate({{ 320 | plus: ox }} {{ 175 | plus: oy }})">
+      <circle r="120" opacity=".25"/><circle r="84" opacity=".4"/><circle r="48" style="fill:var(--c)" fill-opacity=".12"/>
+      {% for i in (0..7) %}<g transform="rotate({{ i | times: 45 | plus: rot }})"><circle cx="84" cy="0" r="5" style="fill:var(--c)"/></g>{% endfor %}
+      <path d="M-22 10 H22 M-22 -4 H22 M-14 -18 H14" opacity=".8"/>
+      <path d="M-26 22 H26" />
+    </g>
+  {% else %}
+    <g transform="translate({{ 320 | plus: ox }} {{ 170 | plus: oy }})">
+      <ellipse rx="220" ry="70" opacity=".35" transform="rotate({{ rot }})"/>
+      <ellipse rx="160" ry="110" opacity=".25" transform="rotate({{ rot | times: -2 }})"/>
+      <ellipse rx="250" ry="40" opacity=".45" transform="rotate({{ rot | plus: 30 }})"/>
+      {% for i in (0..9) %}<g transform="rotate({{ i | times: 36 | plus: rot }})"><circle cx="{{ i | modulo: 3 | times: 40 | plus: 140 }}" cy="0" r="3.5" style="fill:var(--c)" stroke="none"/></g>{% endfor %}
+      <circle r="18" style="fill:var(--c)" fill-opacity=".3"/>
+    </g>
+    <path d="M40 320 L110 296 L170 304 L240 270 L300 280" opacity=".55"/>
+  {% endcase %}
+  </g>
+</svg>
