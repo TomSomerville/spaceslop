@@ -19,7 +19,7 @@
     {"name": "r/ula", "url": "https://www.reddit.com/r/ula/new/.rss"},
     {"name": "r/space (top)", "url": "https://www.reddit.com/r/space/top/.rss?t=day"}
   ],
-  "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=60&ordering=-published_at",
+  "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",
   "launch_library": "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=15&mode=normal",
-  "launch_library_recent": "https://ll.thespacedevs.com/2.3.0/launches/previous/?limit=10&mode=normal"
+  "launch_library_recent": "https://ll.thespacedevs.com/2.3.0/launches/previous/?limit=25&mode=normal"
 }

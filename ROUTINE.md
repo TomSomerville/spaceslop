@@ -49,7 +49,11 @@ its science results are not.
 9. Commit and push:
    - `git add _posts data/seen.json`
    - `git commit -m "Newsroom: <n> articles"` (or `"Newsroom: no new stories"`)
-   - `git push`. If the push is rejected, `git pull --rebase` and push again.
+   - `git pull --rebase`. Other newsroom runs may overlap with yours. If the pull
+     brought in a post with the same `story_key` as one you just wrote, delete yours
+     (`git rm` it and commit). If `data/seen.json` conflicts, keep the union of both
+     versions' keys.
+   - `git push`. If the push is rejected, pull with rebase again and retry.
 
 Only ever change files in `_posts/` and `data/seen.json`. Never edit layouts, config,
 scripts or these instructions.

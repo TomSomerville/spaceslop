@@ -115,10 +115,19 @@ def get_rss(src):
         return src["name"], [], f"{type(e).__name__}: {e}"
 
 
-def get_snapi(url):
-    data = json.loads(fetch(url))
+def get_snapi(url, cutoff, max_pages=10):
+    """Page through the Spaceflight News API back to the lookback cutoff."""
+    sep = "&" if "?" in url else "?"
+    url = f"{url}{sep}published_at_gte={cutoff.strftime('%Y-%m-%dT%H:%M:%SZ')}"
+    results = []
+    for _ in range(max_pages):
+        data = json.loads(fetch(url))
+        results += data.get("results", [])
+        url = data.get("next")
+        if not url:
+            break
     out = []
-    for a in data.get("results", []):
+    for a in results:
         out.append({
             "title": clean(a.get("title"), 300),
             "url": a.get("url", ""),
@@ -203,7 +212,7 @@ def collect(hours):
         if not url:
             continue
         try:
-            got = fn(url)
+            got = fn(url, cutoff)
             items += got
             report[label] = len(got)
         except Exception as e:
