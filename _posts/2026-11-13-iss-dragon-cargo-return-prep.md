@@ -11,6 +11,12 @@ sources:
   - name: NASA Space Station Blog
     title: "Botany, Biomedicine, and Cargo Ops Wrap Up Week Aboard Station"
     url: https://www.nasa.gov/blogs/spacestation/2026/11/13/botany-biomedicine-and-cargo-ops-wrap-up-week-aboard-station/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Iss066e095314.jpg/1280px-Iss066e095314.jpg
+  alt: "A SpaceX cargo Dragon approaches the International Space Station in December 2021 (archive photo)"
+  credit: "NASA Johnson Space Center / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Iss066e095314.jpg
 ---
 
 The Expedition 75 crew spent the week loading a SpaceX cargo Dragon for its trip home, according to NASA's station blog. Dragon delivered over 6,300 pounds of science, supplies and hardware on 15 October and is nearing the end of its stay. NASA has not published a departure date. The capsule will splash down in the Pacific and be recovered by NASA and SpaceX teams.
