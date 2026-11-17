@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="article">
+  <p class="meta">
+    {% if page.category %}<span class="chip chip-{{ page.category }}">{{ site.sections[page.category] | default: page.category }}</span>{% endif %}
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y · %H:%M UTC" }}</time>
+  </p>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}<p class="dek">{{ page.summary }}</p>{% endif %}
+  <div class="body">
+    {{ content }}
+  </div>
+  {% if page.sources %}
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>
+      {% for s in page.sources %}
+      <li><a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>{% if s.title %} — {{ s.title }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+  <p class="ai-note">Written by AI from the sources above.</p>
+</article>

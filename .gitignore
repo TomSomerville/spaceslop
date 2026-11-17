@@ -1,0 +1,5 @@
+data/candidates.json
+data/launches.json
+_site/
+.jekyll-cache/
+__pycache__/

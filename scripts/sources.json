@@ -1,0 +1,25 @@
+{
+  "rss": [
+    {"name": "SpaceNews", "url": "https://spacenews.com/feed/"},
+    {"name": "NASASpaceflight", "url": "https://www.nasaspaceflight.com/feed/"},
+    {"name": "Spaceflight Now", "url": "https://spaceflightnow.com/feed/"},
+    {"name": "Payload", "url": "https://payloadspace.com/feed/"},
+    {"name": "European Spaceflight", "url": "https://europeanspaceflight.com/feed/"},
+    {"name": "Teslarati (SpaceX)", "url": "https://www.teslarati.com/category/spacex/feed/"},
+    {"name": "Ars Technica Space", "url": "https://arstechnica.com/space/feed/"},
+    {"name": "Space.com", "url": "https://www.space.com/feeds/all"},
+    {"name": "SpacePolicyOnline", "url": "https://spacepolicyonline.com/feed/"},
+    {"name": "NASA News Releases", "url": "https://www.nasa.gov/news-release/feed/"},
+    {"name": "NASA Space Station Blog", "url": "https://www.nasa.gov/blogs/spacestation/feed/"},
+    {"name": "Rocket Lab News", "url": "https://www.rocketlabcorp.com/updates/rss.xml"},
+    {"name": "r/spacex", "url": "https://www.reddit.com/r/spacex/new/.rss"},
+    {"name": "r/SpaceXLounge", "url": "https://www.reddit.com/r/SpaceXLounge/top/.rss?t=day"},
+    {"name": "r/BlueOrigin", "url": "https://www.reddit.com/r/BlueOrigin/new/.rss"},
+    {"name": "r/RocketLab", "url": "https://www.reddit.com/r/RocketLab/new/.rss"},
+    {"name": "r/ula", "url": "https://www.reddit.com/r/ula/new/.rss"},
+    {"name": "r/space (top)", "url": "https://www.reddit.com/r/space/top/.rss?t=day"}
+  ],
+  "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=60&ordering=-published_at",
+  "launch_library": "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=15&mode=normal",
+  "launch_library_recent": "https://ll.thespacedevs.com/2.3.0/launches/previous/?limit=10&mode=normal"
+}
