@@ -8,6 +8,12 @@ sources:
   - name: NASA
     title: "Liquid Oxygen Flight Demonstration"
     url: https://www.nasa.gov/space-travel-technology/liquid-oxygen-flight-demonstration/
+image:
+  path: https://images-assets.nasa.gov/image/CSN_1518/CSN_1518~large.jpg
+  alt: "The LOXSAT payload on display inside Rocket Lab's Spacecraft Production Complex in Long Beach, California, in March 2026"
+  credit: "Rocket Lab / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/CSN_1518
 ---
 
 NASA has published an overview of LOXSAT, a flight demonstration meant to show how liquid oxygen can be stored, pressurised and moved between tanks in low Earth orbit. The agency's page does not give a launch date, so the timing of the flight remains unannounced in the material reviewed here.
