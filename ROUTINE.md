@@ -29,6 +29,12 @@ its science results are not.
    (upcoming and recent launches). Some feeds failing is normal; carry on.
 3. Read both files. Also list `_posts/` and read the titles and `story_key` of posts
    from the last 4 days, so you don't repeat a story that's already covered.
+   **Web sweep (every run):** feeds lag behind breaking news, so also do 3 quick web
+   searches for space-industry news from the last 12 hours, for example
+   `"rocket launch" news today`, `SpaceX OR "Blue Origin" OR "Rocket Lab" news`, and
+   `"space station" OR "lunar" OR "space startup" news`. Add any in-scope story from a
+   reputable outlet that isn't already on the site to the candidates for step 4. Treat
+   these exactly like feed candidates: read the real article before writing.
 4. Group candidates that are about the same event into one story. Drop everything out of
    scope. Rank what's left by newsworthiness:
    - real events (a launch happened, a contract was signed, a test fired, a failure)
@@ -56,6 +62,11 @@ its science results are not.
 9. Push the seen list and launch board: `git add data/seen.json assets/launches.json`, `git commit -m "Newsroom: mark seen"`,
    then pull with rebase and push as in step 7. If `data/seen.json` conflicts, keep the
    union of both versions' keys.
+10. **Image catch-up (required every run, even when you published nothing).** Run
+    `grep -L '^image:' _posts/*.md` to list posts with no image. For up to 5 of them,
+    newest first, find an image as described in Images below and add it to that post's
+    front matter. Commit and push after each one (`"Newsroom: add image to <slug>"`), as in
+    step 7. If no suitable image exists for a post, leave it; it shows generated cover art.
 
 Only ever change files in `_posts/`, `assets/img/`, `assets/launches.json` and `data/seen.json`. Never edit layouts, config,
 scripts or these instructions.
@@ -165,10 +176,8 @@ iSpace and so on) and agencies (ESA, JAXA, ISRO, CNES, DLR, CSA, UKSA). Rules:
    Use the license name if there is one (for example `"CC BY-SA 3.0 IGO"`); otherwise
    `"Press image, editorial use"`.
 
-**Catch-up:** at the end of each run, if any posts in `_posts/` have no `image`, add one
-to up to 5 of them (newest first) the same way, then commit and push them as in step 7
-with the message `"Newsroom: add images"`. Editing an older post's front matter to add
-an image is allowed; don't change anything else in it.
+**Catch-up** is step 10 above. Editing an older post's front matter to add an image is
+allowed; don't change anything else in it.
 
 ## Writing rules
 
