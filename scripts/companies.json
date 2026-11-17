@@ -455,5 +455,637 @@
   "does": "NASA news releases and announcements",
   "news": "https://www.nasa.gov/news/",
   "query": "NASA Artemis OR \"NASA contract\" OR \"NASA announces\""
+ },
+ {
+  "name": "Phantom Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Small launch (Daytona), satellite buses",
+  "news": "https://phantomspace.com/phantom-news",
+  "query": "\"Phantom Space\""
+ },
+ {
+  "name": "Ursa Major",
+  "country": "USA",
+  "region": "North America",
+  "does": "Rocket engines and solid rocket motors",
+  "news": "https://ursamajor.com/news",
+  "query": "\"Ursa Major\""
+ },
+ {
+  "name": "Astra",
+  "country": "USA",
+  "region": "North America",
+  "does": "Launch (Rocket 4), spacecraft engines",
+  "news": "https://astra.com/news",
+  "query": "\"Astra Space\" OR \"Astra\" \"Rocket 4\""
+ },
+ {
+  "name": "Vaya Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Hybrid-engine small launch",
+  "news": "https://vayaspace.com/news",
+  "query": "\"Vaya Space\""
+ },
+ {
+  "name": "bluShift Aerospace",
+  "country": "USA",
+  "region": "North America",
+  "does": "Biofuel-powered small launch",
+  "news": "https://blushiftaerospace.com/press",
+  "query": "\"bluShift Aerospace\""
+ },
+ {
+  "name": "ThinkOrbital",
+  "country": "USA",
+  "region": "North America",
+  "does": "Large in-space platforms and structures",
+  "news": "https://thinkorbital.com/news",
+  "query": "ThinkOrbital"
+ },
+ {
+  "name": "Outpost",
+  "country": "USA",
+  "region": "North America",
+  "does": "Return-from-orbit cargo",
+  "news": "https://outpost.space/news",
+  "query": "\"Outpost\" space cargo"
+ },
+ {
+  "name": "Orbit Fab",
+  "country": "USA",
+  "region": "North America",
+  "does": "In-space refueling",
+  "news": "https://orbitfab.com/news",
+  "query": "\"Orbit Fab\""
+ },
+ {
+  "name": "AstroForge",
+  "country": "USA",
+  "region": "North America",
+  "does": "Asteroid mining",
+  "news": "https://astroforge.com/blog",
+  "query": "AstroForge"
+ },
+ {
+  "name": "Karman+",
+  "country": "USA",
+  "region": "North America",
+  "does": "Asteroid mining",
+  "news": "https://karmanplus.com/archive",
+  "query": "\"Karman+\" asteroid"
+ },
+ {
+  "name": "Quantum Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Cislunar spacecraft (Ranger)",
+  "news": "https://quantumspaceinc.com/updates",
+  "query": "\"Quantum Space\""
+ },
+ {
+  "name": "Momentus",
+  "country": "USA",
+  "region": "North America",
+  "does": "Orbital transfer and space infrastructure",
+  "news": "https://momentus.space/updates",
+  "query": "Momentus space"
+ },
+ {
+  "name": "Turion Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space domain awareness, servicing spacecraft",
+  "news": "https://turionspace.com/news",
+  "query": "\"Turion Space\""
+ },
+ {
+  "name": "Albedo",
+  "country": "USA",
+  "region": "North America",
+  "does": "Very-low-orbit Earth imaging",
+  "news": "https://albedo.com/blog",
+  "query": "\"Albedo\" satellite"
+ },
+ {
+  "name": "Umbra",
+  "country": "USA",
+  "region": "North America",
+  "does": "Radar (SAR) Earth imaging",
+  "news": "https://umbra.space/press-releases",
+  "query": "\"Umbra\" SAR"
+ },
+ {
+  "name": "Capella Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Radar (SAR) Earth imaging",
+  "news": "https://capellaspace.com/news",
+  "query": "\"Capella Space\""
+ },
+ {
+  "name": "BlackSky",
+  "country": "USA",
+  "region": "North America",
+  "does": "Real-time Earth imaging",
+  "news": "https://blacksky.com/company/news",
+  "query": "BlackSky"
+ },
+ {
+  "name": "Spire Global",
+  "country": "USA",
+  "region": "North America",
+  "does": "Data constellation (weather, maritime, aviation)",
+  "news": "https://spire.com/press-media",
+  "query": "\"Spire Global\""
+ },
+ {
+  "name": "Lynk Global",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite direct-to-phone service",
+  "news": "https://lynk.world/news",
+  "query": "\"Lynk Global\""
+ },
+ {
+  "name": "Hubble Network",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite Bluetooth IoT network",
+  "news": "https://hubble.com/news",
+  "query": "\"Hubble Network\""
+ },
+ {
+  "name": "York Space Systems",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite buses",
+  "news": "https://yorkspacesystems.com/news",
+  "query": "\"York Space Systems\""
+ },
+ {
+  "name": "Sidus Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellites and space hardware",
+  "news": "https://sidusspace.com/news-events",
+  "query": "\"Sidus Space\""
+ },
+ {
+  "name": "LeoLabs",
+  "country": "USA",
+  "region": "North America",
+  "does": "Radar tracking of objects in orbit",
+  "news": "https://leolabs.space/newsroom",
+  "query": "LeoLabs"
+ },
+ {
+  "name": "Slingshot Aerospace",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space situational awareness",
+  "news": "https://slingshot.space/news",
+  "query": "\"Slingshot Aerospace\""
+ },
+ {
+  "name": "Northwood Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite ground stations",
+  "news": "https://northwoodspace.io/press",
+  "query": "\"Northwood Space\""
+ },
+ {
+  "name": "Xona Space Systems",
+  "country": "USA",
+  "region": "North America",
+  "does": "LEO navigation satellites (GPS alternative)",
+  "news": "https://xonaspace.com/news",
+  "query": "\"Xona Space Systems\""
+ },
+ {
+  "name": "Starcloud",
+  "country": "USA",
+  "region": "North America",
+  "does": "Data centers in orbit",
+  "news": "https://starcloud.com/blog",
+  "query": "Starcloud orbit"
+ },
+ {
+  "name": "Reflect Orbital",
+  "country": "USA",
+  "region": "North America",
+  "does": "Orbital mirrors to deliver sunlight",
+  "news": "https://reflectorbital.com/news-and-insights",
+  "query": "\"Reflect Orbital\""
+ },
+ {
+  "name": "Star Catcher",
+  "country": "USA",
+  "region": "North America",
+  "does": "Power beaming to satellites",
+  "news": "https://star-catcher.com/updates",
+  "query": "\"Star Catcher\" power beaming"
+ },
+ {
+  "name": "Benchmark Space Systems",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite propulsion",
+  "news": "https://benchmarkspacesystems.com/news",
+  "query": "\"Benchmark Space Systems\""
+ },
+ {
+  "name": "Katalyst Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite servicing and robotics",
+  "news": "https://katalystspace.com/news",
+  "query": "\"Katalyst Space\""
+ },
+ {
+  "name": "Solestial",
+  "country": "USA",
+  "region": "North America",
+  "does": "Solar power for spacecraft",
+  "news": "https://solestial.com/newsroom",
+  "query": "Solestial"
+ },
+ {
+  "name": "World View",
+  "country": "USA",
+  "region": "North America",
+  "does": "Stratospheric balloons",
+  "news": "https://worldview.space/news",
+  "query": "\"World View\" balloon"
+ },
+ {
+  "name": "NordSpace",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Small launch and spaceport",
+  "news": "https://nordspace.com/news",
+  "query": "NordSpace"
+ },
+ {
+  "name": "Reaction Dynamics",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Hybrid rocket engines and launch",
+  "news": "https://reactiondynamics.space/en/news",
+  "query": "\"Reaction Dynamics\""
+ },
+ {
+  "name": "Wyvern",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Hyperspectral Earth imaging",
+  "news": "https://wyvern.space/blog",
+  "query": "Wyvern hyperspectral"
+ },
+ {
+  "name": "HyImpulse",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Hybrid-rocket launch (SR75, SL1)",
+  "news": "https://hyimpulse.de/blog",
+  "query": "HyImpulse"
+ },
+ {
+  "name": "Polaris Raumflugzeuge",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Spaceplanes",
+  "news": "https://polaris-raumflugzeuge.de/news",
+  "query": "\"Polaris Raumflugzeuge\""
+ },
+ {
+  "name": "Latitude",
+  "country": "France",
+  "region": "Europe",
+  "does": "Small launch (Zephyr)",
+  "news": "https://latitude.eu/stories",
+  "query": "\"Latitude\" Zephyr rocket"
+ },
+ {
+  "name": "Exolaunch",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Rideshare launch services, deployers",
+  "news": "https://exolaunch.com/allnews",
+  "query": "Exolaunch"
+ },
+ {
+  "name": "Exotrail",
+  "country": "France",
+  "region": "Europe",
+  "does": "Orbital transfer, electric propulsion",
+  "news": "https://exotrail.com/blog",
+  "query": "Exotrail"
+ },
+ {
+  "name": "Sateliot",
+  "country": "Spain",
+  "region": "Europe",
+  "does": "5G IoT satellite constellation",
+  "news": "https://sateliot.space/news",
+  "query": "Sateliot"
+ },
+ {
+  "name": "Open Cosmos",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Satellite missions and data",
+  "news": "https://open-cosmos.com/news",
+  "query": "\"Open Cosmos\""
+ },
+ {
+  "name": "Satellite Vu",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Thermal Earth imaging",
+  "news": "https://satellitevu.com/insights/press",
+  "query": "\"Satellite Vu\""
+ },
+ {
+  "name": "ICEYE",
+  "country": "Finland",
+  "region": "Europe",
+  "does": "Radar (SAR) Earth imaging",
+  "news": "https://iceye.com/newsroom",
+  "query": "ICEYE"
+ },
+ {
+  "name": "ReOrbit",
+  "country": "Finland",
+  "region": "Europe",
+  "does": "Satellite platforms",
+  "news": "https://reorbit.space/news",
+  "query": "ReOrbit"
+ },
+ {
+  "name": "Kuva Space",
+  "country": "Finland",
+  "region": "Europe",
+  "does": "Hyperspectral Earth imaging",
+  "news": "https://kuvaspace.com/en/resources",
+  "query": "\"Kuva Space\""
+ },
+ {
+  "name": "NanoAvionics",
+  "country": "Lithuania",
+  "region": "Europe",
+  "does": "Small satellite buses",
+  "news": "https://nanoavionics.com/news",
+  "query": "NanoAvionics"
+ },
+ {
+  "name": "Leanspace",
+  "country": "France",
+  "region": "Europe",
+  "does": "Satellite operations software",
+  "news": "https://leanspace.io/stories",
+  "query": "Leanspace"
+ },
+ {
+  "name": "Infinite Orbits",
+  "country": "France",
+  "region": "Europe",
+  "does": "In-orbit servicing",
+  "news": "https://infiniteorbits.io/blog",
+  "query": "\"Infinite Orbits\""
+ },
+ {
+  "name": "Look Up Space",
+  "country": "France",
+  "region": "Europe",
+  "does": "Space surveillance radar",
+  "news": "https://lookupspace.com/press",
+  "query": "\"Look Up Space\""
+ },
+ {
+  "name": "SWISSto12",
+  "country": "Switzerland",
+  "region": "Europe",
+  "does": "Small GEO satellites, RF hardware",
+  "news": "https://swissto12.com/newsroom",
+  "query": "\"SWISSto12\""
+ },
+ {
+  "name": "ENPULSION",
+  "country": "Austria",
+  "region": "Europe",
+  "does": "Electric propulsion",
+  "news": "https://enpulsion.com/newsroom",
+  "query": "ENPULSION"
+ },
+ {
+  "name": "ThrustMe",
+  "country": "France",
+  "region": "Europe",
+  "does": "Electric propulsion",
+  "news": "https://thrustme.fr/news",
+  "query": "ThrustMe"
+ },
+ {
+  "name": "GomSpace",
+  "country": "Denmark",
+  "region": "Europe",
+  "does": "Nanosatellites",
+  "news": "https://gomspace.com/news",
+  "query": "GomSpace"
+ },
+ {
+  "name": "ISISPACE",
+  "country": "Netherlands",
+  "region": "Europe",
+  "does": "CubeSats and deployers",
+  "news": "https://isispace.nl/newsroom",
+  "query": "ISISPACE"
+ },
+ {
+  "name": "Mynaric",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Laser communication terminals",
+  "news": "https://mynaric.com/news",
+  "query": "Mynaric"
+ },
+ {
+  "name": "Andøya Space",
+  "country": "Norway",
+  "region": "Europe",
+  "does": "Spaceport",
+  "news": "https://andoyaspace.no/news-articles",
+  "query": "\"Andøya Space\""
+ },
+ {
+  "name": "Zephalto",
+  "country": "France",
+  "region": "Europe",
+  "does": "Stratospheric balloon flights for passengers",
+  "news": "https://zephalto.com/space-news",
+  "query": "Zephalto"
+ },
+ {
+  "name": "Synspective",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Radar (SAR) Earth imaging",
+  "news": "https://synspective.com/news",
+  "query": "Synspective"
+ },
+ {
+  "name": "iQPS",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Radar (SAR) Earth imaging",
+  "news": "https://i-qps.net/news",
+  "query": "iQPS satellite"
+ },
+ {
+  "name": "Axelspace",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Earth-observation microsatellites",
+  "news": "https://axelspace.com/news",
+  "query": "Axelspace"
+ },
+ {
+  "name": "GITAI",
+  "country": "Japan / USA",
+  "region": "Asia-Pacific",
+  "does": "Space robotics",
+  "news": "https://gitai.tech/news",
+  "query": "GITAI"
+ },
+ {
+  "name": "PD AeroSpace",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Spaceplanes",
+  "news": "https://pdas.co.jp/news-archive",
+  "query": "\"PD AeroSpace\""
+ },
+ {
+  "name": "Dhruva Space",
+  "country": "India",
+  "region": "Asia-Pacific",
+  "does": "Satellites and deployers",
+  "news": "https://dhruvaspace.com/press-releases",
+  "query": "\"Dhruva Space\""
+ },
+ {
+  "name": "Digantara",
+  "country": "India",
+  "region": "Asia-Pacific",
+  "does": "Space surveillance",
+  "news": "https://digantara.co.in/newsroom",
+  "query": "Digantara"
+ },
+ {
+  "name": "Fleet Space",
+  "country": "Australia",
+  "region": "Asia-Pacific",
+  "does": "Satellite IoT, mineral exploration",
+  "news": "https://fleetspace.com/newsroom",
+  "query": "\"Fleet Space\""
+ },
+ {
+  "name": "Southern Launch",
+  "country": "Australia",
+  "region": "Asia-Pacific",
+  "does": "Spaceports",
+  "news": "https://southernlaunch.space/news-feed",
+  "query": "\"Southern Launch\""
+ },
+ {
+  "name": "Skykraft",
+  "country": "Australia",
+  "region": "Asia-Pacific",
+  "does": "Satellites for air traffic management",
+  "news": "https://skykraft.com.au/news",
+  "query": "Skykraft"
+ },
+ {
+  "name": "Perigee Aerospace",
+  "country": "South Korea",
+  "region": "Asia-Pacific",
+  "does": "Small launch (Blue Whale 1)",
+  "news": "https://perigee.space/news",
+  "query": "\"Perigee Aerospace\""
+ },
+ {
+  "name": "Innospace",
+  "country": "South Korea",
+  "region": "Asia-Pacific",
+  "does": "Hybrid-rocket launch (HANBIT)",
+  "news": "https://innospc.com",
+  "query": "Innospace HANBIT"
+ },
+ {
+  "name": "Nara Space",
+  "country": "South Korea",
+  "region": "Asia-Pacific",
+  "does": "Nanosatellites, Earth observation",
+  "news": "https://naraspace.com/naraspace/media",
+  "query": "\"Nara Space\""
+ },
+ {
+  "name": "Space Pioneer",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "does": "Launch (Tianlong-3)",
+  "news": "https://spacepioneer.cc/news",
+  "query": "\"Space Pioneer\""
+ },
+ {
+  "name": "Deep Blue Aerospace",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "does": "Reusable launch (Nebula)",
+  "news": "https://dbaspace.com/news_s.html",
+  "query": "\"Deep Blue Aerospace\""
+ },
+ {
+  "name": "Orienspace",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "does": "Launch (Gravity-1)",
+  "news": "https://orienspace.com/newsPage",
+  "query": "Orienspace"
+ },
+ {
+  "name": "CAS Space",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "does": "Launch (Kinetica / Lijian)",
+  "news": "https://cas-space.com",
+  "query": "\"CAS Space\""
+ },
+ {
+  "name": "TiSpace",
+  "country": "Taiwan",
+  "region": "Asia-Pacific",
+  "does": "Small launch",
+  "news": "https://tispace.com/en/news",
+  "query": "TiSpace"
+ },
+ {
+  "name": "Ramon.Space",
+  "country": "Israel",
+  "region": "Middle East",
+  "does": "Computing hardware for spacecraft",
+  "news": "https://ramon.space/news",
+  "query": "\"Ramon.Space\""
+ },
+ {
+  "name": "Satellogic",
+  "country": "Argentina / USA",
+  "region": "Latin America",
+  "does": "Earth-imaging constellation",
+  "news": "https://satellogic.com/news",
+  "query": "Satellogic"
  }
 ]
