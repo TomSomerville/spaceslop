@@ -27,4 +27,4 @@ The report also cites 493 suppliers and €42.7 million in local contracts, and 
 
 About 60 containers of ground equipment have reached the Guiana Space Centre in Kourou, the report says, to validate pad strongbacks, hold-down clamps and umbilical interfaces under a partnership with CNES, the French space agency.
 
-On timing, the report is inconsistent, giving the maiden flight as "first half of 2027" in one place and "early 2027" in another. Either way, it is a slip from earlier expectations of a 2026 debut. For a company that flew suborbital Miura 1 hardware before, the next test is whether the integrated vehicles behave as the components did; component counts say little about that, and system tests are where integration problems usually surface.
+On timing, the report is inconsistent, giving the maiden flight as "first half of 2027" in one place and "early 2027" in another. Either way, it is a slip from earlier expectations of a 2026 debut. The next test is whether the integrated vehicles behave as the components did; component counts say little about that, and system tests are where integration problems usually surface.
