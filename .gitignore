@@ -3,3 +3,5 @@ data/launches.json
 _site/
 .jekyll-cache/
 __pycache__/
+mockups/
+.claude/

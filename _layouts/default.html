@@ -3,23 +3,69 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#262a31">
   {% seo %}
   {% feed_meta %}
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body>
-  <header class="masthead">
+  <div class="strip hud">
     <div class="wrap">
-      <a class="logo" href="{{ '/' | relative_url }}">Space<span>Slop</span></a>
-      <p class="tagline">{{ site.tagline }}</p>
+      <span><i class="dot"></i><b>Uplink nominal</b></span>
+      <span>MSD <b data-msd>—</b></span>
+      <span>MTC <b data-mtc>—</b></span>
+      <span>Earth UTC <b data-utc>—</b></span>
+      <span class="launch">Next launch <b data-launch-count>—</b> <span data-launch-name></span></span>
     </div>
+  </div>
+
+  <header class="wrap mast">
+    <div>
+      <a class="logo" href="{{ '/' | relative_url }}">SPACE<span>SLOP</span></a>
+      <div class="sub hud">Olympus News Relay · <b>Jezero Station</b> · Rockets · Stations · Moon · Industry</div>
+    </div>
+    <nav class="tabs hud" aria-label="Sections">
+      <a class="tab" href="{{ '/' | relative_url }}" data-filter="all">All</a>
+      {% for s in site.sections %}<a class="tab" href="{{ '/' | relative_url }}#{{ s[0] }}" data-filter="{{ s[0] }}">{{ s[1] }}</a>
+      {% endfor %}
+    </nav>
   </header>
-  <main class="wrap">
-    {{ content }}
+
+  <main class="wrap grid">
+    <section class="main-col">
+      {{ content }}
+    </section>
+    <aside class="side-col">
+      <div class="panel hud">
+        <h4>// Launch board</h4>
+        <div class="lb-name" data-launch-name-full>Acquiring signal…</div>
+        <div class="big" data-launch-count>T−--:--:--</div>
+        <div class="kv"><span>NET</span><b data-launch-net>—</b></div>
+      </div>
+      <div class="panel hud">
+        <h4>// Colony clock</h4>
+        <div class="kv"><span>Sol</span><b data-sol>—</b></div>
+        <div class="kv"><span>Coordinated Mars Time</span><b data-mtc>—</b></div>
+        <div class="kv"><span>Transmissions · 72h</span><b>{% assign cutoff = site.time | date: '%s' | minus: 259200 %}{% assign n = 0 %}{% for p in site.posts %}{% assign t = p.date | date: '%s' | plus: 0 %}{% if t >= cutoff %}{% assign n = n | plus: 1 %}{% endif %}{% endfor %}{{ n }}</b></div>
+      </div>
+      <div class="panel">
+        <h4 class="hud">// Wire</h4>
+        <ul class="wire">
+          {% for p in site.posts limit: 8 %}
+          <li><a href="{{ p.url | relative_url }}"><time class="hud">{{ p.date | date: "%Y-%m-%d %H:%M UTC" }}</time>{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </aside>
   </main>
-  <footer class="wrap footer">
-    <p>Every article on SpaceSlop is written by AI (Claude) from the linked source reporting. Check the sources before quoting anything.</p>
-    <p><a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></p>
+
+  <footer class="wrap footer hud">
+    <span>Every transmission is machine-written by AI from the linked Earth-side reporting. Check the sources before quoting.</span>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>
   </footer>
+  <script src="{{ '/assets/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>

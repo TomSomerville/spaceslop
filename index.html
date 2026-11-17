@@ -3,29 +3,30 @@ layout: default
 ---
 {% assign posts = site.posts | slice: 0, 60 %}
 {% if posts.size == 0 %}
-  <p class="empty">No stories yet. The first run of the newsroom is on its way.</p>
+  <div class="panel lead"><p>No transmissions yet. The newsroom's first run is on its way.</p></div>
 {% else %}
   {% assign lead = posts.first %}
-  <a class="lead" href="{{ lead.url | relative_url }}">
-    <p class="meta">
-      {% if lead.category %}<span class="chip chip-{{ lead.category }}">{{ site.sections[lead.category] | default: lead.category }}</span>{% endif %}
-      <time datetime="{{ lead.date | date_to_xmlschema }}">{{ lead.date | date: "%b %-d · %H:%M UTC" }}</time>
-    </p>
+  <a class="panel lead" href="{{ lead.url | relative_url }}" data-cat="{{ lead.category }}">
+    <div class="meta hud">
+      <span class="flag">▲ Priority transmission</span>
+      {% if lead.category %}<span class="chip c-{{ lead.category }}">{{ site.sections[lead.category] | default: lead.category }}</span>{% endif %}
+      <time datetime="{{ lead.date | date_to_xmlschema }}" data-ago>{{ lead.date | date: "%b %-d" }}</time>
+    </div>
     <h2>{{ lead.title }}</h2>
     {% if lead.summary %}<p>{{ lead.summary }}</p>{% endif %}
   </a>
-  <ul class="stories">
+  <div class="cards">
     {% for post in posts offset: 1 %}
-    <li>
-      <a href="{{ post.url | relative_url }}">
-        <p class="meta">
-          {% if post.category %}<span class="chip chip-{{ post.category }}">{{ site.sections[post.category] | default: post.category }}</span>{% endif %}
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d · %H:%M UTC" }}</time>
-        </p>
-        <h3>{{ post.title }}</h3>
-        {% if post.summary %}<p>{{ post.summary }}</p>{% endif %}
-      </a>
-    </li>
+    <a class="panel card" href="{{ post.url | relative_url }}" data-cat="{{ post.category }}">
+      <div class="meta hud">
+        {% if post.category %}<span class="chip c-{{ post.category }}">{{ site.sections[post.category] | default: post.category }}</span>{% endif %}
+        <time datetime="{{ post.date | date_to_xmlschema }}" data-ago>{{ post.date | date: "%b %-d" }}</time>
+      </div>
+      <h3>{{ post.title }}</h3>
+      {% if post.summary %}<p>{{ post.summary }}</p>{% endif %}
+      <div class="id hud">TX-{{ post.date | date: "%y%m%d-%H%M" }} · {{ post.date | date: "%Y-%m-%d %H:%M UTC" }}</div>
+    </a>
     {% endfor %}
-  </ul>
+  </div>
+  <p class="empty hud" hidden>No transmissions in this channel yet.</p>
 {% endif %}

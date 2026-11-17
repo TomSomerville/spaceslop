@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<article class="article">
-  <p class="meta">
-    {% if page.category %}<span class="chip chip-{{ page.category }}">{{ site.sections[page.category] | default: page.category }}</span>{% endif %}
+<article class="panel article">
+  <div class="meta hud">
+    <span class="flag">▲ Transmission TX-{{ page.date | date: "%y%m%d-%H%M" }}</span>
+    {% if page.category %}<a class="chip c-{{ page.category }}" href="{{ '/' | relative_url }}#{{ page.category }}">{{ site.sections[page.category] | default: page.category }}</a>{% endif %}
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y · %H:%M UTC" }}</time>
-  </p>
+  </div>
   <h1>{{ page.title }}</h1>
   {% if page.summary %}<p class="dek">{{ page.summary }}</p>{% endif %}
   <div class="body">
@@ -13,13 +14,14 @@ layout: default
   </div>
   {% if page.sources %}
   <section class="sources">
-    <h2>Sources</h2>
+    <h2 class="hud">// Signal sources</h2>
     <ul>
       {% for s in page.sources %}
-      <li><a href="{{ s.url }}" rel="noopener">{{ s.name }}</a>{% if s.title %} — {{ s.title }}{% endif %}</li>
+      <li><a href="{{ s.url }}" rel="noopener" target="_blank"><span class="hud">{{ s.name }}</span>{% if s.title %}<span class="src-title">{{ s.title }}</span>{% endif %}</a></li>
       {% endfor %}
     </ul>
   </section>
   {% endif %}
-  <p class="ai-note">Written by AI from the sources above.</p>
+  <p class="ai-note hud">Machine-written by AI from the sources above</p>
 </article>
+<a class="back hud" href="{{ '/' | relative_url }}">← Back to the relay</a>
