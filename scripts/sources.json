@@ -1,25 +1,113 @@
 {
   "rss": [
-    {"name": "SpaceNews", "url": "https://spacenews.com/feed/"},
-    {"name": "NASASpaceflight", "url": "https://www.nasaspaceflight.com/feed/"},
-    {"name": "Spaceflight Now", "url": "https://spaceflightnow.com/feed/"},
-    {"name": "Payload", "url": "https://payloadspace.com/feed/"},
-    {"name": "European Spaceflight", "url": "https://europeanspaceflight.com/feed/"},
-    {"name": "Teslarati (SpaceX)", "url": "https://www.teslarati.com/category/spacex/feed/"},
-    {"name": "Ars Technica Space", "url": "https://arstechnica.com/space/feed/"},
-    {"name": "Space.com", "url": "https://www.space.com/feeds/all"},
-    {"name": "SpacePolicyOnline", "url": "https://spacepolicyonline.com/feed/"},
-    {"name": "NASA News Releases", "url": "https://www.nasa.gov/news-release/feed/"},
-    {"name": "NASA Space Station Blog", "url": "https://www.nasa.gov/blogs/spacestation/feed/"},
-    {"name": "Rocket Lab News", "url": "https://www.rocketlabcorp.com/updates/rss.xml"},
-    {"name": "r/spacex", "url": "https://www.reddit.com/r/spacex/new/.rss"},
-    {"name": "r/SpaceXLounge", "url": "https://www.reddit.com/r/SpaceXLounge/top/.rss?t=day"},
-    {"name": "r/BlueOrigin", "url": "https://www.reddit.com/r/BlueOrigin/new/.rss"},
-    {"name": "r/RocketLab", "url": "https://www.reddit.com/r/RocketLab/new/.rss"},
-    {"name": "r/ula", "url": "https://www.reddit.com/r/ula/new/.rss"},
-    {"name": "r/space (top)", "url": "https://www.reddit.com/r/space/top/.rss?t=day"}
+    {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/feed/"
+    },
+    {
+      "name": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/feed/"
+    },
+    {
+      "name": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/feed/"
+    },
+    {
+      "name": "Payload",
+      "url": "https://payloadspace.com/feed/"
+    },
+    {
+      "name": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/feed/"
+    },
+    {
+      "name": "Teslarati (SpaceX)",
+      "url": "https://www.teslarati.com/category/spacex/feed/"
+    },
+    {
+      "name": "Ars Technica Space",
+      "url": "https://arstechnica.com/space/feed/"
+    },
+    {
+      "name": "Space.com",
+      "url": "https://www.space.com/feeds/all"
+    },
+    {
+      "name": "SpacePolicyOnline",
+      "url": "https://spacepolicyonline.com/feed/"
+    },
+    {
+      "name": "NASA News Releases",
+      "url": "https://www.nasa.gov/news-release/feed/"
+    },
+    {
+      "name": "NASA Space Station Blog",
+      "url": "https://www.nasa.gov/blogs/spacestation/feed/"
+    },
+    {
+      "name": "Rocket Lab News",
+      "url": "https://www.rocketlabcorp.com/updates/rss.xml"
+    }
   ],
   "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",
   "launch_library": "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=15&mode=normal",
-  "launch_library_recent": "https://ll.thespacedevs.com/2.3.0/launches/previous/?limit=25&mode=normal"
+  "launch_library_recent": "https://ll.thespacedevs.com/2.3.0/launches/previous/?limit=25&mode=normal",
+  "google_news": [
+    {
+      "name": "Google News · Launches",
+      "url": "https://news.google.com/rss/search?q=rocket+launch+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · SpaceX",
+      "url": "https://news.google.com/rss/search?q=SpaceX+OR+Starship+OR+%22Falcon+9%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Blue Origin",
+      "url": "https://news.google.com/rss/search?q=%22Blue+Origin%22+OR+%22New+Glenn%22+OR+%22Blue+Moon%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Rocket Lab",
+      "url": "https://news.google.com/rss/search?q=%22Rocket+Lab%22+OR+Neutron+OR+%22Electron+rocket%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · ULA & legacy",
+      "url": "https://news.google.com/rss/search?q=ULA+OR+%22Vulcan+rocket%22+OR+%22Northrop+Grumman%22+Cygnus+OR+Antares+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Stations",
+      "url": "https://news.google.com/rss/search?q=%22space+station%22+OR+Axiom+OR+%22Vast+Space%22+OR+Starlab+OR+%22Orbital+Reef%22+OR+Tiangong+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Spacesuits & EVA",
+      "url": "https://news.google.com/rss/search?q=spacesuit+OR+spacewalk+OR+AxEMU+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Moon",
+      "url": "https://news.google.com/rss/search?q=Artemis+OR+%22lunar+lander%22+OR+%22moon+base%22+OR+%22lunar+surface%22+OR+%22Intuitive+Machines%22+OR+Astrobotic+OR+ispace+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · In-space industry",
+      "url": "https://news.google.com/rss/search?q=%22in-space+manufacturing%22+OR+%22space+manufacturing%22+OR+%22orbital+refueling%22+OR+%22space+tug%22+OR+%22in-orbit+servicing%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Space business",
+      "url": "https://news.google.com/rss/search?q=%22space+startup%22+OR+%22space+company%22+raises+OR+funding+OR+acquisition+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Europe",
+      "url": "https://news.google.com/rss/search?q=Ariane+OR+%22Vega+C%22+OR+%22Isar+Aerospace%22+OR+%22Rocket+Factory+Augsburg%22+OR+MaiaSpace+OR+%22ESA+launcher%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · China & Asia",
+      "url": "https://news.google.com/rss/search?q=%22Long+March%22+OR+LandSpace+OR+%22Space+Pioneer%22+OR+ISRO+OR+Gaganyaan+OR+JAXA+rocket+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Policy",
+      "url": "https://news.google.com/rss/search?q=%22NASA+budget%22+OR+%22Space+Force%22+launch+contract+OR+%22FAA%22+launch+license+OR+%22space+policy%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Firefly/Relativity/Stoke",
+      "url": "https://news.google.com/rss/search?q=Firefly+Aerospace+OR+%22Relativity+Space%22+OR+%22Stoke+Space%22+OR+%22Sierra+Space%22+OR+%22Dream+Chaser%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    }
+  ]
 }

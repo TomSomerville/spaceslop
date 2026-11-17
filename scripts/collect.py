@@ -91,6 +91,7 @@ def parse_feed(name, raw):
                 "url": link,
                 "summary": clean(child_text(el, "encoded", "description")),
                 "published": parse_date(child_text(el, "pubDate", "date")),
+                "outlet": child_text(el, "source"),  # Google News names the real publisher here
             })
         elif kind == "entry":  # Atom
             link = ""
@@ -105,7 +106,12 @@ def parse_feed(name, raw):
                 "published": parse_date(child_text(el, "published", "updated")),
             })
     for i in items:
-        i["source"] = name
+        outlet = i.pop("outlet", "")
+        i["source"] = f"{outlet} (via Google News)" if outlet else name
+        if outlet:
+            # Google News titles end in " - Publisher"; the link is a Google redirect.
+            i["title"] = re.sub(r"\s+-\s+[^-]+$", "", i["title"])
+            i["needs_original_url"] = True
     return items
 
 
@@ -205,6 +211,14 @@ def collect(hours):
     for f in reddit:
         results.append(get_rss(f))
         time.sleep(3)
+    # Google News search feeds: one at a time so Google doesn't throttle us.
+    for f in cfg.get("google_news", []):
+        name, got, err = get_rss(f)
+        got.sort(key=lambda i: i["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+        for i in got:
+            i["summary"] = ""  # Google's summary is just a list of links
+        results.append((name, got[:25], err))
+        time.sleep(1.5)
     for name, got, err in results:
         items += got
         report[name] = err or len(got)

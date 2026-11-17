@@ -69,9 +69,14 @@ def nasa(query, limit):
     out = []
     for item in data.get("collection", {}).get("items", []):
         d = (item.get("data") or [{}])[0]
-        credit = d.get("photographer") or d.get("secondary_creator") or d.get("center") or "NASA"
-        # Only NASA-made media is public domain; skip items credited to companies or other agencies.
-        if re.search(r"spacex|boeing|blue origin|esa|jaxa|roscosmos|getty|ap photo|reuters", str(credit), re.I):
+        credit = str(d.get("photographer") or d.get("secondary_creator") or d.get("center") or "NASA")
+        # Only NASA-made media is public domain. NASA's library also hosts photos made by
+        # companies and other agencies (credited e.g. "Axiom Space" or "SpaceX"); skip any
+        # item whose credit names someone other than NASA or a NASA center.
+        credit_wo_nasa = re.sub(r"\b(nasa|jsc|ksc|msfc|gsfc|jpl|arc|grc|lrc|afrc|ssc|wff)\b|[/,&\s]|johnson|kennedy|marshall|goddard|glenn|langley|ames|armstrong|stennis|space center|flight center|research center", "", credit, flags=re.I)
+        if credit_wo_nasa and not re.fullmatch(r"[A-Z][a-z]+[A-Z][a-z]+|[A-Za-z.\- ]+", credit_wo_nasa):
+            continue
+        if re.search(r"spacex|boeing|blue origin|axiom|lockheed|northrop|sierra|esa\b|jaxa|roscosmos|getty|ap photo|reuters|afp|courtesy", credit, re.I):
             continue
         nasa_id = d.get("nasa_id")
         if not nasa_id:

@@ -47,7 +47,11 @@ its science results are not.
    Upcoming launches in `data/launches.json` within the next ~48 hours with real news
    attached (a scrub, a first flight, a notable payload) can be a story too.
 6. For each story, read the source articles in full with WebFetch (at least one; two or
-   more when available). Use web search when you need context, to confirm a detail, or
+   more when available). Candidates marked `needs_original_url` came from Google News:
+   their `url` is a Google redirect. Find the real article first (web search the exact
+   title plus the outlet name), read that, and cite its real URL. Never cite a
+   news.google.com link. Prefer the original reporter or the company's own press release
+   over aggregators, reposts and social media (Facebook, Yahoo reposts, MSN and the like). Use web search when you need context, to confirm a detail, or
    to find a primary source (company press release, the actual post by an executive on X).
    If you can't read any source for a story, skip that story.
 7. Write the article (format below) to `_posts/`, then **publish it right away**, before
