@@ -16,7 +16,7 @@ sources:
     url: https://www.axiomspace.com/release/axiom-space-completes-nasas-critical-design-review-for-next-generation-spacesuit
 ---
 
-Axiom Space has closed the Critical Design Review for its Axiom Extravehicular Mobility Unit, the AxEMU, the spacesuit NASA is buying to replace its decades-old ISS suits and to put boots back on the Moon. The company announced the milestone on 13 November, calling it a major step toward NASA certifying the suit for flight.
+Axiom Space has closed the Critical Design Review for its Axiom Extravehicular Mobility Unit, the AxEMU, the next-generation suit it is developing for NASA for spacewalks at the ISS and, in a lunar version, on the Moon. The company announced the milestone on 13 November, calling it a major step toward NASA certifying the suit for flight.
 
 ## What CDR actually means here
 
