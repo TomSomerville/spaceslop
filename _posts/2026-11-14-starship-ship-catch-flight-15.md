@@ -11,6 +11,12 @@ sources:
   - name: SpacePolicyOnline
     title: "SpaceX Catches a Starship"
     url: https://spacepolicyonline.com/news/spacex-catches-a-starship/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Tower_%2B_Booster.jpg/1280px-Tower_%2B_Booster.jpg
+  alt: "The Starbase launch mount and tower with Super Heavy Booster 7, March 2023 (archive photo, not Flight 15)"
+  credit: "Jenny Hautmann / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Tower_%2B_Booster.jpg
 ---
 
 SpaceX has caught a Starship upper stage with the launch tower's arms, the first time the second stage of an orbital rocket has come back to its launch site. Ship 42 touched down on the "chopsticks" at Starbase, Texas, at 3:20 p.m. CST on 14 November (2120 UTC), about 22.5 hours after Flight 15 lifted off.
