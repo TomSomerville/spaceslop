@@ -8,6 +8,12 @@ sources:
   - name: NASA
     title: "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston"
     url: https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/
+image:
+  path: https://images-assets.nasa.gov/image/NHQ202610080014/NHQ202610080014~large.jpg
+  alt: "SpaceX Crew Dragon Freedom lands with the Crew-12 astronauts"
+  credit: "NASA/Keegan Barber"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/NHQ202610080014
 ---
 
 NASA will hold a public welcome-home event on 17 November at 6 p.m. CST at the Johnson Space Center visitor center, Space Center Houston, for the returned Expedition 74 crew. Speakers are NASA astronauts Jessica Meir, Jack Hathaway and Chris Williams, ESA astronaut Sophie Adenot and cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. An awards ceremony follows.
