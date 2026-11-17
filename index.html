@@ -7,6 +7,8 @@ layout: default
 {% else %}
   {% assign lead = posts.first %}
   <a class="panel lead" href="{{ lead.url | relative_url }}" data-cat="{{ lead.category }}">
+    {% include cover.html post=lead size="lead" %}
+    <div class="lead-text">
     <div class="meta hud">
       <span class="flag">▲ Priority transmission</span>
       {% if lead.category %}<span class="chip c-{{ lead.category }}">{{ site.sections[lead.category] | default: lead.category }}</span>{% endif %}
@@ -14,10 +16,12 @@ layout: default
     </div>
     <h2>{{ lead.title }}</h2>
     {% if lead.summary %}<p>{{ lead.summary }}</p>{% endif %}
+    </div>
   </a>
   <div class="cards">
     {% for post in posts offset: 1 %}
     <a class="panel card" href="{{ post.url | relative_url }}" data-cat="{{ post.category }}">
+      {% include cover.html post=post size="card" %}
       <div class="meta hud">
         {% if post.category %}<span class="chip c-{{ post.category }}">{{ site.sections[post.category] | default: post.category }}</span>{% endif %}
         <time datetime="{{ post.date | date_to_xmlschema }}" data-ago>{{ post.date | date: "%b %-d" }}</time>
