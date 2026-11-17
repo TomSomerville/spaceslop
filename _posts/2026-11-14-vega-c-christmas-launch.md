@@ -8,6 +8,12 @@ sources:
   - name: European Spaceflight
     title: "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late"
     url: https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vega-C-_launching_Smile_into_space_ESA518186.png/1280px-Vega-C-_launching_Smile_into_space_ESA518186.png
+  alt: "ESA image of a Vega-C rocket launching a satellite from Europe's Spaceport (archive illustration, not the upcoming IRIDE flight)"
+  credit: "European Space Agency / Wikimedia Commons"
+  license: "CC BY-SA 3.0 igo"
+  source_url: https://commons.wikimedia.org/wiki/File:Vega-C-_launching_Smile_into_space_ESA518186.png
 ---
 
 Avio's third Vega C launch of 2026 is drifting toward the holidays. CEO Giulio Ranzo said on the company's third-quarter earnings call on 11 November that it is waiting for the last few customer satellites, which he described as "a little bit late", according to European Spaceflight.
