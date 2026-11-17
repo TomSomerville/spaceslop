@@ -22,7 +22,8 @@ its science results are not.
 
 ## Steps
 
-1. `git pull --rebase` so you start from the latest `main`.
+1. `git checkout -B main origin/main && git pull --rebase origin main` so you are on the
+   `main` branch (the checkout may start as a detached HEAD) with the latest commits.
 2. `python3 scripts/collect.py` (falls back to `python` if needed). This writes
    `data/candidates.json` (new items since the last run) and `data/launches.json`
    (upcoming and recent launches). Some feeds failing is normal; carry on.
@@ -49,11 +50,11 @@ its science results are not.
 9. Commit and push:
    - `git add _posts data/seen.json`
    - `git commit -m "Newsroom: <n> articles"` (or `"Newsroom: no new stories"`)
-   - `git pull --rebase`. Other newsroom runs may overlap with yours. If the pull
+   - `git pull --rebase origin main`. Other newsroom runs may overlap with yours. If the pull
      brought in a post with the same `story_key` as one you just wrote, delete yours
      (`git rm` it and commit). If `data/seen.json` conflicts, keep the union of both
      versions' keys.
-   - `git push`. If the push is rejected, pull with rebase again and retry.
+   - `git push origin main`. If the push is rejected, pull with rebase again and retry.
 
 Only ever change files in `_posts/` and `data/seen.json`. Never edit layouts, config,
 scripts or these instructions.
