@@ -8,6 +8,12 @@ sources:
   - name: European Spaceflight
     title: "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio"
     url: https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vega-C-_launching_Smile_into_space_ESA518186.png/1280px-Vega-C-_launching_Smile_into_space_ESA518186.png
+  alt: "ESA image of a Vega-C rocket, built by Avio, launching from Europe's Spaceport (archive illustration)"
+  credit: "European Space Agency / Wikimedia Commons"
+  license: "CC BY-SA 3.0 igo"
+  source_url: https://commons.wikimedia.org/wiki/File:Vega-C-_launching_Smile_into_space_ESA518186.png
 ---
 
 ICEYE, the Finnish company best known for its fleet of small radar-imaging satellites, has made an all-cash offer to buy Avio, the Italian firm behind the Vega rocket family. The bid, announced on 17 November, is €41 per share, a 21.3% premium over Avio's closing price the day before, and values the company at about €2.05 billion.
