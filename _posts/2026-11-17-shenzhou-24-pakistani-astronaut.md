@@ -8,6 +8,12 @@ sources:
   - name: Space.com
     title: "Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month"
     url: https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Preparation_for_Shenzhou-15_Crewed_Spacecraft.png/1280px-Preparation_for_Shenzhou-15_Crewed_Spacecraft.png
+  alt: "Preparations for a Shenzhou crewed spacecraft launch (archive photo of Shenzhou-15)"
+  credit: "China News Service / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Preparation_for_Shenzhou-15_Crewed_Spacecraft.png
 ---
 
 China's Shenzhou-24 mission will carry a Pakistani astronaut to the Tiangong space station, making them the first foreign visitor to the Chinese outpost. Chinese state media reported on 17 November that the spacecraft and its Long March 2F rocket have been moved to the launch area, according to headlines in our feeds; Chinese authorities have not announced a launch date, and Space.com says the flight is expected before the end of November.
