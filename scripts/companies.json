@@ -1,0 +1,458 @@
+[
+ {
+  "name": "SpaceX",
+  "country": "USA",
+  "region": "North America",
+  "does": "Launch (Falcon 9, Starship), Starlink, Crew Dragon",
+  "news": "https://www.spacex.com/updates",
+  "query": "SpaceX"
+ },
+ {
+  "name": "Blue Origin",
+  "country": "USA",
+  "region": "North America",
+  "does": "Launch (New Glenn, New Shepard), Blue Moon lunar lander",
+  "news": "https://www.blueorigin.com/news",
+  "query": "\"Blue Origin\""
+ },
+ {
+  "name": "Rocket Lab",
+  "country": "USA / New Zealand",
+  "region": "North America",
+  "does": "Launch (Electron, Neutron), spacecraft",
+  "news": "https://rocketlabcorp.gcs-web.com/news",
+  "query": "\"Rocket Lab\""
+ },
+ {
+  "name": "Relativity Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Launch (Terran R)",
+  "news": "https://www.relativityspace.com/updates",
+  "query": "\"Relativity Space\""
+ },
+ {
+  "name": "Firefly Aerospace",
+  "country": "USA",
+  "region": "North America",
+  "does": "Launch (Alpha), Blue Ghost lunar lander",
+  "news": "https://fireflyspace.com/news/",
+  "query": "\"Firefly Aerospace\""
+ },
+ {
+  "name": "Stoke Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Fully reusable launch (Nova)",
+  "news": "https://www.stokespace.com/news",
+  "query": "\"Stoke Space\""
+ },
+ {
+  "name": "Virgin Galactic",
+  "country": "USA",
+  "region": "North America",
+  "does": "Suborbital human spaceflight",
+  "news": "https://www.virgingalactic.com/news",
+  "query": "\"Virgin Galactic\""
+ },
+ {
+  "name": "Axiom Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Commercial space station, private astronaut missions, spacesuits",
+  "news": "https://www.axiomspace.com/news",
+  "query": "\"Axiom Space\""
+ },
+ {
+  "name": "Vast",
+  "country": "USA",
+  "region": "North America",
+  "does": "Commercial space stations (Haven-1, Haven-2)",
+  "news": "https://www.vastspace.com/updates",
+  "query": "\"Vast\" Haven-1 OR \"Vast Space\""
+ },
+ {
+  "name": "Starlab Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Commercial space station (Starlab)",
+  "news": "https://starlab-space.com/news/",
+  "query": "\"Starlab\" space station"
+ },
+ {
+  "name": "Voyager Technologies",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space & defense tech; lead company on Starlab",
+  "news": "https://voyagertechnologies.com/newsroom",
+  "query": "\"Voyager Technologies\""
+ },
+ {
+  "name": "Sierra Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Dream Chaser spaceplane, inflatable habitats",
+  "news": "https://www.sierraspace.com/newsroom/",
+  "query": "\"Sierra Space\" OR \"Dream Chaser\""
+ },
+ {
+  "name": "Gravitics",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space station modules",
+  "news": "https://www.gravitics.com/news",
+  "query": "Gravitics"
+ },
+ {
+  "name": "Intuitive Machines",
+  "country": "USA",
+  "region": "North America",
+  "does": "Lunar landers, lunar data relay",
+  "news": "https://investors.intuitivemachines.com/news-events/latest-news",
+  "query": "\"Intuitive Machines\""
+ },
+ {
+  "name": "Astrobotic",
+  "country": "USA",
+  "region": "North America",
+  "does": "Lunar landers (Griffin) and rovers",
+  "news": "https://www.astrobotic.com/category/press/",
+  "query": "Astrobotic"
+ },
+ {
+  "name": "Lunar Outpost",
+  "country": "USA",
+  "region": "North America",
+  "does": "Lunar rovers",
+  "news": "https://www.lunaroutpost.com/news",
+  "query": "\"Lunar Outpost\""
+ },
+ {
+  "name": "Venturi Astrolab",
+  "country": "USA",
+  "region": "North America",
+  "does": "Lunar rovers (FLEX)",
+  "news": "https://www.astrolab.space/news",
+  "query": "\"Venturi Astrolab\" OR \"Astrolab\" rover"
+ },
+ {
+  "name": "Interlune",
+  "country": "USA",
+  "region": "North America",
+  "does": "Lunar helium-3 extraction",
+  "news": "https://www.interlune.space/news",
+  "query": "Interlune helium-3"
+ },
+ {
+  "name": "Impulse Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "In-space transportation (Mira, Helios)",
+  "news": "https://www.impulsespace.com/updates",
+  "query": "\"Impulse Space\""
+ },
+ {
+  "name": "Varda Space Industries",
+  "country": "USA",
+  "region": "North America",
+  "does": "In-space manufacturing, re-entry capsules",
+  "news": "https://www.varda.com/media",
+  "query": "\"Varda Space\""
+ },
+ {
+  "name": "Inversion Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Re-entry cargo vehicles",
+  "news": "https://www.inversionspace.com/news",
+  "query": "\"Inversion Space\""
+ },
+ {
+  "name": "Redwire",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space infrastructure, components, in-space manufacturing",
+  "news": "https://rdw.com/newsroom/",
+  "query": "Redwire space"
+ },
+ {
+  "name": "Astranis",
+  "country": "USA",
+  "region": "North America",
+  "does": "Small GEO communications satellites",
+  "news": "https://www.astranis.com/newsroom",
+  "query": "Astranis"
+ },
+ {
+  "name": "Apex",
+  "country": "USA",
+  "region": "North America",
+  "does": "Mass-produced satellite buses",
+  "news": "https://www.apexspace.com/news",
+  "query": "\"Apex Space\" OR \"Apex\" satellite bus"
+ },
+ {
+  "name": "True Anomaly",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space security, rendezvous & proximity ops",
+  "news": "https://www.trueanomaly.space/newsroom",
+  "query": "\"True Anomaly\" space"
+ },
+ {
+  "name": "Starfish Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite servicing (Otter)",
+  "news": "https://www.starfishspace.com/news",
+  "query": "\"Starfish Space\""
+ },
+ {
+  "name": "Muon Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Earth-observation satellites",
+  "news": "https://www.muonspace.com/news",
+  "query": "\"Muon Space\""
+ },
+ {
+  "name": "Planet Labs",
+  "country": "USA",
+  "region": "North America",
+  "does": "Earth-imaging constellations",
+  "news": "https://www.planet.com/press/",
+  "query": "\"Planet Labs\""
+ },
+ {
+  "name": "AST SpaceMobile",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space-based cellular broadband",
+  "news": "https://investors.ast-science.com/press-releases",
+  "query": "\"AST SpaceMobile\""
+ },
+ {
+  "name": "Loft Orbital",
+  "country": "USA / France",
+  "region": "North America",
+  "does": "Space infrastructure as a service",
+  "news": "https://www.loftorbital.com/newsroom",
+  "query": "\"Loft Orbital\""
+ },
+ {
+  "name": "MDA Space",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Satellites, space robotics (Canadarm)",
+  "news": "https://mda.space/insights",
+  "query": "\"MDA Space\""
+ },
+ {
+  "name": "Kepler Communications",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Optical data-relay constellation",
+  "news": "https://kepler.space/press-news/",
+  "query": "\"Kepler Communications\""
+ },
+ {
+  "name": "Isar Aerospace",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Launch (Spectrum)",
+  "news": "https://www.isaraerospace.com/newsroom",
+  "query": "\"Isar Aerospace\""
+ },
+ {
+  "name": "Rocket Factory Augsburg",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Launch (RFA One)",
+  "news": "https://www.rfa.space/media/",
+  "query": "\"Rocket Factory Augsburg\" OR \"RFA One\""
+ },
+ {
+  "name": "The Exploration Company",
+  "country": "Germany / France",
+  "region": "Europe",
+  "does": "Nyx cargo/crew capsule",
+  "news": "https://www.exploration.space/blog",
+  "query": "\"The Exploration Company\" OR \"Nyx capsule\""
+ },
+ {
+  "name": "ATMOS Space Cargo",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Re-entry cargo capsules",
+  "news": "https://www.atmos-space-cargo.com/updates-archive",
+  "query": "\"ATMOS Space Cargo\""
+ },
+ {
+  "name": "PLD Space",
+  "country": "Spain",
+  "region": "Europe",
+  "does": "Launch (Miura 5, Miura 9)",
+  "news": "https://www.pldspace.com/en/news",
+  "query": "\"PLD Space\" OR \"Miura 5\""
+ },
+ {
+  "name": "MaiaSpace",
+  "country": "France",
+  "region": "Europe",
+  "does": "Reusable launch vehicle",
+  "news": "https://www.maia-space.com/our-news",
+  "query": "MaiaSpace"
+ },
+ {
+  "name": "D-Orbit",
+  "country": "Italy",
+  "region": "Europe",
+  "does": "Orbital transfer (ION Satellite Carrier)",
+  "news": "https://www.dorbit.space/press",
+  "query": "\"D-Orbit\""
+ },
+ {
+  "name": "ClearSpace",
+  "country": "Switzerland",
+  "region": "Europe",
+  "does": "Space debris removal",
+  "news": "https://clearspace.today/news/",
+  "query": "ClearSpace debris"
+ },
+ {
+  "name": "Skyrora",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Launch (Skyrora XL)",
+  "news": "https://www.skyrora.com/blog",
+  "query": "Skyrora"
+ },
+ {
+  "name": "Orbex",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Launch (Prime)",
+  "news": "https://orbex.space/news",
+  "query": "Orbex rocket"
+ },
+ {
+  "name": "Space Forge",
+  "country": "UK",
+  "region": "Europe",
+  "does": "In-space manufacturing (ForgeStar)",
+  "news": "https://www.spaceforge.com/updates",
+  "query": "\"Space Forge\" OR ForgeStar"
+ },
+ {
+  "name": "ispace",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Lunar landers",
+  "news": "https://ispace-inc.com/news",
+  "query": "ispace lunar"
+ },
+ {
+  "name": "Astroscale",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Debris removal, satellite servicing",
+  "news": "https://astroscale.com/en/news",
+  "query": "Astroscale"
+ },
+ {
+  "name": "Interstellar Technologies",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Launch (ZERO)",
+  "news": "https://www.istellartech.com/news",
+  "query": "\"Interstellar Technologies\""
+ },
+ {
+  "name": "Space One",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "does": "Launch (KAIROS)",
+  "news": "https://www.space-one.co.jp/news/",
+  "query": "\"Space One\" KAIROS"
+ },
+ {
+  "name": "Skyroot Aerospace",
+  "country": "India",
+  "region": "Asia-Pacific",
+  "does": "Launch (Vikram)",
+  "news": "https://skyroot.in/newsroom",
+  "query": "\"Skyroot Aerospace\" OR \"Vikram-1\""
+ },
+ {
+  "name": "Agnikul Cosmos",
+  "country": "India",
+  "region": "Asia-Pacific",
+  "does": "Launch (Agnibaan), 3D-printed engines",
+  "news": "https://agnikul.in/media",
+  "query": "Agnikul"
+ },
+ {
+  "name": "Pixxel",
+  "country": "India",
+  "region": "Asia-Pacific",
+  "does": "Hyperspectral Earth imaging",
+  "news": "https://www.pixxel.space/newsroom",
+  "query": "Pixxel"
+ },
+ {
+  "name": "LandSpace",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "does": "Launch (Zhuque-2, Zhuque-3)",
+  "news": "https://www.landspace.com/news.html",
+  "query": "LandSpace OR Zhuque-3"
+ },
+ {
+  "name": "Galactic Energy",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "does": "Launch (Ceres-1, Pallas-1)",
+  "news": "https://www.galactic-energy.cn/",
+  "query": "\"Galactic Energy\" OR \"Ceres-1\""
+ },
+ {
+  "name": "Dawn Aerospace",
+  "country": "New Zealand",
+  "region": "Asia-Pacific",
+  "does": "Suborbital spaceplane, satellite propulsion",
+  "news": "https://www.dawnaerospace.com/blog",
+  "query": "\"Dawn Aerospace\""
+ },
+ {
+  "name": "ESA Newsroom",
+  "country": "Europe",
+  "region": "Agency",
+  "does": "European Space Agency press releases",
+  "news": "https://www.esa.int/Newsroom/Press_Releases",
+  "query": "\"European Space Agency\" OR ESA launcher OR ESA astronaut"
+ },
+ {
+  "name": "ESA Space Transportation",
+  "country": "Europe",
+  "region": "Agency",
+  "does": "ESA launchers (Ariane 6, Vega-C) and future transport",
+  "news": "https://www.esa.int/Enabling_Support/Space_Transportation",
+  "query": "\"Ariane 6\" OR \"Vega-C\" OR \"ESA launcher\""
+ },
+ {
+  "name": "ESA Human & Robotic Exploration",
+  "country": "Europe",
+  "region": "Agency",
+  "does": "ESA astronauts, ISS, Moon and Mars exploration",
+  "news": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration",
+  "query": "\"ESA astronaut\" OR \"Argonaut\" lunar OR \"European Service Module\""
+ },
+ {
+  "name": "NASA News",
+  "country": "USA",
+  "region": "Agency",
+  "does": "NASA news releases and announcements",
+  "news": "https://www.nasa.gov/news/",
+  "query": "NASA Artemis OR \"NASA contract\" OR \"NASA announces\""
+ }
+]

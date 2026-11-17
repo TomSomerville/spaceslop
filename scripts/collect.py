@@ -17,6 +17,7 @@ import json
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -25,6 +26,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 DATA = ROOT / "data"
 SOURCES = ROOT / "scripts" / "sources.json"
 SEEN = DATA / "seen.json"
@@ -196,7 +198,7 @@ def mark_seen():
     print(f"Marked {len(cands)} candidates as seen ({len(seen)} tracked).")
 
 
-def collect(hours):
+def collect(hours, dry_run=False):
     cfg = json.loads(SOURCES.read_text(encoding="utf-8"))
     seen = load_json(SEEN, {})
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
@@ -222,6 +224,29 @@ def collect(hours):
     for name, got, err in results:
         items += got
         report[name] = err or len(got)
+
+    # Every company/agency on the watch list: one Google News search per small group of
+    # names, plus a direct check of each official news page for new posts.
+    companies = json.loads((ROOT / "scripts" / "companies.json").read_text(encoding="utf-8"))
+    queries = [c["query"] for c in companies]
+    for n in range(0, len(queries), 5):
+        q = " OR ".join(f"({x})" for x in queries[n:n + 5]) + " when:2d"
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": "en-US", "gl": "US", "ceid": "US:en"})
+        label = "Google News · companies: " + ", ".join(c["name"] for c in companies[n:n + 5])
+        name, got, err = get_rss({"name": label, "url": url})
+        for i in got:
+            i["summary"] = ""
+        got.sort(key=lambda i: i["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+        items += got[:30]
+        report[label] = err or len(got)
+        time.sleep(1.5)
+    try:
+        import newsrooms
+        watched, nr_report = newsrooms.watch(update_state=not dry_run)
+        items += watched
+        report.update(nr_report)
+    except Exception as e:
+        report["Company newsrooms"] = f"{type(e).__name__}: {e}"
 
     for label, fn, url in [("Spaceflight News API", get_snapi, cfg.get("spaceflight_news_api"))]:
         if not url:
@@ -268,15 +293,17 @@ def collect(hours):
 
     print(f"{len(fresh)} new candidates from {len(items)} items (lookback {hours}h).")
     for name, r in report.items():
-        print(f"  {'FAIL' if isinstance(r, str) else 'ok  '} {name}: {r}")
+        bad = isinstance(r, str) and not re.match(r"^(baselined|\d+ \()", r)
+        print(f"  {'FAIL' if bad else 'ok  '} {name}: {r}")
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--hours", type=int, default=36)
     ap.add_argument("--mark-seen", action="store_true")
+    ap.add_argument("--dry-run", action="store_true", help="don't update newsroom baselines")
     a = ap.parse_args()
     if a.mark_seen:
         mark_seen()
     else:
-        collect(a.hours)
+        collect(a.hours, a.dry_run)

@@ -47,6 +47,30 @@
     {
       "name": "Rocket Lab News",
       "url": "https://www.rocketlabcorp.com/updates/rss.xml"
+    },
+    {
+      "name": "NASA (all news)",
+      "url": "https://www.nasa.gov/feed/"
+    },
+    {
+      "name": "NASA Missions blog",
+      "url": "https://www.nasa.gov/blogs/missions/feed/"
+    },
+    {
+      "name": "NASA Artemis blog",
+      "url": "https://www.nasa.gov/blogs/artemis/feed/"
+    },
+    {
+      "name": "NASA Commercial Crew blog",
+      "url": "https://www.nasa.gov/blogs/commercialcrew/feed/"
+    },
+    {
+      "name": "NASA Technology",
+      "url": "https://www.nasa.gov/technology/feed/"
+    },
+    {
+      "name": "ESA Top News",
+      "url": "https://www.esa.int/rssfeed/TopNews"
     }
   ],
   "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",
