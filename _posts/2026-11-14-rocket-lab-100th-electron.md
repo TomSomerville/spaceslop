@@ -11,6 +11,12 @@ sources:
   - name: Finviz (press release copy)
     title: "Rocket Lab Hits 100 Electron Launches, Fastest Commercial Rocket to Reach the Milestone"
     url: https://finviz.com/news/422837/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket-to-reach-the-milestone
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Rocket_Lab_PREFIRE_and_Ice_Launch_%28KSC-20240605-PH-RKL01_0005%29.jpg/1280px-Rocket_Lab_PREFIRE_and_Ice_Launch_%28KSC-20240605-PH-RKL01_0005%29.jpg
+  alt: "An Electron rocket lifts off from Launch Complex 1 in Māhia, New Zealand (2024 archive photo of the PREFIRE mission, not the 100th flight)"
+  credit: "NASA Kennedy Space Center / Rocket Lab / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE_and_Ice_Launch_(KSC-20240605-PH-RKL01_0005).jpg
 ---
 
 Rocket Lab launched its 100th Electron on 14 November, a mission it named "The Mountain God Rises". The rocket left Launch Complex 1 in New Zealand that evening and placed YAMATSUMI-II, a synthetic aperture radar imaging satellite for Japan's iQPS, into a 575-kilometer low Earth orbit.
