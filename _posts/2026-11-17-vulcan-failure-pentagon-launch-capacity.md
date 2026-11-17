@@ -4,6 +4,12 @@ date: 2026-11-17 19:00:00 +0000
 summary: "ULA's loss of 40 Amazon Leo satellites came after a nine-month grounding, leaving the Space Force leaning on SpaceX for its most sensitive missions."
 category: policy
 story_key: vulcan-nssl-implications
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20210826-PH-KLS01_0073/KSC-20210826-PH-KLS01_0073~large.jpg
+  alt: "Archive photo: a Vulcan Centaur pathfinder test article at Space Launch Complex 41 in August 2021"
+  credit: "NASA/Kim Shiflett"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20210826-PH-KLS01_0073
 sources:
   - name: Payload
     title: "ULA Vulcan Anomaly Has Pentagon Implications"
