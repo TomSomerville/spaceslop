@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:40:35+00:00",
+ "updated": "2026-11-17T19:55:24+00:00",
  "upcoming": [
   {
    "name": "Long March 2D | Unknown Payload",
@@ -31,8 +31,8 @@
   },
   {
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "net": "2026-11-23T00:00:00Z",
-   "status": "To Be Determined",
+   "net": "2026-11-23T11:09:00Z",
+   "status": "Go for Launch",
    "provider": "Arianespace",
    "location": "Guiana Space Centre, French Guiana"
   },
