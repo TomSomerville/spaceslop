@@ -13,7 +13,8 @@
   "region": "North America",
   "does": "Launch (New Glenn, New Shepard), Blue Moon lunar lander",
   "news": "https://www.blueorigin.com/news",
-  "query": "\"Blue Origin\""
+  "query": "\"Blue Origin\" OR \"New Glenn\" OR \"New Shepard\" OR \"Blue Moon\" lander OR \"BE-4\"",
+  "priority": true
  },
  {
   "name": "Rocket Lab",

@@ -29,6 +29,12 @@ its science results are not.
    (upcoming and recent launches). Some feeds failing is normal; carry on.
 3. Read both files. Also list `_posts/` and read the titles and `story_key` of posts
    from the last 4 days, so you don't repeat a story that's already covered.
+   **Priority companies (every run, never skip):** companies marked `"priority": true` in
+   `scripts/companies.json` (currently Blue Origin). Candidates from them carry a
+   `priority` field. Also, every run: web search `"<company>" news` for the last 24 hours
+   and try their official news page once with WebFetch (if it refuses, move on; never try
+   to get around a block). Any new, in-scope story about a priority company that isn't
+   already on the site must be written this run, ahead of the 6-story limit.
    **Web sweep (every run):** feeds lag behind breaking news, so also do 3 quick web
    searches for space-industry news from the last 12 hours, for example
    `"rocket launch" news today`, `SpaceX OR "Blue Origin" OR "Rocket Lab" news`, and

@@ -240,6 +240,27 @@ def collect(hours, dry_run=False):
         items += got[:30]
         report[label] = err or len(got)
         time.sleep(1.5)
+    # Priority companies (see "priority" in companies.json): a dedicated Google News search
+    # and a Spaceflight News API search every run, so they can never be crowded out.
+    for c in [c for c in companies if c.get("priority")]:
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": c["query"] + " when:1d", "hl": "en-US", "gl": "US", "ceid": "US:en"})
+        name, got, err = get_rss({"name": f"Google News · PRIORITY {c['name']}", "url": url})
+        for i in got:
+            i["summary"] = ""
+            i["priority"] = c["name"]
+        items += got
+        report[name] = err or len(got)
+        time.sleep(1.5)
+        try:
+            api = "https://api.spaceflightnewsapi.net/v4/articles/?" + urllib.parse.urlencode({"search": c["name"], "limit": 30, "ordering": "-published_at"})
+            got = get_snapi(api, cutoff)
+            for i in got:
+                i["priority"] = c["name"]
+            items += got
+            report[f"Spaceflight News API · PRIORITY {c['name']}"] = len(got)
+        except Exception as e:
+            report[f"Spaceflight News API · PRIORITY {c['name']}"] = f"{type(e).__name__}: {e}"
+
     try:
         import newsrooms
         watched, nr_report = newsrooms.watch(update_state=not dry_run)
