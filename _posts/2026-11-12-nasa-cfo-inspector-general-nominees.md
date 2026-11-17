@@ -8,6 +8,12 @@ sources:
   - name: SpaceNews
     title: "Senate committee takes up nominees for NASA chief financial officer and inspector general"
     url: https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-insp
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg
+  alt: "NASA Headquarters building at 300 E Street SW in Washington, D.C."
+  credit: "NASA / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:NASA_HQ_Building.jpg
 ---
 
 The Senate Commerce Committee held a hearing on 10 November on Joshua Shoemaker, nominated as NASA's chief financial officer, and Robert Steinau, nominated as inspector general. SpaceNews reports that senators asked few questions, and most of the attention in the just-over-an-hour session went to Danielle Thumann, nominated to the FCC. The committee plans to vote on the nominees on 18 November before they go to the full Senate.
