@@ -88,7 +88,9 @@ Article body in Markdown.
   `industry`, `policy`.
 - `story_key`: a stable slug for the underlying story (for example `starship-flight-15`,
   `iceye-avio-bid`). Reuse the same key for follow-up articles on the same story.
-- `sources`: every source you actually used, original publisher first. Only include
+- `sources`: every source you actually used, original publisher first. Copy each URL
+  exactly and in full from the candidate data or the page you fetched; never shorten it.
+  Only include
   URLs you actually read or that appear in the candidate data.
 
 ## Writing rules

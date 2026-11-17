@@ -7,7 +7,7 @@ story_key: vulcan-leo-1-failure
 sources:
   - name: Spaceflight Now
     title: "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    url: https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-
+    url: https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/
 ---
 
 United Launch Alliance lost a Vulcan rocket and its 40 Amazon Leo satellites on 15 November, the first total mission failure in the company's history since it was formed by Boeing and Lockheed Martin in 2006. The launch left Space Launch Complex 41 at Cape Canaveral at 12:40 p.m. EST. ULA said the vehicle "suffered an anomaly 10 minutes into the flight."
