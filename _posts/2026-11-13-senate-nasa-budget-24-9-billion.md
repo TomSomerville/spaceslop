@@ -8,6 +8,12 @@ sources:
   - name: SpacePolicyOnline
     title: "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027"
     url: https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/1280px-Artemis_I_Launch_%28NHQ202211160017%29.jpg
+  alt: "NASA's SLS rocket with Orion launches on the Artemis I flight test in November 2022 (archive photo)"
+  credit: "Joel Kowsky / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160017).jpg
 ---
 
 The Senate Appropriations Committee's Commerce-Justice-Science subcommittee released its fiscal 2027 bill on 12 November, proposing $24.874 billion for NASA. That is a little above the $24.438 billion enacted for FY2026 and well above the $18.8 billion the administration asked for. The House Appropriations Committee approved $24.4 billion in May on a party-line vote, so both chambers have now rejected the deep cuts in the request.
