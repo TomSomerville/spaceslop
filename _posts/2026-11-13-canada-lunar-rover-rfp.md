@@ -8,6 +8,12 @@ sources:
   - name: Payload
     title: "Canadian Lunar Rovers Ready for Next Phase—And An Earlier Launch"
     url: https://payloadspace.com/canadian-lunar-rovers-ready-for-next-phase-and-an-earlier-launch/
+image:
+  path: https://images-assets.nasa.gov/image/KSC-2012-3285/KSC-2012-3285~large.jpg
+  alt: "Artemis Jr. prototype lunar rover with a Canadian Space Agency contractor team at Kennedy Space Center, 2012 (archive photo)"
+  credit: "KSC / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-2012-3285
 ---
 
 Canada's lunar utility rover program is speeding up. Payload reports that the Canadian Space Agency (CSA) has, at least for now, set aside the four-ton rover it planned for 2034 and asked industry to design a two-ton vehicle that could arrive roughly three to four years earlier.
