@@ -47,7 +47,11 @@ its science results are not.
    Upcoming launches in `data/launches.json` within the next ~48 hours with real news
    attached (a scrub, a first flight, a notable payload) can be a story too.
 6. For each story, read the source articles in full with WebFetch (at least one; two or
-   more when available). Candidates marked `needs_original_url` came from Google News:
+   more when available). Candidates whose source ends in `newsroom` are new posts on a
+   company's or agency's own official news page (see `scripts/companies.json`); their
+   title may be rough. They are primary sources: read the post itself, and if it's real
+   news in scope, it's a strong candidate even if no outlet has covered it yet.
+   Candidates marked `needs_original_url` came from Google News:
    their `url` is a Google redirect. Find the real article first (web search the exact
    title plus the outlet name), read that, and cite its real URL. Never cite a
    news.google.com link. Prefer the original reporter or the company's own press release
@@ -63,7 +67,8 @@ its science results are not.
    - `git push origin main`. If the push is rejected, pull with rebase again and retry.
 8. When all stories are done, `python3 scripts/collect.py --mark-seen` so these
    candidates aren't considered again. Do this even when you published nothing.
-9. Push the seen list and launch board: `git add data/seen.json assets/launches.json`, `git commit -m "Newsroom: mark seen"`,
+9. Push the seen list, newsroom tracking and launch board:
+   `git add data/seen.json data/newsroom_seen.json assets/launches.json`, `git commit -m "Newsroom: mark seen"`,
    then pull with rebase and push as in step 7. If `data/seen.json` conflicts, keep the
    union of both versions' keys.
 10. **Image catch-up (required every run, even when you published nothing).** Run
@@ -72,7 +77,7 @@ its science results are not.
     front matter. Commit and push after each one (`"Newsroom: add image to <slug>"`), as in
     step 7. If no suitable image exists for a post, leave it; it shows generated cover art.
 
-Only ever change files in `_posts/`, `assets/img/`, `assets/launches.json` and `data/seen.json`. Never edit layouts, config,
+Only ever change files in `_posts/`, `assets/img/`, `assets/launches.json`, `data/seen.json` and `data/newsroom_seen.json`. Never edit layouts, config,
 scripts or these instructions.
 
 ## Article format
