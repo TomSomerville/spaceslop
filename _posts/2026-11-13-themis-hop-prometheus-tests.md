@@ -8,6 +8,12 @@ sources:
   - name: European Spaceflight
     title: "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations"
     url: https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Th%C3%A9mis_on_stand_1.jpg/1280px-Th%C3%A9mis_on_stand_1.jpg
+  alt: "The Themis reusable-rocket demonstrator on a test stand (ESA archive photo)"
+  credit: "ESA / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Th%C3%A9mis_on_stand_1.jpg
 ---
 
 Europe's Themis reusable-rocket demonstrator is still waiting for its first hop, and ESA says recent engine tests do not change that. European Spaceflight reports that ESA and ArianeGroup confirmed hot-fire tests of the Prometheus engine on 29 October at DLR's P5 bench in Lampoldshausen were "conducted independently of Themis flight preparations", in ArianeGroup's words. ArianeGroup announced the completion on 6 November.
