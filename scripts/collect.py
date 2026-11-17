@@ -30,6 +30,7 @@ SOURCES = ROOT / "scripts" / "sources.json"
 SEEN = DATA / "seen.json"
 CANDIDATES = DATA / "candidates.json"
 LAUNCHES = DATA / "launches.json"
+PUBLIC_LAUNCHES = ROOT / "assets" / "launches.json"
 
 UA = "SpaceSlopBot/1.0 (+https://spaceslop.beached.lol)"
 TIMEOUT = 20
@@ -246,6 +247,10 @@ def collect(hours):
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     save_json(CANDIDATES, {"collected_at": now, "lookback_hours": hours, "sources": report, "items": fresh})
     save_json(LAUNCHES, {"collected_at": now, **launches})
+    # Public copy for the site's launch board (served from our own domain).
+    if launches.get("upcoming"):
+        board = [{k: l.get(k) for k in ("name", "net", "status", "provider", "location")} for l in launches["upcoming"]]
+        save_json(PUBLIC_LAUNCHES, {"updated": now, "upcoming": board})
 
     print(f"{len(fresh)} new candidates from {len(items)} items (lookback {hours}h).")
     for name, r in report.items():

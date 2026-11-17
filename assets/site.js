@@ -31,24 +31,38 @@
     return `${Math.round(h / 24)}d ago`;
   }
 
-  // Next launch from Launch Library 2, cached for 30 minutes per visitor.
+  // Next launch: first from our own /assets/launches.json (refreshed by every newsroom
+  // run), then from Launch Library 2 directly. Each request gives up after 8 seconds.
   let launch = null;
+  async function getJSON(url) {
+    const ctl = new AbortController();
+    const timer = setTimeout(() => ctl.abort(), 8000);
+    try {
+      const r = await fetch(url, { signal: ctl.signal, cache: "no-cache" });
+      if (!r.ok) throw new Error(r.status);
+      return await r.json();
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+  const pickNext = (list) => (list || []).find((l) => l && l.net && new Date(l.net) > Date.now() - 3600000);
   async function loadLaunch() {
     try {
       const c = JSON.parse(sessionStorage.getItem("ss-next-launch") || "null");
-      if (c && Date.now() - c.t < 1800000) return c.v;
+      if (c && Date.now() - c.t < 900000 && new Date(c.v.net) > Date.now() - 3600000) return c.v;
     } catch (e) {}
+    let next = null;
     try {
-      const r = await fetch("https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=3&mode=list");
-      if (!r.ok) throw new Error(r.status);
-      const d = await r.json();
-      const next = (d.results || []).find((l) => new Date(l.net) > Date.now() - 3600000) || d.results[0];
-      const v = { name: next.name, net: next.net };
-      try { sessionStorage.setItem("ss-next-launch", JSON.stringify({ t: Date.now(), v })); } catch (e) {}
-      return v;
-    } catch (e) {
-      return null;
+      const base = document.querySelector('link[rel="stylesheet"][href*="style.css"]').getAttribute("href").split("/assets/")[0];
+      next = pickNext((await getJSON(base + "/assets/launches.json")).upcoming);
+    } catch (e) {}
+    if (!next) {
+      try { next = pickNext((await getJSON("https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=5&mode=list")).results); } catch (e) {}
     }
+    if (!next) return null;
+    const v = { name: next.name, net: next.net };
+    try { sessionStorage.setItem("ss-next-launch", JSON.stringify({ t: Date.now(), v })); } catch (e) {}
+    return v;
   }
   loadLaunch().then((l) => {
     launch = l;

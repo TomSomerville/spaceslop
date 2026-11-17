@@ -53,7 +53,7 @@ its science results are not.
    - `git push origin main`. If the push is rejected, pull with rebase again and retry.
 8. When all stories are done, `python3 scripts/collect.py --mark-seen` so these
    candidates aren't considered again. Do this even when you published nothing.
-9. Push the seen list: `git add data/seen.json`, `git commit -m "Newsroom: mark seen"`,
+9. Push the seen list and launch board: `git add data/seen.json assets/launches.json`, `git commit -m "Newsroom: mark seen"`,
    then pull with rebase and push as in step 7. If `data/seen.json` conflicts, keep the
    union of both versions' keys.
 
