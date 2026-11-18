@@ -28,7 +28,7 @@ The nonprofit says it has trained more than 800 teachers, reaching an estimated 
 
 ## Why it matters
 
-For Virgin Galactic, which has been out of service between its older SpaceShipTwo era and the new ship, research and education flights are a way to show demand beyond individual ticket buyers before commercial service resumes. Mike Moses, president of Spaceline at Virgin Galactic, said the company's mission is "to fly people whose work in space will make a difference back on Earth."
+Mike Moses, president of Spaceline at Virgin Galactic, said the company's mission is "to fly people whose work in space will make a difference back on Earth."
 
 Liz Kennick, CEO of Teachers in Space, said that "putting a teacher in space is the natural evolution of our program."
 
