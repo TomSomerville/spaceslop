@@ -27,4 +27,4 @@ This is a launch company's home-base politics colliding with its pivot to power 
 
 The local politics are also not simple. Yahoo Finance notes that voters rejected data centers in 40 of 41 local ballot measures, and that Texas governor-elect Gina Hinojosa has said she would ban new data center projects until lawmakers pass rules. It adds that a city vote would not override a state ban or the state air permit.
 
-SpaceX's earlier county tax abatements have lapsed, so this is the first test of whether the county will extend fresh incentives to a company that is now far larger than when it first set up in Boca Chica. The company's response to the county's vote, beyond the commission's action itself, was not available in the sources used for this report. The next real signal is the Starbase commission's December 9 meeting.
+The next real signal is the Starbase commission's December 9 meeting.
