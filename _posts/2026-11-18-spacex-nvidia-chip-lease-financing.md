@@ -11,6 +11,12 @@ sources:
   - name: 24/7 Wall St.
     title: "SpaceX Rises 3% on Report of $4 Billion Bond Sale to Fund NVIDIA Chips; Rocket Lab Falls 3%, AST SpaceMobile Slides 2%"
     url: https://247wallst.com/investing/2026/11/17/spacex-rises-3-on-report-of-4-billion-bond-sale-to-fund-nvidia-chips-rocket-lab-falls-3-ast-spacemobile-slides-2/
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg
+  alt: "Archive photo of a SpaceX Falcon 9 on a Starlink mission"
+  credit: "Official SpaceX Photos / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg
 ---
 
 SpaceX is financing a very large pile of Nvidia chips through an off-balance-sheet lease, and the debt behind it may reach investors this week. Yahoo Finance, drawing on Bloomberg reporting, says Goldman Sachs and Apollo Global Management could begin selling pieces of the financing as soon as the week of 17 November.
