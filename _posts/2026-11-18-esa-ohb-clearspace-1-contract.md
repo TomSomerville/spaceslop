@@ -11,6 +11,12 @@ sources:
   - name: ESA
     title: "ClearSpace-1"
     url: https://www.esa.int/Space_Safety/ClearSpace-1
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Satellites_vs_Debris_ESA23139354.jpg/1280px-Satellites_vs_Debris_ESA23139354.jpg
+  alt: "ESA illustration of satellites and debris in Earth orbit (generic, not the ClearSpace-1 mission)"
+  credit: "European Space Agency / Wikimedia Commons"
+  license: "CC BY-SA 3.0 igo"
+  source_url: https://commons.wikimedia.org/wiki/File:Satellites_vs_Debris_ESA23139354.jpg
 ---
 
 OHB System AG signed a contract with the European Space Agency on Tuesday to build ClearSpace-1, the mission meant to find, grab and bring down a defunct satellite that is not cooperating. According to Tech Times, the deal was signed at Space Tech Expo in Bremen and is worth €102 million (about $112 million). Launch has moved out to roughly 2030.
