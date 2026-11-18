@@ -11,6 +11,12 @@ sources:
   - name: MarketScreener
     title: "Milan Stock Exchange: Avio rises and narrows discount to Iceye's takeover offer, Equita sees good chances under Golden Power"
     url: https://www.marketscreener.com/news/milan-stock-exchange-avio-rises-and-narrows-discount-to-iceye-s-takeover-offer-equita-sees-good-ch-ce785eddd88df320
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vega-C-_launching_Smile_into_space_ESA518186.png/1280px-Vega-C-_launching_Smile_into_space_ESA518186.png
+  alt: "ESA image of a Vega-C rocket, built by Avio, launching from Europe's Spaceport (archive illustration)"
+  credit: "European Space Agency / Wikimedia Commons"
+  license: "CC BY-SA 3.0 igo"
+  source_url: https://commons.wikimedia.org/wiki/File:Vega-C-_launching_Smile_into_space_ESA518186.png
 ---
 
 A day after ICEYE launched its all-cash bid for Avio, the Italian government has made clear it intends to weigh in. Defense Minister Guido Crosetto said the state's golden-power rules, which let Rome block or attach conditions to foreign takeovers of strategic assets, will apply to the offer, according to reports of his remarks on 18 November.
