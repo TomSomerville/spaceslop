@@ -4,6 +4,12 @@ date: 2026-11-18 09:30:00 +0000
 summary: "The in-space manufacturing company says it has bought a launch from MaiaSpace for its first commercial mission, giving Europe's still-unflown Maia a new customer."
 category: manufacturing
 story_key: space-cargo-unlimited-maiaspace
+image:
+  path: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BentoBox_de_Space_Cargo_Unlimited_dans_la_capsule_Phoenix_d%27Atmos_Space_Cargo_au_Salon_du_Bourget_2025.jpg/1280px-BentoBox_de_Space_Cargo_Unlimited_dans_la_capsule_Phoenix_d%27Atmos_Space_Cargo_au_Salon_du_Bourget_2025.jpg"
+  alt: "Archive photo of a Space Cargo Unlimited BentoBox inside Atmos Space Cargo's Phoenix capsule at Le Bourget 2025"
+  credit: "Artvill / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: "https://commons.wikimedia.org/wiki/File:BentoBox_de_Space_Cargo_Unlimited_dans_la_capsule_Phoenix_d%27Atmos_Space_Cargo_au_Salon_du_Bourget_2025.jpg"
 sources:
   - name: MaiaSpace
     title: "Space Cargo Unlimited selects Maia to support its space manufacturing ambition"
