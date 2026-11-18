@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:25:02+00:00",
+ "updated": "2026-11-18T08:40:27+00:00",
  "upcoming": [
   {
    "name": "Long March 2D | Unknown Payload",
@@ -17,8 +17,8 @@
   },
   {
    "name": "Long March 8A | SatNet LEO Group TBD?",
-   "net": "2026-11-20T11:00:00Z",
-   "status": "To Be Confirmed",
+   "net": "2026-11-20T11:59:00Z",
+   "status": "Go for Launch",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Wenchang Space Launch Site, People's Republic of China"
   },
