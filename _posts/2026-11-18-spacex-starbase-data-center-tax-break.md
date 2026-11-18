@@ -11,6 +11,12 @@ sources:
   - name: Yahoo Finance
     title: "SpaceX Wants a Tax Break for a $24 Billion Gas Plant and Supercomputer at Starbase"
     url: https://finance.yahoo.com/economy/policy/articles/spacex-wants-tax-break-24-152348184.html
+image:
+  path: https://images-assets.nasa.gov/image/iss072e220043/iss072e220043~large.jpg
+  alt: "Archive photo: the plume of Starship's sixth flight test from Starbase, seen from the International Space Station in November 2024"
+  credit: "NASA/Don Pettit"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/iss072e220043
 ---
 
 Cameron County commissioners in South Texas turned down SpaceX's request for a property tax incentive on Tuesday, stalling the company's plan for a roughly $24 billion natural gas power plant and data center next to Starbase. According to the RGV Business Journal, the vote was unusually split, and it came after several hours of discussion in executive session. Commissioners also voted against giving public notice for a hearing on the deal, which had been set for December 29. Local outlet ValleyCentral reported the tally as 3–2 against.
