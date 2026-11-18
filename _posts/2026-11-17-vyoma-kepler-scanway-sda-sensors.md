@@ -11,6 +11,12 @@ sources:
   - name: Kepler Communications
     title: "Vyoma signs contracts with Kepler and Scanway to scale up its space-based space surveillance capabilities by 2028"
     url: https://kepler.space/vyoma-signs-contracts-with-kepler-and-scanway-to-scale-up-its-space-based-space-surveillance-capabilities-by-2028/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/KIPP_-_Kepler%27s_1st_demo_satellite.jpg/1280px-KIPP_-_Kepler%27s_1st_demo_satellite.jpg
+  alt: "KIPP, Kepler Communications' first demonstration satellite (archive image)"
+  credit: "Victoriaenlanet / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:KIPP_-_Kepler%27s_1st_demo_satellite.jpg
 ---
 
 Vyoma, the Munich space domain awareness company, has signed contracts with Toronto-based Kepler Communications and Polish optics firm Scanway to put its surveillance sensors on ten of Kepler's Tranche 2 satellites. The announcement came on 17 November.
