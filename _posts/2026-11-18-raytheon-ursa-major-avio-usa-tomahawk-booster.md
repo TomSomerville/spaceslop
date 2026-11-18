@@ -8,6 +8,12 @@ sources:
   - name: Ursa Major
     title: "Raytheon Awards Ursa Major and Avio USA a Joint Contract to Develop Solid Rocket Motors for the U.S. Navy's Tactical Tomahawk Missile Program"
     url: https://ursamajor.com/media/press-release/raytheon-awards-ursa-major-and-avio-usa-a-joint-contract-to-develop-solid-rocket-motors-for-the-u-s-navys-tactical-tomahawk-m/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Tomahawk_Missle_Launch_DVIDS379867.jpg/1280px-Tomahawk_Missle_Launch_DVIDS379867.jpg
+  alt: "Archive photo of a Tomahawk missile launched from a U.S. Navy destroyer in 2011"
+  credit: "Photo by: Petty Officer 3rd Class Jeramy Spivey / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Tomahawk_Missle_Launch_DVIDS379867.jpg
 ---
 
 Raytheon has awarded a joint contract to Ursa Major and Avio USA to design, develop and qualify a new solid rocket motor booster for the Tomahawk cruise missile, according to a press release published by Ursa Major on Wednesday. The award gives both companies a path to becoming qualified suppliers on the Navy program.
