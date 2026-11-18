@@ -8,6 +8,12 @@ sources:
   - name: Aerospace Testing International
     title: "Nammo UK completes hot-fire testing of engine for European lunar lander"
     url: https://www.aerospacetestinginternational.com/news/nammo-uk-completes-hot-fire-testing-engine-for-european-lunar-lander.html
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Artist%27s_view_of_the_Argonaut_lunar_lander.jpg/1280px-Artist%27s_view_of_the_Argonaut_lunar_lander.jpg
+  alt: "Artist's illustration of ESA's Argonaut lunar lander"
+  credit: "ESA-ATG / Wikimedia Commons"
+  license: "CC BY-SA 3.0 igo"
+  source_url: https://commons.wikimedia.org/wiki/File:Artist%27s_view_of_the_Argonaut_lunar_lander.jpg
 ---
 
 Nammo UK has completed the hot-fire test campaign for the first prototype of Reliance, the main landing engine for the European Space Agency's Argonaut lunar lander. The tests were run at the company's Westcott Venture Park site in Buckinghamshire, England, according to Aerospace Testing International.
