@@ -8,6 +8,12 @@ sources:
   - name: Reuters (via The Star)
     title: "Musk's pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday"
     url: https://www.thestar.com.my/tech/tech-news/2026/11/03/musks-pay-under-a-spacex-tesla-merger-voting-control-but-no-1-trillion-payday
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Falcon_9_Starlink_6-45_Launch_%288316287%29.jpg/1280px-Falcon_9_Starlink_6-45_Launch_%288316287%29.jpg
+  alt: "Archive photo: a Falcon 9 carrying Starlink satellites lifts off from Space Launch Complex 40"
+  credit: "SpaceX / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Falcon_9_Starlink_6-45_Launch_(8316287).jpg
 ---
 
 A tie-up between SpaceX and Tesla is still only under discussion, but a Reuters analysis of what it would mean for Elon Musk's compensation shows where the leverage sits: voting control would come quickly, while the big pay awards would not.
