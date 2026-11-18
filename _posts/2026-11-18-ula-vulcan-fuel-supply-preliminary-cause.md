@@ -22,7 +22,7 @@ The distinction matters. The loss of 40 Amazon Leo satellites put the spotlight 
 
 ## What this adds
 
-Our [earlier report](/2026/11/18/ula-vulcan-booster-shortfall/) covered ULA CEO Mark Peller's description of a "significant shortfall in booster first stage performance" without naming a cause. This is the first public step beyond that. ULA has also said Vulcan's six solid rocket boosters and the Centaur V upper stage appeared to perform well, and Space.com reports further analysis backs that up.
+Our [earlier report](/2026/11/18/ula-ceo-vulcan-booster-shortfall/) covered ULA CEO Mark Peller's description of a "significant shortfall in booster first stage performance" without naming a cause. This is the first public step beyond that. ULA has also said Vulcan's six solid rocket boosters and the Centaur V upper stage appeared to perform well, and Space.com reports further analysis backs that up.
 
 That matters for the solids in particular. Vulcan's nozzle problems on its October 2024 and February 2026 flights led to a redesign by ULA and Northrop Grumman, and nominal solid performance on this flight suggests the fix held.
 
