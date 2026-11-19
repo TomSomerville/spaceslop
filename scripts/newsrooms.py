@@ -5,7 +5,8 @@ Used by collect.py. Standard library only.
 
 The first time a page is seen, every post link on it is recorded as a baseline, so the
 back catalog is not reported as news. After that, any link that wasn't there before is
-returned as a candidate. State lives in data/newsroom_seen.json (committed by each run).
+returned as a candidate. A news URL may also be an official RSS/Atom feed (used for
+companies whose own page needs JavaScript). State lives in data/newsroom_seen.json (committed by each run).
 
   python3 scripts/newsrooms.py --test    fetch every page and report how many post links
                                          were found, without changing any state
@@ -138,11 +139,37 @@ def sitemap_links(company):
     return out
 
 
+FEED_ITEM = re.compile(r"<(item|entry)\b.*?</\1>", re.I | re.S)
+
+
+def feed_links(xml, base):
+    """Post links from an RSS/Atom feed (for companies whose official news is only a feed)."""
+    out = {}
+    for m in FEED_ITEM.finditer(xml):
+        block = m.group(0)
+        link = re.search(r"<link[^>]*href=[\"']([^\"']+)[\"']", block, re.I) or re.search(r"<link>\s*(?:<!\[CDATA\[)?\s*([^<\s\]]+)", block, re.I)
+        if not link:
+            continue
+        url = urllib.parse.urljoin(base, html.unescape(link.group(1).strip()))
+        title = re.search(r"<title[^>]*>(.*?)</title>", block, re.I | re.S)
+        title = text_of(re.sub(r"<!\[CDATA\[|\]\]>", "", title.group(1))) if title else ""
+        u = urllib.parse.urlparse(url)
+        if u.scheme not in ("http", "https") or not u.hostname:
+            continue
+        key = f"{u.hostname.lower().removeprefix('www.')}{u.path.rstrip('/')}{('?' + u.query) if u.query else ''}".lower()
+        out[key] = {"title": (title or title_from_slug(u.path))[:300], "url": url}
+    return out
+
+
 def check(company):
     err = None
     try:
         page_html, final_url = fetch(company["news"])
-        links = post_links(company, page_html, final_url)
+        head = page_html[:600].lower()
+        if "<rss" in head or "<feed" in head or "<rdf:rdf" in head:
+            links = feed_links(page_html, final_url)
+        else:
+            links = post_links(company, page_html, final_url)
         if links:
             return company, links, None
     except Exception as e:

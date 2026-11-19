@@ -71,6 +71,58 @@
     {
       "name": "ESA Top News",
       "url": "https://www.esa.int/rssfeed/TopNews"
+    },
+    {
+      "name": "SpaceQ",
+      "url": "https://spaceq.ca/feed/"
+    },
+    {
+      "name": "Via Satellite",
+      "url": "https://www.satellitetoday.com/feed/"
+    },
+    {
+      "name": "Breaking Defense (Space)",
+      "url": "https://breakingdefense.com/category/space/feed/"
+    },
+    {
+      "name": "Space Intel Report",
+      "url": "https://www.spaceintelreport.com/feed/"
+    },
+    {
+      "name": "Defense News (Space)",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/space/?outputType=xml"
+    },
+    {
+      "name": "GeekWire Space",
+      "url": "https://www.geekwire.com/space/feed/"
+    },
+    {
+      "name": "TechCrunch Space",
+      "url": "https://techcrunch.com/category/space/feed/"
+    },
+    {
+      "name": "SpaceWatch.Global",
+      "url": "https://spacewatch.global/feed/"
+    },
+    {
+      "name": "China in Space",
+      "url": "https://china-in-space.com/feed/"
+    },
+    {
+      "name": "ROOM Space Journal",
+      "url": "https://room.eu.com/rss/news"
+    },
+    {
+      "name": "Quilty Space",
+      "url": "https://www.quiltyspace.com/blog-feed.xml"
+    },
+    {
+      "name": "Main Engine Cut Off",
+      "url": "https://mainenginecutoff.com/feed"
+    },
+    {
+      "name": "ULA Blog",
+      "url": "https://blog.ulalaunch.com/blog/rss.xml"
     }
   ],
   "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",
@@ -132,6 +184,38 @@
     {
       "name": "Google News · Firefly/Relativity/Stoke",
       "url": "https://news.google.com/rss/search?q=Firefly+Aerospace+OR+%22Relativity+Space%22+OR+%22Stoke+Space%22+OR+%22Sierra+Space%22+OR+%22Dream+Chaser%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Earth observation",
+      "url": "https://news.google.com/rss/search?q=%22Earth+observation%22+satellite+OR+%22SAR+satellite%22+OR+%22hyperspectral%22+constellation+OR+ICEYE+OR+Planet+OR+BlackSky+OR+Capella+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Servicing & debris",
+      "url": "https://news.google.com/rss/search?q=%22space+debris%22+removal+OR+%22active+debris+removal%22+OR+%22satellite+servicing%22+OR+%22space+situational+awareness%22+OR+Astroscale+OR+ClearSpace+OR+Starfish+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Military space",
+      "url": "https://news.google.com/rss/search?q=%22Space+Development+Agency%22+OR+%22Space+Systems+Command%22+OR+%22Golden+Dome%22+OR+%22Space+Command%22+satellite+OR+NRO+launch+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Satcom & D2D",
+      "url": "https://news.google.com/rss/search?q=%22direct-to-device%22+OR+%22direct+to+cell%22+OR+%22AST+SpaceMobile%22+OR+%22Amazon+Leo%22+OR+Kuiper+OR+OneWeb+OR+Eutelsat+OR+SES+satellite+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · India & Japan",
+      "url": "https://news.google.com/rss/search?q=ISRO+OR+IN-SPACe+OR+Skyroot+OR+Agnikul+OR+%22H3+rocket%22+OR+JAXA+OR+%22Space+One%22+OR+%22Interstellar+Technologies%22+OR+ispace+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Korea, Australia & NZ",
+      "url": "https://news.google.com/rss/search?q=KASA+OR+Innospace+OR+Perigee+OR+Nuri+rocket+OR+%22Australian+Space+Agency%22+OR+%22Gilmour+Space%22+OR+%22Southern+Launch%22+OR+%22Fleet+Space%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Middle East & Latin America",
+      "url": "https://news.google.com/rss/search?q=%22UAE+Space+Agency%22+OR+MBRSC+OR+%22Saudi+Space+Agency%22+OR+%22Brazilian+Space+Agency%22+OR+Alcantara+OR+%22Mexican+Space+Agency%22+OR+Satellogic+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · UK & Nordic spaceports",
+      "url": "https://news.google.com/rss/search?q=SaxaVord+OR+And%C3%B8ya+OR+Esrange+OR+%22Spaceport+Cornwall%22+OR+Skyrora+OR+%22Isar+Aerospace%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
     }
   ]
 }

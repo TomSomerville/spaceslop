@@ -4,7 +4,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Launch (Falcon 9, Starship), Starlink, Crew Dragon",
-  "news": "https://www.spacex.com/updates",
+  "news": "https://ir.spacex.com/rss/pressrelease.aspx",
   "query": "SpaceX"
  },
  {
@@ -21,7 +21,7 @@
   "country": "USA / New Zealand",
   "region": "North America",
   "does": "Launch (Electron, Neutron), spacecraft",
-  "news": "https://rocketlabcorp.gcs-web.com/news",
+  "news": "https://www.rocketlabcorp.com/updates/",
   "query": "\"Rocket Lab\""
  },
  {
@@ -165,7 +165,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Re-entry cargo vehicles",
-  "news": "https://www.inversionspace.com/news",
+  "news": "https://medium.com/feed/@inversion-space",
   "query": "\"Inversion Space\""
  },
  {
@@ -221,7 +221,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Earth-imaging constellations",
-  "news": "https://www.planet.com/press/",
+  "news": "https://www.planet.com/pulse/",
   "query": "\"Planet Labs\""
  },
  {
@@ -229,7 +229,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Space-based cellular broadband",
-  "news": "https://investors.ast-science.com/press-releases",
+  "news": "https://ast-science.com/feed/",
   "query": "\"AST SpaceMobile\""
  },
  {
@@ -413,7 +413,7 @@
   "country": "China",
   "region": "Asia-Pacific",
   "does": "Launch (Ceres-1, Pallas-1)",
-  "news": "https://www.galactic-energy.cn/",
+  "news": "https://www.galactic-energy.cn/En",
   "query": "\"Galactic Energy\" OR \"Ceres-1\""
  },
  {
@@ -485,7 +485,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Hybrid-engine small launch",
-  "news": "https://vayaspace.com/news",
+  "news": "https://vaya-defense-space-2.webflow.io/news",
   "query": "\"Vaya Space\""
  },
  {
@@ -621,7 +621,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Satellite buses",
-  "news": "https://yorkspacesystems.com/news",
+  "news": "https://ir.yorkspacesystems.com/rss/pressrelease.aspx",
   "query": "\"York Space Systems\""
  },
  {
@@ -653,7 +653,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Satellite ground stations",
-  "news": "https://northwoodspace.io/press",
+  "news": "https://northwoodspace.io/blog",
   "query": "\"Northwood Space\""
  },
  {
@@ -693,7 +693,7 @@
   "country": "USA",
   "region": "North America",
   "does": "Satellite propulsion",
-  "news": "https://benchmarkspacesystems.com/news",
+  "news": "https://www.benchmarkspacesystems.com/news",
   "query": "\"Benchmark Space Systems\""
  },
  {
@@ -765,7 +765,7 @@
   "country": "France",
   "region": "Europe",
   "does": "Small launch (Zephyr)",
-  "news": "https://latitude.eu/stories",
+  "news": "https://www.latitude.eu/feed/",
   "query": "\"Latitude\" Zephyr rocket"
  },
  {
@@ -1021,7 +1021,7 @@
   "country": "South Korea",
   "region": "Asia-Pacific",
   "does": "Hybrid-rocket launch (HANBIT)",
-  "news": "https://innospc.com",
+  "news": "https://www.innospc.com",
   "query": "Innospace HANBIT"
  },
  {
@@ -1087,5 +1087,533 @@
   "does": "Earth-imaging constellation",
   "news": "https://satellogic.com/news",
   "query": "Satellogic"
+ },
+ {
+  "name": "United Launch Alliance",
+  "country": "USA",
+  "region": "North America",
+  "does": "Launch (Vulcan, Atlas V)",
+  "news": "https://newsroom.ulalaunch.com/",
+  "query": "\"United Launch Alliance\" OR ULA Vulcan OR \"Atlas V\""
+ },
+ {
+  "name": "Boeing Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Starliner, SLS core stage, satellites (Boeing Space Products news)",
+  "news": "https://boeing.mediaroom.com/news-releases-statements?category=796",
+  "query": "Boeing (Starliner OR \"Space Launch System\" OR \"SLS core stage\" OR \"Millennium Space\")"
+ },
+ {
+  "name": "Lockheed Martin",
+  "country": "USA",
+  "region": "North America",
+  "does": "Defence prime: Orion, satellites (GPS, SBIRS/Next-Gen OPIR), missiles",
+  "news": "https://news.lockheedmartin.com/news-releases",
+  "query": "\"Lockheed Martin\" (Orion OR satellite OR space)"
+ },
+ {
+  "name": "L3Harris",
+  "country": "USA",
+  "region": "North America",
+  "does": "Defence prime: Aerojet Rocketdyne (RS-25, RL10), missile-warning satellites",
+  "news": "https://www.l3harris.com/newsroom/search?type=press-release",
+  "query": "L3Harris (RS-25 OR RL10 OR satellite OR \"Aerojet Rocketdyne\" OR space)"
+ },
+ {
+  "name": "Arianespace",
+  "country": "France",
+  "region": "Europe",
+  "does": "Launch services (Ariane 6, Vega C)",
+  "news": "https://www.arianespace.com/newsroom/",
+  "query": "Arianespace OR \"Ariane 6\""
+ },
+ {
+  "name": "ArianeGroup",
+  "country": "France",
+  "region": "Europe",
+  "does": "Launcher prime (Ariane 6), Themis/Prometheus",
+  "news": "https://ariane.group/en/news/",
+  "query": "ArianeGroup OR Prometheus engine OR Themis reusable"
+ },
+ {
+  "name": "Avio",
+  "country": "Italy",
+  "region": "Europe",
+  "does": "Launch (Vega C, Vega E), solid motors",
+  "news": "https://www.avio.com/press-release",
+  "query": "\"Avio\" (Vega OR rocket OR launcher)"
+ },
+ {
+  "name": "Thales Alenia Space",
+  "country": "France / Italy",
+  "region": "Europe",
+  "does": "Satellites, space station modules, exploration",
+  "news": "https://www.thalesaleniaspace.com/en/press-releases",
+  "query": "\"Thales Alenia Space\""
+ },
+ {
+  "name": "OHB",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Satellites (Galileo, EO), ClearSpace-1 prime",
+  "news": "https://www.ohb.de/en/news",
+  "query": "\"OHB\" (satellite OR space OR \"OHB System\")"
+ },
+ {
+  "name": "Leonardo",
+  "country": "Italy",
+  "region": "Europe",
+  "does": "Aerospace and defence prime; space (Telespazio, Thales Alenia Space stake)",
+  "news": "https://www.leonardo.com/en/media-hub/press-releases",
+  "query": "Leonardo (space OR satellite OR Telespazio) OR \"Leonardo SpA\" space"
+ },
+ {
+  "name": "Eutelsat",
+  "country": "France",
+  "region": "Europe",
+  "does": "Satellite operator (GEO fleet, OneWeb LEO)",
+  "news": "https://www.eutelsat.com/media-press/media-centre?resource%5B0%5D=pressrelease",
+  "query": "Eutelsat OR OneWeb"
+ },
+ {
+  "name": "Amazon Leo",
+  "country": "USA",
+  "region": "North America",
+  "does": "LEO broadband constellation (formerly Project Kuiper)",
+  "news": "https://www.aboutamazon.com/news/amazon-leo/rss",
+  "query": "\"Amazon Leo\" OR \"Project Kuiper\""
+ },
+ {
+  "name": "Aerospacelab",
+  "country": "Belgium",
+  "region": "Europe",
+  "does": "Satellite manufacturing, EO constellation",
+  "news": "https://www.aerospacelab.com/news",
+  "query": "Aerospacelab"
+ },
+ {
+  "name": "Alén Space",
+  "country": "Spain",
+  "region": "Europe",
+  "does": "Smallsat and CubeSat builder",
+  "news": "https://alen.space/latest-news/",
+  "query": "\"Alén Space\" OR \"Alen Space\""
+ },
+ {
+  "name": "Aethero",
+  "country": "USA",
+  "region": "North America",
+  "does": "Edge computing for spacecraft",
+  "news": "https://aethero.com/blog",
+  "query": "Aethero space"
+ },
+ {
+  "name": "AscendArc",
+  "country": "USA",
+  "region": "North America",
+  "does": "Small GEO communications satellites",
+  "news": "https://ascendarc.com/news",
+  "query": "AscendArc"
+ },
+ {
+  "name": "Astro Digital",
+  "country": "USA",
+  "region": "North America",
+  "does": "Smallsat buses and mission services",
+  "news": "https://astrodigital.com/rss-feed-862502663071.xml",
+  "query": "\"Astro Digital\""
+ },
+ {
+  "name": "ATLAS Space Operations",
+  "country": "USA",
+  "region": "North America",
+  "does": "Ground station network (Freedom)",
+  "news": "https://atlasground.com/news/",
+  "query": "\"ATLAS Space Operations\""
+ },
+ {
+  "name": "ALL.SPACE",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Multi-orbit satellite terminals",
+  "news": "https://all.space/news",
+  "query": "\"ALL.SPACE\" OR \"All.Space\" terminal"
+ },
+ {
+  "name": "Canadensys Aerospace",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Lunar rovers, space cameras and avionics",
+  "news": "https://www.canadensys.com/news",
+  "query": "Canadensys"
+ },
+ {
+  "name": "Mission Control",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Lunar rover autonomy and mission operations",
+  "news": "https://missioncontrolspace.com/feed/?post_type=news",
+  "query": "\"Mission Control Space Services\" OR \"Mission Control\" lunar rover"
+ },
+ {
+  "name": "Common Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Nonprofit humanitarian Earth-observation satellites",
+  "news": "https://www.commonspace.world/blog",
+  "query": "\"Common Space\" satellite"
+ },
+ {
+  "name": "Dcubed",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Deployable mechanisms, in-space manufactured solar arrays",
+  "news": "https://dcubed.space/news/",
+  "query": "Dcubed space"
+ },
+ {
+  "name": "Eclipse Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite platforms for constellations",
+  "news": "https://eclipse.space/news",
+  "query": "\"Eclipse Space\""
+ },
+ {
+  "name": "Exobiosphere",
+  "country": "Luxembourg",
+  "region": "Europe",
+  "does": "In-space biotech and drug screening",
+  "news": "https://exobiosphere.com/news",
+  "query": "Exobiosphere"
+ },
+ {
+  "name": "HEO",
+  "country": "Australia",
+  "region": "Oceania",
+  "does": "Non-Earth imaging and space domain awareness",
+  "news": "https://www.heospace.com/news",
+  "query": "\"HEO\" (satellite OR \"non-Earth imaging\") OR \"HEO Robotics\""
+ },
+ {
+  "name": "Inflection Space Systems",
+  "country": "USA",
+  "region": "North America",
+  "does": "Mass-produced satellite buses (Pax)",
+  "news": "https://inflection-space.com/press/",
+  "query": "\"Inflection Space\""
+ },
+ {
+  "name": "Marble Imaging",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Very-high-resolution Earth observation",
+  "news": "https://www.marble-imaging.de/news",
+  "query": "\"Marble Imaging\""
+ },
+ {
+  "name": "Meridian Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "LEO broadband constellation (SpinLaunch)",
+  "news": "https://meridianspace.com/news",
+  "query": "\"Meridian Space\" OR SpinLaunch"
+ },
+ {
+  "name": "Nammo",
+  "country": "Norway / UK",
+  "region": "Europe",
+  "does": "Rocket propulsion (space engines, motors)",
+  "news": "https://www.nammo.com/feed/",
+  "query": "Nammo (space OR engine OR rocket)"
+ },
+ {
+  "name": "OroraTech",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Thermal-infrared wildfire satellites",
+  "news": "https://ororatech.com/news",
+  "query": "OroraTech"
+ },
+ {
+  "name": "Orbion Space Technology",
+  "country": "USA",
+  "region": "North America",
+  "does": "Hall-effect thrusters",
+  "news": "https://orbionspace.com/news/",
+  "query": "\"Orbion Space\""
+ },
+ {
+  "name": "PierSight",
+  "country": "India",
+  "region": "Asia",
+  "does": "SAR and AIS maritime surveillance satellites",
+  "news": "https://piersight.space/blog",
+  "query": "PierSight"
+ },
+ {
+  "name": "QASCOM",
+  "country": "Italy",
+  "region": "Europe",
+  "does": "GNSS and lunar navigation receivers",
+  "news": "https://www.qascom.com/news/",
+  "query": "QASCOM"
+ },
+ {
+  "name": "Reflex Aerospace",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Custom satellite manufacturing",
+  "news": "https://reflexaerospace.com/news",
+  "query": "\"Reflex Aerospace\""
+ },
+ {
+  "name": "SEOPS",
+  "country": "USA",
+  "region": "North America",
+  "does": "Rideshare integration and launch services",
+  "news": "https://seops.space/news",
+  "query": "SEOPS rideshare OR \"SEOPS\" space"
+ },
+ {
+  "name": "Sophia Space",
+  "country": "USA",
+  "region": "North America",
+  "does": "Orbital computing",
+  "news": "https://sophia.space/news",
+  "query": "\"Sophia Space\""
+ },
+ {
+  "name": "Space Cargo Unlimited",
+  "country": "Luxembourg / France",
+  "region": "Europe",
+  "does": "In-space manufacturing, return capsules (REV1)",
+  "news": "https://space-cu.com/blog-posts",
+  "query": "\"Space Cargo Unlimited\""
+ },
+ {
+  "name": "Spaceium",
+  "country": "USA",
+  "region": "North America",
+  "does": "Satellite refuelling interfaces (OpenPort)",
+  "news": "https://spaceium.com/news",
+  "query": "Spaceium"
+ },
+ {
+  "name": "Vyoma",
+  "country": "Germany",
+  "region": "Europe",
+  "does": "Space-based space surveillance (Flamingo)",
+  "news": "https://www.vyoma.space/news/all",
+  "query": "Vyoma space"
+ },
+ {
+  "name": "SSC Space",
+  "country": "Sweden",
+  "region": "Europe",
+  "does": "Esrange launch site, ground station network",
+  "news": "https://sscspace.com/news/",
+  "query": "\"SSC Space\" OR Esrange"
+ },
+ {
+  "name": "SaxaVord Spaceport",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Vertical launch spaceport (Shetland)",
+  "news": "https://saxavord.com/news/",
+  "query": "SaxaVord"
+ },
+ {
+  "name": "Maritime Launch Services",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Spaceport Nova Scotia",
+  "news": "https://www.maritimelaunch.com/news",
+  "query": "\"Maritime Launch Services\" OR \"Spaceport Nova Scotia\""
+ },
+ {
+  "name": "Spaceport America",
+  "country": "USA",
+  "region": "North America",
+  "does": "Commercial spaceport (New Mexico)",
+  "news": "https://www.spaceportamerica.com/news/",
+  "query": "\"Spaceport America\""
+ },
+ {
+  "name": "Seraphim Space",
+  "country": "UK",
+  "region": "Europe",
+  "does": "Space-focused venture investor",
+  "news": "https://seraphim.vc/news",
+  "query": "\"Seraphim Space\" OR \"Seraphim\" space investment"
+ },
+ {
+  "name": "Satellite Applications Catapult",
+  "country": "UK",
+  "region": "Europe",
+  "does": "UK space innovation centre",
+  "news": "https://sa.catapult.org.uk/news/",
+  "query": "\"Satellite Applications Catapult\""
+ },
+ {
+  "name": "CNES",
+  "country": "France",
+  "region": "Europe",
+  "does": "French space agency",
+  "news": "https://cnes.fr/rss/actualites",
+  "query": "CNES OR \"French space agency\""
+ },
+ {
+  "name": "JAXA",
+  "country": "Japan",
+  "region": "Asia",
+  "does": "Japanese space agency (H3, HTV-X, exploration)",
+  "news": "https://global.jaxa.jp/rss/press.rdf",
+  "query": "JAXA"
+ },
+ {
+  "name": "ISRO",
+  "country": "India",
+  "region": "Asia",
+  "does": "Indian space agency (LVM3, PSLV, Gaganyaan)",
+  "news": "https://www.isro.gov.in/Press.html",
+  "query": "ISRO OR Gaganyaan"
+ },
+ {
+  "name": "Canadian Space Agency",
+  "country": "Canada",
+  "region": "North America",
+  "does": "Canadian space agency",
+  "news": "https://www.asc-csa.gc.ca/eng/news/articles/",
+  "query": "\"Canadian Space Agency\""
+ },
+ {
+  "name": "UK Space Agency",
+  "country": "UK",
+  "region": "Europe",
+  "does": "UK space agency",
+  "news": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-space-agency",
+  "query": "\"UK Space Agency\""
+ },
+ {
+  "name": "Italian Space Agency",
+  "country": "Italy",
+  "region": "Europe",
+  "does": "Italian space agency (ASI)",
+  "news": "https://www.asi.it/en/feed/",
+  "query": "\"Italian Space Agency\" OR \"Agenzia Spaziale Italiana\""
+ },
+ {
+  "name": "Luxembourg Space Agency",
+  "country": "Luxembourg",
+  "region": "Europe",
+  "does": "Luxembourg space agency, space resources",
+  "news": "https://space-agency.public.lu/en/news-events.rss",
+  "query": "\"Luxembourg Space Agency\""
+ },
+ {
+  "name": "CNSA",
+  "country": "China",
+  "region": "Asia",
+  "does": "China National Space Administration",
+  "news": "https://www.cnsa.gov.cn/english/n6465652/n6465653/index.html",
+  "query": "\"China National Space Administration\" OR CNSA"
+ },
+ {
+  "name": "China Manned Space Agency",
+  "country": "China",
+  "region": "Asia",
+  "does": "Human spaceflight (Shenzhou, Tiangong, Mengzhou)",
+  "news": "https://www.cmse.gov.cn/xwzx/zhxw/",
+  "query": "\"China Manned Space\" OR Shenzhou OR Tiangong"
+ },
+ {
+  "name": "CASC",
+  "country": "China",
+  "region": "Asia",
+  "does": "Long March builder, satellites, Shenzhou (state group)",
+  "news": "http://www.spacechina.com/n25/n2014789/n2014804/index.html",
+  "query": "\"China Aerospace Science and Technology\" OR CASC rocket"
+ },
+ {
+  "name": "EUMETSAT",
+  "country": "Europe",
+  "region": "Europe",
+  "does": "European weather satellites",
+  "news": "https://www.eumetsat.int/rss.xml",
+  "query": "EUMETSAT"
+ },
+ {
+  "name": "EUSPA",
+  "country": "EU",
+  "region": "Europe",
+  "does": "EU Agency for the Space Programme (Galileo, IRIS²)",
+  "news": "https://www.euspa.europa.eu/newsroom-events/news/rss.xml",
+  "query": "EUSPA OR \"EU Agency for the Space Programme\""
+ },
+ {
+  "name": "NOAA Satellites (NESDIS)",
+  "country": "USA",
+  "region": "North America",
+  "does": "US weather and environmental satellites",
+  "news": "https://www.nesdis.noaa.gov/news-events/search-news",
+  "query": "NESDIS OR \"NOAA satellite\""
+ },
+ {
+  "name": "US Space Force",
+  "country": "USA",
+  "region": "North America",
+  "does": "Military space service",
+  "news": "https://www.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1060&max=10",
+  "query": "\"Space Force\" launch OR satellite"
+ },
+ {
+  "name": "Space Development Agency",
+  "country": "USA",
+  "region": "North America",
+  "does": "Proliferated military satellite constellation (PWSA)",
+  "news": "https://www.sda.mil/news-releases/",
+  "query": "\"Space Development Agency\""
+ },
+ {
+  "name": "DARPA",
+  "country": "USA",
+  "region": "North America",
+  "does": "Defence R&D agency (space programmes)",
+  "news": "https://www.darpa.mil/rss.xml",
+  "query": "DARPA space OR DARPA satellite"
+ },
+ {
+  "name": "SpaceWERX",
+  "country": "USA",
+  "region": "North America",
+  "does": "Space Force innovation and SBIR funding",
+  "news": "https://spacewerx.us/news/",
+  "query": "SpaceWERX"
+ },
+ {
+  "name": "Defense Innovation Unit",
+  "country": "USA",
+  "region": "North America",
+  "does": "DoD commercial technology adoption (space portfolio)",
+  "news": "https://www.diu.mil/latest/archive",
+  "query": "\"Defense Innovation Unit\" space"
+ },
+ {
+  "name": "UK Civil Aviation Authority",
+  "country": "UK",
+  "region": "Europe",
+  "does": "UK spaceflight regulator (launch licensing)",
+  "news": "https://www.caa.co.uk/newsroom/",
+  "query": "\"Civil Aviation Authority\" (spaceport OR launch licence OR spaceflight)"
+ },
+ {
+  "name": "Texas Space Commission",
+  "country": "USA",
+  "region": "North America",
+  "does": "Texas state space agency (SEARF grants)",
+  "news": "https://space.texas.gov/news",
+  "query": "\"Texas Space Commission\""
  }
 ]
