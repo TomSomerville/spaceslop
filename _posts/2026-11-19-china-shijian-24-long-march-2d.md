@@ -11,6 +11,12 @@ sources:
   - name: Ratopati
     title: "China Launches New Satellite 'Shijian-24' into Space"
     url: https://english.ratopati.com/story/87251/china-launches-new-satellite-into-space
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Long_March_2D_launching_off_pad_with_VRSS-1.jpg/1280px-Long_March_2D_launching_off_pad_with_VRSS-1.jpg
+  alt: "Archive photo of a Long March 2D lifting off from Jiuquan with the VRSS-1 satellite in an earlier launch"
+  credit: "Cristóbal Alvarado Minic / Wikimedia Commons"
+  license: "CC BY 2.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Long_March_2D_launching_off_pad_with_VRSS-1.jpg
 ---
 
 China launched a satellite called Shijian-24 on a Long March 2D rocket from Launch Complex 9 at the Taiyuan Satellite Launch Center at 6:51 a.m. China Standard Time on Nov. 19 (22:51 UTC on Nov. 18). Chinese state media, as relayed by Ratopati, described the mission as completely successful, and Interesting Engineering reports the spacecraft reached its planned sun-synchronous orbit.
