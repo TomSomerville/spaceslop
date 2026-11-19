@@ -3354,6 +3354,7 @@
   "gomspace.com/solutions/national-space-capacity-building",
   "gomspace.com/products/attitude-orbit-control-system",
   "gomspace.com/about-gomspace/our-value-and-mission",
+  "gomspace.com/gomspace-continues-to-support-advanced-lunar-exploration-with-an-8-meur-89-1-ms",
   "gomspace.com/gomspace-reports-continued-profitable-growth-in-q3-and-narrows-full-year-guidanc",
   "gomspace.com/gomspace-sets-financial-target-to-reach-revenue-of-sek-1-6-billion-by-2030",
   "gomspace.com/gomspace-strengthens-global-commercial-organization-with-appointment-of-new-vice",
@@ -3389,9 +3390,9 @@
   "gomspace.com/gomspace-strengthens-business-unit-structure-and-executive-team-for-2026",
   "gomspace.com/gomspace-appoints-jane-rygaard-as-vice-president-of-products-business-unit",
   "gomspace.com/gomspace-announces-2026-market-guidance-with-strong-profitable-growth",
-  "gomspace.com/gomspace-signs-2-9-meur-contract-with-leading-north-american-space-company",
   "gomspace.com/news/{{ data.permalink }}",
-  "gomspace.com/news/{{ data.posts_url }}"
+  "gomspace.com/news/{{ data.posts_url }}",
+  "gomspace.com/gomspace-signs-2-9-meur-contract-with-leading-north-american-space-company"
  ],
  "ISISPACE": [
   "isispace.nl/small-satellite-solutions-page",
