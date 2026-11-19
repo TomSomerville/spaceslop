@@ -8,6 +8,12 @@ sources:
   - name: Redwire
     title: "Redwire Awarded $15 Million Contract to Deliver ELSA High-Performance, Low-Mass Solar Array Wings to AscendArc for GEO Communications Satellite"
     url: https://rdw.com/newsroom/redwire-awarded-15-million-contract-to-deliver-elsa-high-performance-low-mass-solar-array-wings-to-ascendarc-for-geo-communications-satellite/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Testing_Gateway%E2%80%99s_Roll-Out_Solar_Array_%28jsc2025e069609%29.jpg/1280px-Testing_Gateway%E2%80%99s_Roll-Out_Solar_Array_%28jsc2025e069609%29.jpg
+  alt: "Archive photo: a Redwire Roll-Out Solar Array wing for NASA's Gateway deployed in Redwire's Goleta facility (a different Redwire array than the ELSA wings in this story)"
+  credit: "NASA Johnson Space Center / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Testing_Gateway%E2%80%99s_Roll-Out_Solar_Array_(jsc2025e069609).jpg
 ---
 
 Redwire has won a contract worth approximately $15 million to supply solar array wings for a geostationary communications satellite being built by AscendArc, the company said on 19 November. The wings are Redwire's Extensible Low-Profile Solar Array, or ELSA, a rolled and extended array designed to stow compactly for launch.
