@@ -4,6 +4,12 @@ date: 2026-11-19 23:30:00 +0000
 summary: "Speaking at the DealBook Summit, Musk said SpaceX has a rooftop cellular base station design to fix indoor dead zones, with production due next year."
 category: industry
 story_key: spacex-rooftop-cell-tower
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg
+  alt: "Archive photo of a Falcon 9 launching a Starlink mission"
+  credit: "Official SpaceX Photos / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg
 sources:
   - name: TechCrunch
     title: "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones"
