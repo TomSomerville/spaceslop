@@ -4,6 +4,12 @@ date: 2026-11-19 05:40:00 +0000
 summary: "Sophia Space says its software has spread itself across processors on two Kepler relay satellites, a first step toward distributed computing in orbit."
 category: industry
 story_key: sophia-space-soos-kepler
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/KIPP_-_Kepler%27s_1st_demo_satellite.jpg/1280px-KIPP_-_Kepler%27s_1st_demo_satellite.jpg
+  alt: "KIPP, Kepler Communications' first demonstration satellite (archive image, not part of this test)"
+  credit: "Victoriaenlanet / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:KIPP_-_Kepler%27s_1st_demo_satellite.jpg
 sources:
   - name: Payload
     title: "Sophia Space Tests Orbital-Compute Software on Kepler Constellation"
