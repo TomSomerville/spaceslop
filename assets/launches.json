@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-19T22:41:05+00:00",
+ "updated": "2026-11-19T22:56:32+00:00",
  "upcoming": [
-  {
-   "name": "Long March 2D | Shijian 24",
-   "net": "2026-11-18T22:51:00Z",
-   "status": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "location": "Taiyuan Satellite Launch Center, People's Republic of China"
-  },
   {
    "name": "Falcon 9 Block 5 | USSF-317",
    "net": "2026-11-20T04:32:55Z",
@@ -101,6 +94,13 @@
   },
   {
    "name": "Falcon 9 Block 5 | NROL-195",
+   "net": "2026-11-30T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | OneWeb 21",
    "net": "2026-11-30T00:00:00Z",
    "status": "To Be Determined",
    "provider": "SpaceX",
