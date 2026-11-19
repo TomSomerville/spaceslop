@@ -8,6 +8,12 @@ sources:
   - name: Satellogic
     title: "A New Model for Earth Observation: A satellite built for the public good"
     url: https://satellogic.com/2026/11/19/a-new-model-for-earth-observation-a-satellite-built-for-the-public-good/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%C3%91uSat_mockup_at_Satellogic_HQ.jpg/1280px-%C3%91uSat_mockup_at_Satellogic_HQ.jpg
+  alt: "Mockup of a Satellogic NuSat satellite at the company's headquarters"
+  credit: "BugWarp / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:%C3%91uSat_mockup_at_Satellogic_HQ.jpg
 ---
 
 Common Space, a nonprofit building a community-governed Earth-observation constellation, has selected Satellogic as spacecraft partner for its first high-resolution humanitarian satellite. Satellogic announced the award on November 19 on its own news page.
