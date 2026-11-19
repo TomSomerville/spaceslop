@@ -11,6 +11,12 @@ sources:
   - name: PR Newswire
     title: "GomSpace signs 2.9 MEUR contract with leading North American space company"
     url: https://www.prnewswire.com/news-releases/gomspace-signs-2-9-meur-contract-with-leading-north-american-space-company-302657213.html
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/2/24/Los_nanosat%C3%A9lites_GomX-4A_%28izquierda%29_y_GomX-4B_%28derecha%29_en_un_laboratorio_de_la_ESA.jpg
+  alt: "GomSpace GomX-4A and GomX-4B CubeSats in an ESA lab before thermal vacuum testing (archive photo)"
+  credit: "GomSpace, ESA / Wikimedia Commons"
+  license: "CC0"
+  source_url: "https://commons.wikimedia.org/wiki/File:Los_nanosat%C3%A9lites_GomX-4A_(izquierda)_y_GomX-4B_(derecha)_en_un_laboratorio_de_la_ESA.jpg"
 ---
 
 GomSpace, the Danish small satellite and subsystem maker, announced on November 19 a contract worth €8 million (SEK 89.1 million) for the second phase of a lunar mission. The customer is described only as "a Leading North American Space Company".
