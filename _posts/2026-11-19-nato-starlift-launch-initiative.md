@@ -11,6 +11,12 @@ sources:
   - name: Breaking Defense
     title: "NATO STARLIFT launch initiative"
     url: https://breakingdefense.com/?p=101237
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Brussels-NATO_headquarters.jpg/1280px-Brussels-NATO_headquarters.jpg
+  alt: "NATO headquarters in Brussels"
+  credit: "Romaine / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Brussels-NATO_headquarters.jpg
 ---
 
 NATO announced on 17 November, at its EDGE 26 conference in Izmir, Turkey, that STARLIFT, a multinational initiative to help allies secure launches for military satellites, has moved into implementation.
