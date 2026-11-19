@@ -4,6 +4,12 @@ date: 2026-11-19 04:10:00 +0000
 summary: "Japan's ispace and telecom giant NTT signed a collaboration agreement to study optical communications between Earth and the Moon and laser power transmission on the lunar surface."
 category: moon
 story_key: ispace-ntt-lunar-infrastructure
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/RESILIENCE-lander-replica04_20250528atHanedaAirPort.jpg/1280px-RESILIENCE-lander-replica04_20250528atHanedaAirPort.jpg
+  alt: "Full-scale replica of ispace's Resilience lander on display at Haneda Airport"
+  credit: "テレストレラッソ / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:RESILIENCE-lander-replica04_20250528atHanedaAirPort.jpg
 sources:
   - name: ispace
     title: "NTT and ispace Enter into Collaboration Agreement to Realize Cislunar and Lunar Infrastructure Using IOWN Optical Communication Technologies"
