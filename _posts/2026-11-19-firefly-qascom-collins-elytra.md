@@ -4,6 +4,12 @@ date: 2026-11-19 14:45:00 +0000
 summary: "QASCOM's COLLINS lunar navigation payload will ride Firefly's Elytra orbiter on the Gruithuisen Domes Blue Ghost mission, targeted for 2028, under a commercial deal rather than NASA's CLPS program."
 category: moon
 story_key: firefly-qascom-collins-elytra
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20250115-PH-FMX01_0004/KSC-20250115-PH-FMX01_0004~large.jpg
+  alt: "Archive photo: a Falcon 9 carrying Firefly's Blue Ghost Mission 1 lander lifts off from Kennedy Space Center in January 2025"
+  credit: "NASA/Frank Michaux"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20250115-PH-FMX01_0004
 sources:
   - name: Stocktwits
     title: "Firefly Aerospace Lands QASCOM Payload Deal Ahead Of 2028 Lunar Mission – Here's What It Means"
