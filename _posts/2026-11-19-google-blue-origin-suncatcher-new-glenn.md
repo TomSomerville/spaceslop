@@ -11,6 +11,12 @@ sources:
   - name: Crypto Briefing
     title: "Google taps Blue Origin to launch solar-powered AI satellites in 2029"
     url: https://cryptobriefing.com/google-blue-origin-ai-satellites-2029/
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/6/63/Blue_Origin_New_Glenn_flight_2.jpg
+  alt: "A New Glenn rocket launches from Space Launch Complex 36 at Cape Canaveral in November 2025 (archive photo)"
+  credit: "U.S. Space Force photo by Senior Airman Samuel Becker / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg
 ---
 
 Google has signed a launch services agreement with Blue Origin to fly Project Suncatcher satellites on New Glenn, with a target of the first quarter of 2029. Google announced the deal on November 19 in a blog post by Travis Beals, a senior director at the company.
