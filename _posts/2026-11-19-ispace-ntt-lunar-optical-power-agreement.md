@@ -31,4 +31,4 @@ ispace founder and CEO Takeshi Hakamada said in the release that sustainable lun
 
 The deal fits ispace's push beyond landers into services. The company is planning Mission 3, targeting a lunar landing in 2028. In March 2026 it announced plans to commercialize a Lunar Connect Service built on a constellation of lunar-orbit satellites, and its release says the first lunar-orbiting satellite could launch as part of Mission 2.5 as early as 2027. An optical partner with a large terrestrial research base gives that plan a credible technology source, though nothing here commits either company to flight hardware.
 
-Lunar relay and power infrastructure is also an area where NASA's lunar program and several commercial players are positioning. An agreement like this one tells us where ispace thinks its business goes after the landing: selling data and positioning as well as rides.
+The agreement signals where ispace sees its business going after the landing: selling data and positioning as well as rides.
