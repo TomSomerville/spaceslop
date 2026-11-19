@@ -8,6 +8,12 @@ sources:
   - name: Kapitalmarktexperten
     title: "Eutelsat Aktie: Space-Force-Deal ohne Wirkung?"
     url: https://www.kapitalmarktexperten.de/eutelsat-aktie-space-force-deal-ohne-wirkung/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Falcon_9_ONEWEB_Launch_%287805965%29.jpg/1280px-Falcon_9_ONEWEB_Launch_%287805965%29.jpg
+  alt: "Archive photo: a Falcon 9 launches OneWeb satellites from Cape Canaveral in January 2023"
+  credit: "U.S. Space Force photo by Joshua Conti / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Falcon_9_ONEWEB_Launch_(7805965).jpg
 ---
 
 Eutelsat Network Solutions has received a U.S. Space Force order estimated at more than $60 million, according to a report dated 17 November. The order runs two years and falls under the Warrior Plans initiative of the Space Force's Commercial Satellite Communications Office (CSCO).
