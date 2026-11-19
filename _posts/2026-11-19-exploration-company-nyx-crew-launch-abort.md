@@ -8,6 +8,12 @@ sources:
   - name: The Exploration Company
     title: "From Cargo to Crew: How Nyx Is Evolving for Human Spaceflight"
     url: https://www.exploration.space/blog/nyx-cargo-to-crew
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nyx_Spacecraft_2026.png/1280px-Nyx_Spacecraft_2026.png
+  alt: "Illustration of The Exploration Company's Nyx spacecraft, based on 2026 visualizations and test hardware"
+  credit: "Animalculum / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Nyx_Spacecraft_2026.png
 ---
 
 The Exploration Company (TEC) published an update on Thursday describing how its Nyx capsule is meant to grow from a cargo ship into a crew vehicle, and it came with one concrete milestone: the company says it completed a System Concept Review in November for an ESA-funded study on a launch abort system. The next step it names is a pad-abort demonstration program.
