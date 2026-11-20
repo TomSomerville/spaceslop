@@ -5778,13 +5778,11 @@
   "ohb.de/en/news/ohb-and-astroscale-sign-agreement-to-strengthen-space-security-and-orbital-services-capabilities"
  ],
  "Leonardo": [
-  "leonardo.com/es/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
-  "leonardo.com/es/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
-  "leonardo.com/en/press-release-detail/-/detail/09-11-2026-enel-and-leonardo-sign-memorandum-of-understanding-on-energy-technology-and-security-at-the-service-of-italy-and-its-businesses",
   "leonardo.com/en/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
+  "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
+  "leonardo.com/en/press-release-detail/-/detail/09-11-2026-enel-and-leonardo-sign-memorandum-of-understanding-on-energy-technology-and-security-at-the-service-of-italy-and-its-businesses",
   "leonardo.com/en/press-release-detail/-/detail/03-11-2026-fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali-osn-",
   "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-at-euronaval-with-new-c5istar-solutions-to-address-the-challenges-of-modern-maritime-scenarios",
-  "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/en/press-release-detail/-/detail/02-11-2026-leonardo-2027-financial-calendar",
   "leonardo.com/en/press-release-detail/-/detail/22-10-2026-leonardo-over-10-of-the-group-s-energy-consumption-in-italy-to-be-self-generated",
   "leonardo.com/en/press-release-detail/-/detail/21-10-2026-cugs-project-marks-major-step-forward-for-european-unmanned-ground-capabilities",
@@ -5798,6 +5796,8 @@
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/performance-and-esg-impacts",
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/development-and-new-skills",
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/commitment-and-esg-results",
+  "leonardo.com/es/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
+  "leonardo.com/es/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/ko/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
   "leonardo.com/ko/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments"
  ],
@@ -7280,10 +7280,6 @@
   "caa.co.uk/newsroom/news/regulator-launches-lithium-battery-safety-checklist-ahead-of-busy-half-term-travel-period"
  ],
  "Texas Space Commission": [
-  "dev-space.oog.governor.state.tx.us/index.php/news/21.5-million-approved-by-texas-space-commission-for-searf-grant-awards",
-  "dev-space.oog.governor.state.tx.us/index.php/news/47-7-million-approved-by-texas-space-commission-for-searf-grant-awards",
-  "dev-space.oog.governor.state.tx.us/index.php/news/texas-space-commission-receives-briefings-from-state-and-federal-entities",
-  "dev-space.oog.governor.state.tx.us/index.php/news/26-million-approved-by-texas-space-commission-for-searf-grant-awards",
   "space.texas.gov/index.php/news/release/texas-space-commission-receives-briefing-from-space-foundation-ceo-and-adopts-two-resolutions-to-issue-rfis",
   "space.texas.gov/index.php/news/release/texas-space-commission-awards-grant-to-city-of-midland",
   "space.texas.gov/index.php/news/release/nasa-awards-texas-space-commission-one-of-seven-state-hubs-for-skilled-technical-workforce-in-texas",
@@ -7323,7 +7319,11 @@
   "space.texas.gov/index.php/news/release/26-million-approved-by-texas-space-commission-for-searf-grant-awards",
   "space.texas.gov/index.php/news/release/texas-space-commission-receives-briefings-from-state-and-federal-entities",
   "space.texas.gov/index.php/news/release/47-7-million-approved-by-texas-space-commission-for-searf-grant-awards",
-  "space.texas.gov/index.php/news/release/21-5-million-approved-by-texas-space-commission-for-searf-grant-awards"
+  "space.texas.gov/index.php/news/release/21-5-million-approved-by-texas-space-commission-for-searf-grant-awards",
+  "dev-space.oog.governor.state.tx.us/index.php/news/21.5-million-approved-by-texas-space-commission-for-searf-grant-awards",
+  "dev-space.oog.governor.state.tx.us/index.php/news/47-7-million-approved-by-texas-space-commission-for-searf-grant-awards",
+  "dev-space.oog.governor.state.tx.us/index.php/news/texas-space-commission-receives-briefings-from-state-and-federal-entities",
+  "dev-space.oog.governor.state.tx.us/index.php/news/26-million-approved-by-texas-space-commission-for-searf-grant-awards"
  ],
  "Luxembourg Space Agency": [
   "space-agency.public.lu/en/news-events/events/2027/spacesymposium2027.html",
