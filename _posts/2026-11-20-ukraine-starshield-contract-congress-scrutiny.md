@@ -11,6 +11,12 @@ sources:
   - name: The Hill
     title: "Fitzpatrick vows Starshield accountability"
     url: https://thehill.com/homenews/house/6159309-fitzpatrick-vows-starshield-accountability/amp/
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20220421-PH-KLS01_0054/KSC-20220421-PH-KLS01_0054~large.jpg
+  alt: "Archive photo: a Falcon 9 carrying Starlink satellites lifts off from Cape Canaveral in April 2022"
+  credit: "NASA/Kim Shiflett"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20220421-PH-KLS01_0054
 ---
 
 Ukraine's military satellite connectivity, supplied by SpaceX's Starshield service, has become a congressional oversight target and a contract negotiation at the same time. Ukraine's chargé d'affaires in Washington, Denys Sienik, said negotiations with the Pentagon on a successor to the current Starshield contract are only just beginning, according to Breaking Defense. The existing deal expires in mid-2027.
