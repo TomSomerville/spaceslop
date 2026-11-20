@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:25:42+00:00",
+ "updated": "2026-11-20T06:41:08+00:00",
  "upcoming": [
   {
    "name": "Long March 8A | SatNet LEO Group TBD?",
@@ -66,7 +66,7 @@
   },
   {
    "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
-   "net": "2026-11-27T00:00:00Z",
+   "net": "2026-11-27T00:05:00Z",
    "status": "Go for Launch",
    "provider": "Rocket Lab",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
