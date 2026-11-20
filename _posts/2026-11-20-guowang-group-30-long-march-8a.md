@@ -11,6 +11,12 @@ sources:
   - name: CASC newsroom
     title: "长八甲火箭成功发射卫星互联网低轨30组卫星"
     url: https://www.spacechina.com/n25/n2014789/n2014804/c4761683/content.html
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/5/54/CZ-8A_rendering.jpg
+  alt: "Artist's rendering of the Long March 8A rocket (archive illustration, not the launch itself)"
+  credit: "Shujianyang / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:CZ-8A_rendering.jpg
 ---
 
 A Long March 8A rocket lifted off from Commercial Launch Pad 1 at the Wenchang Commercial Space Launch Site in Hainan on 20 November at 11:59 UTC (19:59 local time), carrying the 30th group of satellites for China's Guowang constellation. According to China in Space, the launch went ahead in rain.
