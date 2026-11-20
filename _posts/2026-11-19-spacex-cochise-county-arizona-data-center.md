@@ -11,6 +11,12 @@ sources:
   - name: Arizona's Family
     title: "SpaceX plans $50B data center campus in Cochise County"
     url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20220421-PH-KLS01_0054/KSC-20220421-PH-KLS01_0054~large.jpg
+  alt: "A SpaceX Falcon 9 carrying Starlink satellites lifts off from Cape Canaveral in 2022 (archive photo)"
+  credit: "NASA/Kim Shiflett"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20220421-PH-KLS01_0054
 ---
 
 SpaceX's push into ground-based computing now has an Arizona front. The company has confirmed it is behind a proposed data center and battery storage campus in Cochise County, and Arizona Attorney General Kris Mayes has told county officials she wants the process slowed down.
