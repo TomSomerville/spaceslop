@@ -27,6 +27,6 @@ The geographic argument is a familiar one in the launch business. Low-latitude s
 
 The reporting leaves large gaps. Neither outlet carries a statement from Musk or SpaceX. Neither names a province, island or agency responsible, and neither says what SpaceX has actually asked for. The Tribune notes that Musk arrived in the Philippines on Wednesday aboard his private aircraft, according to Ambassador Jose Manuel Romualdez, and then joined US President Donald Trump on Air Force One for the trip to Shenzhen. A related Tribune headline mentions island plans, but the article body does not describe any, and GMA's own headline is phrased as a question that its text does not answer.
 
-Marcos also referred to a rocket launch in Cagayan, which the Tribune does not explain. He has previously discussed Cagayan as a candidate site for the country's first spaceport, but that earlier project involved a South Korean company rather than SpaceX.
+Marcos also referred to a rocket launch in Cagayan, which the Tribune does not explain.
 
 For now this is a head of government publicly floating the idea, not a deal. Anything firmer would need a named site, an environmental and airspace framework and, presumably, some word from SpaceX itself.
