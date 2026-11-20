@@ -4,6 +4,12 @@ date: 2026-11-20 04:35:00 +0000
 summary: "The FT reports that lenders on SpaceX's $43 billion debt package seek protections so the Nvidia chips securing it can't be flown into space, where repossession would be hard."
 category: industry
 story_key: spacex-lenders-orbital-chips
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg
+  alt: "Archive photo of a SpaceX Starlink mission launch"
+  credit: "Official SpaceX Photos / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg
 sources:
   - name: Investing.com (citing the Financial Times)
     title: "SpaceX lenders seek safeguards against Musk sending AI chips into space - FT"
