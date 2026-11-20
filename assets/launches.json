@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:25:44+00:00",
+ "updated": "2026-11-20T18:43:37+00:00",
  "upcoming": [
   {
    "name": "Long March 8A | SatNet LEO Group 30",
@@ -30,18 +30,18 @@
    "location": "Guiana Space Centre, French Guiana"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-266",
-   "net": "2026-11-23T16:04:00Z",
-   "status": "Go for Launch",
-   "provider": "SpaceX",
-   "location": "Vandenberg SFB, CA, USA"
-  },
-  {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
    "net": "2026-11-24T05:03:00Z",
    "status": "To Be Confirmed",
    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-266",
+   "net": "2026-11-24T15:55:00Z",
+   "status": "Go for Launch",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
   },
   {
    "name": "Long March 2F/G | Shenzhou 24",
@@ -79,13 +79,6 @@
    "location": "Taiyuan Satellite Launch Center, People's Republic of China"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-380",
-   "net": "2026-11-28T04:53:00Z",
-   "status": "Go for Launch",
-   "provider": "SpaceX",
-   "location": "Vandenberg SFB, CA, USA"
-  },
-  {
    "name": "Kinetica 1 | Unknown Payload",
    "net": "2026-11-29T01:00:00Z",
    "status": "To Be Confirmed",
@@ -98,6 +91,13 @@
    "status": "Go for Launch",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Taiyuan Satellite Launch Center, People's Republic of China"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-380",
+   "net": "2026-11-29T04:39:00Z",
+   "status": "Go for Launch",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
   },
   {
    "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
