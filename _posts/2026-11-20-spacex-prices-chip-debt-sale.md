@@ -4,6 +4,12 @@ date: 2026-11-20 07:45:00 +0000
 summary: "Bloomberg reports SpaceX sold roughly $32 billion of debt on Nov. 19 to buy Nvidia chips it will lease, in a structure that keeps the borrowing off its balance sheet."
 category: industry
 story_key: spacex-lenders-orbital-chips
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg
+  alt: "Archive photo of a SpaceX Starlink mission launch"
+  credit: "Official SpaceX Photos / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg
 sources:
   - name: Bloomberg (via Yahoo Finance)
     title: "SpaceX Debt for AI Chips to Hit Market as Soon as This Week"
