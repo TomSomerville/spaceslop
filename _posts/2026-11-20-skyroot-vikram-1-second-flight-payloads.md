@@ -14,12 +14,6 @@ image:
   credit: "Footy2000 / Wikimedia Commons"
   license: "CC BY 4.0"
   source_url: https://commons.wikimedia.org/wiki/File:Vikram_rocket_family-resized.png
-image:
-  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Vikram_rocket_family-resized.png/1280px-Vikram_rocket_family-resized.png
-  alt: "Illustration of the Vikram family of rockets developed by Skyroot Aerospace"
-  credit: "Footy2000 / Wikimedia Commons"
-  license: "CC BY 4.0"
-  source_url: https://commons.wikimedia.org/wiki/File:Vikram_rocket_family-resized.png
 ---
 
 Skyroot Aerospace has named the partners for the second orbital flight of its Vikram-1 rocket: Indian satellite maker HEX20, German deployment specialist Exolaunch and Italian propulsion firm OhmSpace. The line-up was announced on Thursday at Space Tech Expo Europe in Bremen, according to Siasat Daily.
