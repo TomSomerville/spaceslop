@@ -31,6 +31,6 @@ The motive is cost and customers. Digitimes, summarizing a report originally fro
 
 ## Context
 
-There is precedent. JKN notes that this is the same path as earlier Japanese rockets, though details on those transfers were not in the material reviewed for this article. The H3 is expendable, unlike SpaceX's Falcon 9, and JAXA says it would redirect staff toward H3 improvements and research on reusable rockets once operations move to MHI.
+The H3 is expendable, unlike SpaceX's Falcon 9, and JAXA says it would redirect staff toward H3 improvements and research on reusable rockets once operations move to MHI.
 
 The Digitimes piece is paywalled beyond its lead, and no timeline, contract terms or launch-rate targets beyond "by 2027" were available. Watch for the ministry's formal framework and for whether MHI wins commercial customers once it controls pricing.
