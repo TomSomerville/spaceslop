@@ -17,6 +17,12 @@ sources:
   - name: TechCentral
     title: "Telkom becomes Amazon Leo's second South African distributor"
     url: https://techcentral.co.za/telkom-amazon-leo-satellite-broadband-distributor/288490/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/KA-03_cropped.png/1280px-KA-03_cropped.png
+  alt: "An Atlas V carrying Amazon Kuiper satellites lifts off from Cape Canaveral in September 2025 (archive photo)"
+  credit: "U.S. Space Force photo by Gwendolyn Kurzen / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:KA-03_cropped.png
 ---
 
 Amazon's satellite broadband service, Amazon Leo, has picked up a second distributor in South Africa. Telkom announced on 17 November that its Openserve unit signed an agreement making the Telkom Group an authorised Amazon Leo distributor. Leo is the service formerly known as Project Kuiper.
