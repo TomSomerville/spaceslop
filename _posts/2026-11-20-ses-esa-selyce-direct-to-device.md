@@ -8,6 +8,12 @@ sources:
   - name: New Space Economy
     title: "SES, ESA SELYCE direct-to-device partnership"
     url: https://newspaceeconomy.ca/2026/11/18/ses-esa-selyce-direct-to-device-partnership/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/O3b_mPower_Satellite_Model.jpg/1280px-O3b_mPower_Satellite_Model.jpg
+  alt: "Desktop model of an SES O3b mPOWER satellite"
+  credit: "Blervis / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:O3b_mPower_Satellite_Model.jpg
 ---
 
 SES and the European Space Agency signed a partnership on November 17 to develop European direct-to-device (D2D) satellite technology under a project called SELYCE. The signing took place at Space Tech Expo Europe in Bremen, Germany, with ESA's Geraldine Naja and SES Chief Product and Innovation Officer Xavier Bertran putting pen to paper, according to New Space Economy.
