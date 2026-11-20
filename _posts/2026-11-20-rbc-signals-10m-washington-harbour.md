@@ -11,6 +11,12 @@ sources:
   - name: GeekWire
     title: "RBC Signals brings in $10M investment to expand strategic frontiers for satellite services"
     url: https://www.geekwire.com/2026/rbc-signals-10m-investment-satellite-services/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Satellite_antenna_at_Wallops_Island%2C_Virginia_%282268-466%29.jpg/1280px-Satellite_antenna_at_Wallops_Island%2C_Virginia_%282268-466%29.jpg
+  alt: "Archive photo of a satellite ground antenna at Wallops Island, Virginia"
+  credit: "NOAA / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Satellite_antenna_at_Wallops_Island,_Virginia_(2268-466).jpg
 ---
 
 RBC Signals, the Redmond, Washington company that rents out access to a worldwide network of satellite ground stations, announced a $10 million strategic growth investment on Thursday, led by Washington Harbour Partners. The Washington, D.C. firm invests in national security, defense technology and cybersecurity companies. No other investors were named.
