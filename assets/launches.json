@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:12:04+00:00",
+ "updated": "2026-11-20T00:26:18+00:00",
  "upcoming": [
   {
    "name": "Falcon 9 Block 5 | USSF-317",
@@ -51,13 +51,6 @@
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan"
   },
   {
-   "name": "Long March 12 | SatNet LEO Group TBD?",
-   "net": "2026-11-24T07:00:00Z",
-   "status": "To Be Confirmed",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "location": "Wenchang Space Launch Site, People's Republic of China"
-  },
-  {
    "name": "Long March 2F/G | Shenzhou 24",
    "net": "2026-11-25T00:00:00Z",
    "status": "To Be Determined",
@@ -70,6 +63,13 @@
    "status": "To Be Confirmed",
    "provider": "Isar Aerospace",
    "location": "Andøya Spaceport"
+  },
+  {
+   "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
+   "net": "2026-11-27T00:00:00Z",
+   "status": "Go for Launch",
+   "provider": "Rocket Lab",
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
   },
   {
    "name": "Falcon 9 Block 5 | USSF-380",
@@ -86,13 +86,6 @@
    "location": "Cape Canaveral SFS, FL, USA"
   },
   {
-   "name": "Electron | StriX Launch 14",
-   "net": "2026-11-30T00:00:00Z",
-   "status": "To Be Determined",
-   "provider": "Rocket Lab",
-   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-  },
-  {
    "name": "Falcon 9 Block 5 | NROL-195",
    "net": "2026-11-30T00:00:00Z",
    "status": "To Be Determined",
@@ -101,6 +94,13 @@
   },
   {
    "name": "Falcon 9 Block 5 | OneWeb 21",
+   "net": "2026-11-30T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-21",
    "net": "2026-11-30T00:00:00Z",
    "status": "To Be Determined",
    "provider": "SpaceX",
