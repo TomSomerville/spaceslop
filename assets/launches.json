@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:55:59+00:00",
+ "updated": "2026-11-20T17:12:24+00:00",
  "upcoming": [
   {
    "name": "Long March 8A | SatNet LEO Group 30",
@@ -9,18 +9,18 @@
    "location": "Wenchang Space Launch Site, People's Republic of China"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-21T02:32:00Z",
-   "status": "Go for Launch",
-   "provider": "SpaceX",
-   "location": "Vandenberg SFB, CA, USA"
-  },
-  {
    "name": "Long March 6C | Unknown Payload",
    "net": "2026-11-21T03:50:00Z",
    "status": "Go for Launch",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Taiyuan Satellite Launch Center, People's Republic of China"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-317",
+   "net": "2026-11-21T04:20:35Z",
+   "status": "Go for Launch",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
   },
   {
    "name": "Falcon 9 Block 5 | NROL-136",
