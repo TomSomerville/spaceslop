@@ -4,6 +4,12 @@ date: 2026-11-20 07:40:00 +0000
 summary: "Greenland's government says private Starlink use is banned under its telecom law, but with limited resources it will not chase harmless cases, after claims Danish soldiers bring their own terminals."
 category: policy
 story_key: greenland-starlink-tusass-rules
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Starlink_01.webp/1280px-Starlink_01.webp
+  alt: "A Starlink satellite (archive image)"
+  credit: "Wikideas1 / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_01.webp
 sources:
   - name: European Spaceflight
     title: "Danish Soldiers Are Sneaking Starlink Terminals into Greenland"
