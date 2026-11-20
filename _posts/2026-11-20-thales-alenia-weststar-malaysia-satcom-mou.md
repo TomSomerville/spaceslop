@@ -11,6 +11,12 @@ sources:
   - name: Asia Pacific Defence Reporter
     title: "Thales and Weststar sign agreements for Malaysia's space ambitions, defence"
     url: https://asiapacificdefencereporter.com/posts/thales-and-weststar-sign-agreements-for-malaysias-space-ambitions-defence
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/CentreSpatialCannes_SiegeThalesAleniaSpace.jpg/1280px-CentreSpatialCannes_SiegeThalesAleniaSpace.jpg
+  alt: "Thales Alenia Space headquarters at the Cannes-Mandelieu Space Center"
+  credit: "Guy Lebègue / Wikimedia Commons"
+  license: "CC BY-SA 3.0"
+  source_url: https://commons.wikimedia.org/wiki/File:CentreSpatialCannes_SiegeThalesAleniaSpace.jpg
 ---
 
 Thales Alenia Space, the Thales–Leonardo satellite joint venture, has signed a memorandum of understanding with Weststar Aviation Services to explore secure satellite communications for Malaysia. The signing took place in Kuala Lumpur and was reported on November 18 and 19.
