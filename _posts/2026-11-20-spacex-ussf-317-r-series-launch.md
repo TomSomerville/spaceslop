@@ -28,6 +28,6 @@ The pace is the notable part. Two of the five earlier flights came within the pa
 
 ## Why it matters
 
-The cadence shows how routine short-turnaround national security launches have become on Falcon 9, and how much of that work now happens with minimal public disclosure. Booster reuse is part of what makes it possible: B1100 is flying its second Space Force mission in a row of national-security work, having supported USSF-385 earlier this year.
+The cadence shows how routine short-turnaround national security launches have become on Falcon 9, and how much of that work now happens with minimal public disclosure. Booster reuse is part of what makes it possible: B1100 has already flown NROL-105 and USSF-385, so this booster is a repeat national-security flyer.
 
 Whether the satellites are a single program or several, the tally of catalogued objects will be the main public clue once the launch is done.
