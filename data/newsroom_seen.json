@@ -2249,7 +2249,6 @@
  "ESA Human & Robotic Exploration": [
   "esa.int/directorates/about-us/directorates/commercialisation-and-industry-partnership",
   "esa.int/directorates/about-us/directorates/controlling-finance-and-operational-procurement",
-  "esa.int/directorates/about-us/directorates/human-and-robotic-exploration",
   "esa.int/directorates/about-us/directorates/resilience-navigation-and-connectivity",
   "esa.int/directorates/about-us/directorates/strategy-legal-and-external-matters",
   "esa.int/directorates/about-us/directorates/technology-engineering-and-quality",
@@ -2257,6 +2256,20 @@
   "esa.int/what-we-do/space-for-europe/esa-for-the-european-union",
   "esa.int/what-we-do/space-for-europe/satellites-in-everyday-life",
   "esa.int/business/business-with-esa/how-to-work-with-us",
+  "esa.int/articles/about-us/directorates/human-and-robotic-exploration/getting-ready-for-space",
+  "esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/shaping-europe-s-future-in-low-earth-orbit",
+  "esa.int/articles/about-us/directorates/human-and-robotic-exploration/moon/moon-explore-sprinter-missions",
+  "esa.int/articles/about-us/directorates/human-and-robotic-exploration/moon/science-and-technology-for-the-moon",
+  "esa.int/articles/terrae-novae-europe-s-exploration-vision",
+  "esa.int/articles/about-us/directorates/human-and-robotic-exploration/mars/europe-goes-to-mars-in-search-of-life-s-big-answers",
+  "esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
+  "esa.int/articles/sarcolab-3-understanding-how-muscles-adapt-to-spaceflight",
+  "esa.int/media/terrae-novae-earth-orbit-moon-and-mars",
+  "esa.int/media/artemis-ii-around-the-moon-in-10-days",
+  "esa.int/media/a-mission-for-the-rosalind-franklin-rover",
+  "esa.int/media/highlights-from-esa-basic-astronaut-training",
+  "blogs.esa.int/to-mars-and-back",
+  "esa.int/directorates/about-us/directorates/human-and-robotic-exploration",
   "esa.int/articles/about-us/directorates/human-and-robotic-exploration/happy-new-year-on-mars",
   "esa.int/articles/about-us/directorates/human-and-robotic-exploration/moon/artemis/fuel-tanks-and-wings-for-orion-module",
   "esa.int/articles/about-us/directorates/human-and-robotic-exploration/moon/artemis/skeleton-structure-for-orion-moon-module-arrives-for-assembly",
@@ -2271,7 +2284,6 @@
   "esa.int/articles/building-the-international-space-station-3",
   "esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/european-human-spaceflight-patches",
   "esa.int/articles/where-is-the-international-space-station",
-  "esa.int/articles/terrae-novae-europe-s-exploration-vision",
   "esa.int/about-us/directorates/human-and-robotic-exploration",
   "esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/where-to-order-esa-space-patches"
  ],
@@ -5778,11 +5790,13 @@
   "ohb.de/en/news/ohb-and-astroscale-sign-agreement-to-strengthen-space-security-and-orbital-services-capabilities"
  ],
  "Leonardo": [
-  "leonardo.com/en/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
-  "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
+  "leonardo.com/es/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
+  "leonardo.com/es/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/en/press-release-detail/-/detail/09-11-2026-enel-and-leonardo-sign-memorandum-of-understanding-on-energy-technology-and-security-at-the-service-of-italy-and-its-businesses",
+  "leonardo.com/en/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
   "leonardo.com/en/press-release-detail/-/detail/03-11-2026-fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali-osn-",
   "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-at-euronaval-with-new-c5istar-solutions-to-address-the-challenges-of-modern-maritime-scenarios",
+  "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/en/press-release-detail/-/detail/02-11-2026-leonardo-2027-financial-calendar",
   "leonardo.com/en/press-release-detail/-/detail/22-10-2026-leonardo-over-10-of-the-group-s-energy-consumption-in-italy-to-be-self-generated",
   "leonardo.com/en/press-release-detail/-/detail/21-10-2026-cugs-project-marks-major-step-forward-for-european-unmanned-ground-capabilities",
@@ -5797,9 +5811,7 @@
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/development-and-new-skills",
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/commitment-and-esg-results",
   "leonardo.com/ko/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
-  "leonardo.com/ko/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
-  "leonardo.com/es/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
-  "leonardo.com/es/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments"
+  "leonardo.com/ko/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments"
  ],
  "Eutelsat": [
   "eutelsat.com/satellite-services/broadcast-video/video-neighbourhoods/middle-east-north-africa-mena",
