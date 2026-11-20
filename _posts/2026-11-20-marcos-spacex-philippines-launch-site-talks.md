@@ -11,6 +11,12 @@ sources:
   - name: GMA News Online
     title: "Elon Musk looking for SpaceX launch sites? Marcos says PH could look into it"
     url: https://www.gmanetwork.com/news/scitech/science/1010226/elon-musk-looking-for-spacex-launch-sites-marcos-says-ph-could-look-into-it/story/
+image:
+  path: https://images-assets.nasa.gov/image/NHQ20260213_admin_0009/NHQ20260213_admin_0009~large.jpg
+  alt: "Archive photo: a Falcon 9 first stage lands at Landing Zone 40 after the Crew-12 launch in February 2026"
+  credit: "NASA/John Kraus"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/NHQ20260213_admin_0009
 ---
 
 Philippine President Ferdinand Marcos Jr. said on Friday that his country could become a launch site for SpaceX, while stressing that the conversation is at a very early stage. Nothing concrete has been announced: no site, no investment figure, no agreement and no schedule.
