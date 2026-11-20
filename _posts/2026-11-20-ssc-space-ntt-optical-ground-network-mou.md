@@ -8,6 +8,12 @@ sources:
   - name: Via Satellite
     title: "SSC Space Furthers Optical Space Ambitions with NTT MoU"
     url: https://www.satellitetoday.com/technology/2026/11/20/ssc-space-furthers-optical-space-ambitions-with-ntt-mou/
+image:
+  path: https://images-assets.nasa.gov/image/PIA26148/PIA26148~large.jpg
+  alt: "Archive photo of NASA's experimental Goldstone antenna fitted with an optical terminal for laser downlinks"
+  credit: "NASA/JPL-Caltech"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/PIA26148
 ---
 
 SSC Space and Japanese telecom group NTT have signed a memorandum of understanding to work together on optical communications between space and the ground, Via Satellite reported on Friday. No money, station counts or deadlines were disclosed, so this is an agreement to explore rather than a contract to build.
