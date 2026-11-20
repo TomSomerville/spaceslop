@@ -4,6 +4,12 @@ date: 2026-11-20 19:15:00 +0000
 summary: "Profepa sent inspectors to Playa Bagdad after fragments linked to the Nov. 13 Starship flight turned up; SpaceX has not commented."
 category: vehicles
 story_key: starship-flight-15-mexico-debris
+image:
+  path: https://images-assets.nasa.gov/image/iss072e220043/iss072e220043~large.jpg
+  alt: "Archive photo: the plume of Starship's sixth flight test seen from the International Space Station in 2024"
+  credit: "NASA/Don Pettit"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/iss072e220043
 sources:
   - name: Rio Times
     title: "Profepa inspects Playa Bagdad SpaceX debris"
