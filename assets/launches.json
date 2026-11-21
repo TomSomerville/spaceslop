@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-21T11:56:18+00:00",
+ "updated": "2026-11-21T12:10:34+00:00",
  "upcoming": [
-  {
-   "name": "Long March 8A | SatNet LEO Group 30",
-   "net": "2026-11-20T11:59:00Z",
-   "status": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "location": "Wenchang Space Launch Site, People's Republic of China"
-  },
   {
    "name": "Falcon 9 Block 5 | USSF-317",
    "net": "2026-11-21T04:20:35Z",
@@ -105,6 +98,13 @@
    "status": "Go for Launch",
    "provider": "SpaceX",
    "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Kuaizhou 11 | Unknown Payload",
+   "net": "2026-11-30T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "ExPace",
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China"
   }
  ]
 }
