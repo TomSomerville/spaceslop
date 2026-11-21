@@ -42,17 +42,19 @@ its science results are not.
    reputable outlet that isn't already on the site to the candidates for step 4. Treat
    these exactly like feed candidates: read the real article before writing.
 4. Group candidates that are about the same event into one story. Drop everything out of
-   scope. Rank what's left by newsworthiness:
+   scope. Order what's left by newsworthiness (this sets the writing order, not a limit):
    - real events (a launch happened, a contract was signed, a test fired, a failure)
      beat previews, opinion and recaps
    - several outlets covering it is a strong signal
    - big players and firsts rank higher
    - a story already on the site only gets a new article if there is real new
      information (then say what changed and link the earlier article)
-5. **There is no story limit.** Write every in-scope, newsworthy story that isn't already
-   on the site, in ranked order (priority companies first). Stations, Moon and Mars base
-   building, and rovers are core beat: never skip one because the run is busy. Picking
-   zero is fine if nothing clears the bar.
+5. **There is no story limit. If a story fits the beat above, publish it.** Do not hold
+   stories back or cap the number per run. The ranking in step 4 only sets the order you
+   write them in (priority companies first); it is not a cut-off. Stations, Moon and Mars
+   base building, and rovers are core beat. The only reasons to skip a candidate are: it
+   is out of scope, it is already on the site with no new information, or no source can
+   be read.
    Upcoming launches in `data/launches.json` within the next ~48 hours with real news
    attached (a scrub, a first flight, a notable payload) can be a story too.
 6. For each story, read the source articles in full with WebFetch (at least one; two or
