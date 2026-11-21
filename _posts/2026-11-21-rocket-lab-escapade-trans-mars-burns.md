@@ -22,6 +22,6 @@ Rocket Lab describes the injection burn as one of the mission's two biggest prop
 
 ## What's next
 
-Mars orbit insertion is scheduled for September 2027, with the first science formation expected in 2028. The mission is Rocket Lab's first interplanetary spacecraft build, and it lands in the middle of a competition over NASA's Mars Telecommunications Orbiter, which went to Blue Origin and which Rocket Lab is challenging. Spacecraft that arrive at Mars on schedule are a useful exhibit for a company making the case that it can build deep-space hardware.
+Mars orbit insertion is scheduled for September 2027, with the first science formation expected in 2028. The milestone lands amid a dispute over NASA's Mars Telecommunications Orbiter, which NASA awarded to Blue Origin and which Rocket Lab is challenging, according to a search-result summary of recent coverage. Spacecraft that arrive at Mars on schedule are a useful exhibit for a company making the case that it can build deep-space hardware.
 
 Note: this account relies on Rocket Lab's own release as republished by a trade outlet; Rocket Lab's pages were not directly accessible when this was written.
