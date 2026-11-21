@@ -8,6 +8,12 @@ sources:
   - name: NASA
     title: "Dragon Returns to Earth Packed With Science and Cargo"
     url: https://www.nasa.gov/blogs/spacestation/2026/11/21/dragon-returns-to-earth-packed-with-science-and-cargo/
+image:
+  path: https://images-assets.nasa.gov/image/jsc2012e229708/jsc2012e229708~large.jpg
+  alt: "A SpaceX Dragon shortly after splashdown in the Pacific in 2012 (archive photo of the first cargo mission, not this one)"
+  credit: "NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/jsc2012e229708
 ---
 
 The uncrewed SpaceX Dragon that spent five weeks at the International Space Station is back. NASA says the capsule splashed down in the Pacific Ocean near Los Angeles at 2:03 p.m. PST on 21 November, completing the agency's 35th SpaceX commercial resupply services mission.
