@@ -11,6 +11,12 @@ sources:
   - name: The Center Square
     title: "SpaceX plans massive wharf, road network on Louisiana coast"
     url: https://justthenews.com/index%2Ephp/nation/states/center-square/spacex-plans-massive-wharf-road-network-louisiana-coast
+image:
+  path: https://images-assets.nasa.gov/image/NHQ202409270001/NHQ202409270001~large.jpg
+  alt: "Archive photo: a SpaceX Falcon 9 with Dragon is raised vertical at Space Launch Complex 40, Florida"
+  credit: "NASA/Keegan Barber"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/NHQ202409270001
 ---
 
 SpaceX's proposed launch complex on the Louisiana coast is getting more concrete, and more contested, as records and permit filings show how large the build-out would be. Local reporting this week points to a public meeting on the wharf and road plans in Vermilion Parish.
