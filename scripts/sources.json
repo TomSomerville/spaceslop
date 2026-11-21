@@ -127,6 +127,70 @@
     {
       "name": "The Space Review",
       "url": "https://www.thespacereview.com/articles.xml"
+    },
+    {
+      "name": "NASA Commercial Space",
+      "url": "https://www.nasa.gov/humans-in-space/commercial-space/feed/"
+    },
+    {
+      "name": "NASA Artemis missions",
+      "url": "https://www.nasa.gov/missions/artemis/feed/"
+    },
+    {
+      "name": "NASA CLPS",
+      "url": "https://www.nasa.gov/missions/artemis/clps/feed/"
+    },
+    {
+      "name": "ESA Human & Robotic Exploration (RSS)",
+      "url": "https://www.esa.int/rss/human-and-robotic-exploration.rss"
+    },
+    {
+      "name": "ESA Space Transportation (RSS)",
+      "url": "https://www.esa.int/rss/space-transportation.rss"
+    },
+    {
+      "name": "Payload · Lunar",
+      "url": "https://payloadspace.com/category/lunar/feed/"
+    },
+    {
+      "name": "NASASpaceflight · Moon",
+      "url": "https://www.nasaspaceflight.com/tag/moon/feed/"
+    },
+    {
+      "name": "NASASpaceflight · ISS",
+      "url": "https://www.nasaspaceflight.com/tag/iss/feed/"
+    },
+    {
+      "name": "NASASpaceflight · Mars",
+      "url": "https://www.nasaspaceflight.com/tag/mars/feed/"
+    },
+    {
+      "name": "NASASpaceflight · Artemis",
+      "url": "https://www.nasaspaceflight.com/tag/artemis/feed/"
+    },
+    {
+      "name": "NASASpaceflight · Rovers",
+      "url": "https://www.nasaspaceflight.com/tag/rover/feed/"
+    },
+    {
+      "name": "Space.com · Moon base",
+      "url": "https://www.space.com/feeds/tag/moon-base"
+    },
+    {
+      "name": "Space.com · ISS",
+      "url": "https://www.space.com/feeds/tag/international-space-station"
+    },
+    {
+      "name": "Space.com · Tiangong",
+      "url": "https://www.space.com/feeds/tag/tiangong"
+    },
+    {
+      "name": "SpaceNews · Mars",
+      "url": "https://spacenews.com/tag/mars/feed/"
+    },
+    {
+      "name": "Magna Petra",
+      "url": "https://magnapetra.com/feed/"
     }
   ],
   "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",
@@ -248,6 +312,14 @@
     {
       "name": "Google News · China & intl lunar",
       "url": "https://news.google.com/rss/search?q=%22International+Lunar+Research+Station%22+OR+ILRS+OR+%22Chang%27e-7%22+OR+%22Chang%27e-8%22+OR+Lanyue+OR+Mengzhou+OR+%22lunar+base%22+China+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Habitat & ISRU builders",
+      "url": "https://news.google.com/rss/search?q=%22Max+Space%22+OR+%22Starpath+Robotics%22+OR+%22AI+SpaceFactory%22+OR+%22Interstellar+Lab%22+OR+%22Lunar+Resources%22+OR+%22Honeybee+Robotics%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Rover & lunar power builders",
+      "url": "https://news.google.com/rss/search?q=%22Lunar+Cruiser%22+OR+Spacebit+OR+%22Rashid+rover%22+OR+%22Magna+Petra%22+OR+%22Zeno+Power%22+OR+%22Project+Olympus%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
     }
   ]
 }

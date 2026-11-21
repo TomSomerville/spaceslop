@@ -13,7 +13,7 @@
   "region": "North America",
   "does": "Launch (New Glenn, New Shepard), Blue Moon lunar lander",
   "news": "https://www.blueorigin.com/news",
-  "query": "\"Blue Origin\" OR \"New Glenn\" OR \"New Shepard\" OR \"Blue Moon\" lander OR \"BE-4\"",
+  "query": "\"Blue Origin\" OR \"New Glenn\" OR \"New Shepard\" OR \"Blue Moon\" lander OR \"BE-4\" OR \"Honeybee Robotics\"",
   "priority": true
  },
  {
@@ -1615,5 +1615,69 @@
   "does": "Texas state space agency (SEARF grants)",
   "news": "https://space.texas.gov/news",
   "query": "\"Texas Space Commission\""
+ },
+ {
+  "name": "ICON",
+  "country": "USA",
+  "region": "North America",
+  "does": "Lunar and Mars surface construction (Project Olympus, NASA lunar construction award)",
+  "news": "https://www.iconbuild.com/newsroom",
+  "query": "ICON (\"Project Olympus\" OR lunar OR Moon OR Mars) OR \"ICON 3D\""
+ },
+ {
+  "name": "Zeno Power",
+  "country": "USA",
+  "region": "North America",
+  "does": "Radioisotope power for the lunar surface and spacecraft",
+  "news": "https://www.zenopower.com/news",
+  "query": "\"Zeno Power\""
+ },
+ {
+  "name": "Venturi Space",
+  "country": "Monaco",
+  "region": "Europe",
+  "does": "Lunar rovers (MONA LUNA, ALTA LUNA), rover wheels",
+  "news": "https://venturi.space/en/feed/?post_type=article",
+  "query": "\"Venturi Space\" OR \"Mona Luna\" OR \"Alta Luna\""
+ },
+ {
+  "name": "Moon Village Association",
+  "country": "Austria",
+  "region": "International",
+  "does": "International association for lunar settlement",
+  "news": "https://moonvillageassociation.org/feed/",
+  "query": "\"Moon Village Association\""
+ },
+ {
+  "name": "Space Applications Services",
+  "country": "Belgium",
+  "region": "Europe",
+  "does": "Lunar surface operations, rovers, ISS payloads (ICE Cubes)",
+  "news": "https://www.spaceapplications.com/news/feed/",
+  "query": "\"Space Applications Services\""
+ },
+ {
+  "name": "Dymon",
+  "country": "Japan",
+  "region": "Asia",
+  "does": "Micro lunar rover (YAOKI)",
+  "news": "https://dymon.co.jp/en/news/",
+  "query": "Dymon YAOKI OR \"YAOKI rover\""
+ },
+ {
+  "name": "ISS National Lab",
+  "country": "USA",
+  "region": "North America",
+  "does": "Manages the ISS US National Laboratory, station research and in-space production",
+  "news": "https://www.issnationallab.org/press-releases/feed/",
+  "query": "\"ISS National Lab\" OR CASIS"
+ },
+ {
+  "name": "ISRO Human Spaceflight",
+  "country": "India",
+  "region": "Asia",
+  "does": "Gaganyaan and Bharatiya Antariksh Station updates (ISRO updates archive)",
+  "news": "https://www.isro.gov.in/Archives.html",
+  "query": "\"Bharatiya Antariksh Station\" OR Gaganyaan OR Gaganyatri"
  }
 ]
