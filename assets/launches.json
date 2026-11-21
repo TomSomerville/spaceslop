@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:10:43+00:00",
+ "updated": "2026-11-21T04:25:55+00:00",
  "upcoming": [
   {
    "name": "Long March 8A | SatNet LEO Group 30",
@@ -11,7 +11,7 @@
   {
    "name": "Falcon 9 Block 5 | USSF-317",
    "net": "2026-11-21T04:20:35Z",
-   "status": "Go for Launch",
+   "status": "Launch in Flight",
    "provider": "SpaceX",
    "location": "Vandenberg SFB, CA, USA"
   },
