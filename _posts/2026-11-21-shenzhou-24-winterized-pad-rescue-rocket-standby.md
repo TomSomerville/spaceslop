@@ -8,6 +8,12 @@ sources:
   - name: Global Times
     title: "Preparations for Shenzhou-24 mission progressing smoothly"
     url: https://www.globaltimes.cn/page/202611/1374541.shtml
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Preparation_for_Shenzhou-15_Crewed_Spacecraft.png/1280px-Preparation_for_Shenzhou-15_Crewed_Spacecraft.png
+  alt: "Preparations for a Shenzhou crewed spacecraft launch (archive photo of Shenzhou-15)"
+  credit: "China News Service / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Preparation_for_Shenzhou-15_Crewed_Spacecraft.png
 ---
 
 Chinese state media has detailed how Jiuquan is being readied for Shenzhou-24, the crewed flight due to carry the first foreign visitor to the Tiangong station. The launch date is still unannounced: the China Manned Space Agency says only that the mission will fly "at an appropriate time", and Global Times describes it as scheduled for the coming days.
