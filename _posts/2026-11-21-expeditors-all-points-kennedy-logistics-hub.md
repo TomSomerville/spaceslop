@@ -11,6 +11,12 @@ sources:
   - name: SpaceNews
     title: "All Points Logistics announces partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
     url: https://www.spacelaunchschedule.com/space-news/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/
+image:
+  path: https://images-assets.nasa.gov/image/DSC01820/DSC01820~large.jpg
+  alt: "Archive photo: the SLS rocket and Orion spacecraft roll out from the Vehicle Assembly Building at Kennedy Space Center in 2022"
+  credit: "Brandon Hancock / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/DSC01820
 ---
 
 Expeditors International, the Seattle-based freight forwarder, will be the exclusive logistics provider and anchor tenant for a spacecraft processing and logistics complex that All Points Logistics is building at Kennedy Space Center. The companies announced the deal on November 18.
