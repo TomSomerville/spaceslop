@@ -4,6 +4,12 @@ date: 2026-11-21 22:30:00 +0000
 summary: "Both Rocket Lab-built ESCAPADE spacecraft completed roughly 10-minute trans-Mars injection burns on Nov. 7 and 9, doing the job a rocket upper stage normally does."
 category: vehicles
 story_key: rocket-lab-escapade-tmi-burns
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0001/KSC-20240818-PH-NLP01_0001~large.jpg
+  alt: "The two ESCAPADE spacecraft being unloaded in Florida in August 2024, before launch"
+  credit: "NASA/Norman Phelps"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20240818-PH-NLP01_0001
 sources:
   - name: iConnect007 (Rocket Lab release)
     title: "NASA's Rocket Lab-Built ESCAPADE Satellites Begin Journey to Mars"
