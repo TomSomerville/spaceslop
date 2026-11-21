@@ -123,6 +123,10 @@
     {
       "name": "ULA Blog",
       "url": "https://blog.ulalaunch.com/blog/rss.xml"
+    },
+    {
+      "name": "The Space Review",
+      "url": "https://www.thespacereview.com/articles.xml"
     }
   ],
   "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",
@@ -216,6 +220,34 @@
     {
       "name": "Google News · UK & Nordic spaceports",
       "url": "https://news.google.com/rss/search?q=SaxaVord+OR+And%C3%B8ya+OR+Esrange+OR+%22Spaceport+Cornwall%22+OR+Skyrora+OR+%22Isar+Aerospace%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Commercial stations",
+      "url": "https://news.google.com/rss/search?q=%22commercial+space+station%22+OR+%22commercial+LEO+destination%22+OR+%22space+station+module%22+OR+Haven-1+OR+Haven-2+OR+%22Axiom+Station%22+OR+Starlab+OR+%22Orbital+Reef%22+OR+%22Max+Space%22+OR+Gravitics+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Station construction & ISS transition",
+      "url": "https://news.google.com/rss/search?q=%22ISS+deorbit%22+OR+%22ISS+transition%22+OR+%22Bharatiya+Antariksh%22+OR+%22Tiangong+expansion%22+OR+%22Russian+Orbital+Station%22+OR+%22Lunar+Gateway%22+OR+%22Gateway+module%22+OR+%22habitation+module%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Moon base construction",
+      "url": "https://news.google.com/rss/search?q=%22moon+base%22+OR+%22lunar+base%22+OR+%22lunar+habitat%22+OR+%22lunar+construction%22+OR+%22lunar+surface+habitat%22+OR+%22lunar+outpost%22+OR+%22Artemis+base+camp%22+OR+%22Moon+Base+program%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Lunar infrastructure & ISRU",
+      "url": "https://news.google.com/rss/search?q=%22lunar+power%22+OR+%22fission+surface+power%22+OR+%22lunar+ISRU%22+OR+%22regolith%22+construction+OR+%22lunar+landing+pad%22+OR+%22lunar+mining%22+OR+%22helium-3%22+OR+%22lunar+oxygen%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Rovers",
+      "url": "https://news.google.com/rss/search?q=%22lunar+rover%22+OR+%22Lunar+Terrain+Vehicle%22+OR+%22moon+rover%22+OR+%22Mars+rover%22+contract+OR+%22pressurized+rover%22+OR+%22lunar+utility+rover%22+OR+%22lunar+cruiser%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Mars base & missions",
+      "url": "https://news.google.com/rss/search?q=%22Mars+mission%22+OR+%22Mars+lander%22+OR+%22Mars+habitat%22+OR+%22Starship+to+Mars%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · China & intl lunar",
+      "url": "https://news.google.com/rss/search?q=%22International+Lunar+Research+Station%22+OR+ILRS+OR+%22Chang%27e-7%22+OR+%22Chang%27e-8%22+OR+Lanyue+OR+Mengzhou+OR+%22lunar+base%22+China+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
     }
   ]
 }

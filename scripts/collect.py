@@ -82,7 +82,14 @@ def child_text(el, *names):
 
 
 def parse_feed(name, raw):
-    root = ET.fromstring(raw)
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        # Some feeds (e.g. The Space Review) declare UTF-8 but contain Windows-1252 bytes.
+        # Decode leniently and parse the text instead of losing the whole feed.
+        text = raw.decode("utf-8", "replace") if isinstance(raw, bytes) else raw
+        text = re.sub(r"^\s*<\?xml[^>]*\?>", "", text)
+        root = ET.fromstring(text)
     items = []
     for el in root.iter():
         kind = local(el.tag)
