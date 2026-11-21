@@ -34,7 +34,7 @@ its science results are not.
    `priority` field. Also, every run: web search `"<company>" news` for the last 24 hours
    and try their official news page once with WebFetch (if it refuses, move on; never try
    to get around a block). Any new, in-scope story about a priority company that isn't
-   already on the site must be written this run, ahead of the 6-story limit.
+   already on the site must be written this run, first.
    **Web sweep (every run):** feeds lag behind breaking news, so also do 3 quick web
    searches for space-industry news from the last 12 hours, for example
    `"rocket launch" news today`, `SpaceX OR "Blue Origin" OR "Rocket Lab" news`, and
@@ -49,7 +49,10 @@ its science results are not.
    - big players and firsts rank higher
    - a story already on the site only gets a new article if there is real new
      information (then say what changed and link the earlier article)
-5. Pick **at most 6** stories this run. Picking zero is fine if nothing clears the bar.
+5. **There is no story limit.** Write every in-scope, newsworthy story that isn't already
+   on the site, in ranked order (priority companies first). Stations, Moon and Mars base
+   building, and rovers are core beat: never skip one because the run is busy. Picking
+   zero is fine if nothing clears the bar.
    Upcoming launches in `data/launches.json` within the next ~48 hours with real news
    attached (a scrub, a first flight, a notable payload) can be a story too.
 6. For each story, read the source articles in full with WebFetch (at least one; two or
