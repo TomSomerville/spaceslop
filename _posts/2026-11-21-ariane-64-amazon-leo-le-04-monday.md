@@ -11,6 +11,12 @@ sources:
   - name: NeoTeo
     title: "Arianespace plans a 36-satellite Amazon Leo launch for Nov. 23"
     url: https://www.neoteo.com/en/arianespace-plans-a-36-satellite-amazon-leo-launch-for-nov-23
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ariane_6_with_P160C_Boosters.jpg/1280px-Ariane_6_with_P160C_Boosters.jpg
+  alt: "An Ariane 6 lifts off from Europe's Spaceport in Kourou, French Guiana (archive photo)"
+  credit: "ESA - S. Corvaja / Wikimedia Commons"
+  license: "CC BY-SA 3.0 igo"
+  source_url: https://commons.wikimedia.org/wiki/File:Ariane_6_with_P160C_Boosters.jpg
 ---
 
 Arianespace is lined up to launch 36 Amazon Leo broadband satellites on an Ariane 64 from the Guiana Space Centre on Monday, Nov. 23, according to a schedule report published Nov. 19. The window runs from 11:09 to 11:38 UTC (08:09 to 08:38 in Kourou), Advanced Television reported.
