@@ -8,6 +8,12 @@ sources:
   - name: Interesting Engineering
     title: "China sets 2030 deadline for first lunar resource extraction demonstration"
     url: https://interestingengineering.com/space/china-lunar-resource-extraction
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Chang%27e_6_mockup_at_IAC_2024_02.jpg/1280px-Chang%27e_6_mockup_at_IAC_2024_02.jpg
+  alt: "A Chang'e 6 spacecraft mockup shown at the 2024 International Astronautical Congress in Milan; archive photo from China's lunar program"
+  credit: "BugWarp / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Chang%27e_6_mockup_at_IAC_2024_02.jpg
 ---
 
 Wu Weiren, chief designer of China's lunar exploration program, and his research team have laid out a staged roadmap for pulling resources off the Moon, with a first technology demonstration due by 2030, according to Interesting Engineering's report on a paper due to appear in the *Journal of Deep Space Exploration*.
