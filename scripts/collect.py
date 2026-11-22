@@ -267,7 +267,7 @@ def collect(hours, dry_run=False):
         got.sort(key=lambda i: i["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
         for i in got:
             i["summary"] = ""  # Google's summary is just a list of links
-        results.append((name, got[:25], err))
+        results.append((name, got[:60], err))
         time.sleep(1.5)
     for name, got, err in results:
         items += got
@@ -285,7 +285,7 @@ def collect(hours, dry_run=False):
         for i in got:
             i["summary"] = ""
         got.sort(key=lambda i: i["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
-        items += got[:30]
+        items += got[:60]
         report[label] = err or len(got)
         time.sleep(1.5)
     # Priority companies (see "priority" in companies.json): a dedicated Google News search

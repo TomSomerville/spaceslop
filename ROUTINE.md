@@ -55,8 +55,19 @@ its science results are not.
    base building, and rovers are core beat. The only reasons to skip a candidate are: it
    is out of scope, it is already on the site with no new information, or no source can
    be read.
-   Upcoming launches in `data/launches.json` within the next ~48 hours with real news
-   attached (a scrub, a first flight, a notable payload) can be a story too.
+   **Launches count as stories.** Every orbital launch in the recent list of
+   `data/launches.json` that isn't on the site yet gets its own article (provider, vehicle,
+   payload, site, outcome, booster recovery), sourced from the provider's page or a
+   reputable outlet. Upcoming launches within the next ~48 hours with real news attached
+   (a scrub, a first flight, a notable payload) are stories too.
+   **Smaller industry news counts.** Contracts, funding rounds, partnerships, test
+   campaigns, facility openings, executive appointments and regulatory filings by space
+   companies and agencies are in scope; write each one that is new, even if only one
+   outlet or the company's own newsroom has it.
+   **Non-English sources count.** Candidates from the foreign-language Google News feeds
+   (Japanese, French, German, Spanish, Korean, Chinese, Hindi) are in scope when the story
+   is space industry. Read the original, write the article in English, and cite the
+   original outlet.
 6. For each story, read the source articles in full with WebFetch (at least one; two or
    more when available). Candidates whose source ends in `newsroom` are new posts on a
    company's or agency's own official news page (see `scripts/companies.json`); their

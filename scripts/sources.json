@@ -320,6 +320,34 @@
     {
       "name": "Google News · Rover & lunar power builders",
       "url": "https://news.google.com/rss/search?q=%22Lunar+Cruiser%22+OR+Spacebit+OR+%22Rashid+rover%22+OR+%22Magna+Petra%22+OR+%22Zeno+Power%22+OR+%22Project+Olympus%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google News · Japan (ja)",
+      "url": "https://news.google.com/rss/search?q=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88+%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92+OR+%E5%AE%87%E5%AE%99%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+OR+%E6%9C%88%E9%9D%A2+OR+%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F+OR+%E5%AE%87%E5%AE%99%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC+OR+JAXA+OR+H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja"
+    },
+    {
+      "name": "Google News · France (fr)",
+      "url": "https://news.google.com/rss/search?q=%22lanceur+spatial%22+OR+%22station+spatiale%22+OR+%22industrie+spatiale%22+OR+CNES+OR+%22Ariane+6%22+OR+%22satellites%22+constellation+OR+%22start-up+spatiale%22+when%3A1d&hl=fr&gl=FR&ceid=FR%3Afr"
+    },
+    {
+      "name": "Google News · Germany (de)",
+      "url": "https://news.google.com/rss/search?q=Raumfahrt+OR+Tr%C3%A4gerrakete+OR+Raumstation+OR+%22Isar+Aerospace%22+OR+%22Rocket+Factory%22+OR+DLR+Raumfahrt+OR+Satellitenstart+when%3A1d&hl=de&gl=DE&ceid=DE%3Ade"
+    },
+    {
+      "name": "Google News · Spain & LatAm (es)",
+      "url": "https://news.google.com/rss/search?q=cohete+OR+lanzamiento+espacial+OR+%22estaci%C3%B3n+espacial%22+OR+sat%C3%A9lite+OR+PLD+OR+%22agencia+espacial%22+when%3A1d&hl=es&gl=ES&ceid=ES%3Aes"
+    },
+    {
+      "name": "Google News · Korea (ko)",
+      "url": "https://news.google.com/rss/search?q=%EB%A1%9C%EC%BC%93+OR+%EB%B0%9C%EC%82%AC%EC%B2%B4+OR+%EC%9A%B0%EC%A3%BC%EC%A0%95%EA%B1%B0%EC%9E%A5+OR+%EB%8B%AC+%ED%83%90%EC%82%AC+OR+%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1+OR+%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5%EC%B2%AD+OR+%EB%88%84%EB%A6%AC%ED%98%B8+when%3A1d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News · China (zh)",
+      "url": "https://news.google.com/rss/search?q=%E7%81%AB%E7%AE%AD+OR+%E5%8F%91%E5%B0%84+OR+%E7%A9%BA%E9%97%B4%E7%AB%99+OR+%E5%8D%AB%E6%98%9F+OR+%E6%8E%A2%E6%9C%88+OR+%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9+OR+%E8%88%AA%E5%A4%A9+when%3A1d&hl=zh-HK&gl=HK&ceid=HK%3Azh-Hant"
+    },
+    {
+      "name": "Google News · India (hi)",
+      "url": "https://news.google.com/rss/search?q=%E0%A4%87%E0%A4%B8%E0%A4%B0%E0%A5%8B+OR+%E0%A4%97%E0%A4%97%E0%A4%A8%E0%A4%AF%E0%A4%BE%E0%A4%A8+OR+%22%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%B6%E0%A4%A8%22+OR+%22%E0%A4%89%E0%A4%AA%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%AA%E0%A4%A3%22+OR+%22%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A8%22+when%3A1d&hl=hi&gl=IN&ceid=IN%3Ahi"
     }
   ]
 }
