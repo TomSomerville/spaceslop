@@ -4,6 +4,12 @@ date: 2026-11-22 05:15:00 +0000
 summary: "A Soyuz-2.1b lifted off from Vostochny on November 14 carrying MT-LAB's KOEN and Sputnik Group's Kinosputnik, the first Cosmos-project subsidised private satellites, Roscosmos said."
 category: launch
 story_key: soyuz-koen-kinosputnik
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Launch_of_the_Soyuz-2.1a_from_Vostochny_2016-04-28_008.jpg/1280px-Launch_of_the_Soyuz-2.1a_from_Vostochny_2016-04-28_008.jpg
+  alt: "Archive photo of a Soyuz-2.1a launching from Vostochny in 2016"
+  credit: "kremlin.ru / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Launch_of_the_Soyuz-2.1a_from_Vostochny_2016-04-28_008.jpg
 sources:
   - name: TASS
     title: "Soyuz-2.1b launches KOEN and Kinosputnik spacecraft from Vostochny"
