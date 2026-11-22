@@ -8,6 +8,12 @@ sources:
   - name: Spaceflight Now
     title: "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
     url: https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Starlink_17-19_Mission_Aboard_Falcon_9_Launches_from_Vandenberg_Space_Force_Base_%289499207%29.jpg/1280px-Starlink_17-19_Mission_Aboard_Falcon_9_Launches_from_Vandenberg_Space_Force_Base_%289499207%29.jpg
+  alt: "Archive photo: a Falcon 9 launches from Space Launch Complex 4 East at Vandenberg in January 2026"
+  credit: "U.S. Space Force photo by 2nd Lt. Andrew Taller / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_17-19_Mission_Aboard_Falcon_9_Launches_from_Vandenberg_Space_Force_Base_(9499207).jpg
 ---
 
 SpaceX launched NROL-136 for the National Reconnaissance Office from Space Launch Complex 4E at Vandenberg Space Force Base on Sunday morning, as previewed in [our earlier article](/2026/11/21/nrol-136-falcon-9-vandenberg-preview/). Spaceflight Now's live coverage reports liftoff at about 12:23 UTC (4:23 a.m. Pacific).
