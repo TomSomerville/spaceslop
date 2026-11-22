@@ -20,4 +20,4 @@ The payload was not named, but RussianSpaceWeb identifies it as a Glonass-class 
 
 This was the second Glonass launch from Plesetsk in 2026, following one on 17 September. Authorities in the Komi Republic and Tyumen Region issued drop-zone warnings for spent stages, consistent with this class of mission.
 
-Glonass is Russia's counterpart to GPS, and replenishing it with newer K-series satellites is a long-running effort. The launch is a small data point for Russian military launch cadence, which the same outlet separately tracks in its coverage of pressure on Soyuz production.
+Glonass is Russia's counterpart to GPS, and replenishing it with newer K-series satellites is a long-running effort. The launch adds to Russia's steady, if quiet, military launch cadence from Plesetsk.
