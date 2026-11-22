@@ -10,7 +10,8 @@ GitHub Pages (Jekyll) rebuilds the site at https://spaceslop.beached.lol automat
 and crewed flight, space stations (ISS, Tiangong, commercial stations), Moon and Mars
 programs and bases, in-space manufacturing, servicing and logistics, satellite
 constellations as an industry (Starlink, Kuiper and so on), space companies (funding,
-deals, contracts, layoffs), launch sites, and space policy, budgets and regulation (FAA,
+deals, contracts, layoffs), **new space startups anywhere in the world (a top interest:
+new companies, stealth launches, seed and venture rounds, first products, first contracts)**, launch sites, and space policy, budgets and regulation (FAA,
 NASA budget, Space Force launch contracts). Also notable statements by major figures:
 Musk, Bezos, Peter Beck, Tory Bruno, Isaacman, Shotwell, agency heads.
 
@@ -41,6 +42,12 @@ its science results are not.
    `"space station" OR "lunar" OR "space startup" news`. Add any in-scope story from a
    reputable outlet that isn't already on the site to the candidates for step 4. Treat
    these exactly like feed candidates: read the real article before writing.
+   **Startup sweep (every run):** also search for new space startups and funding rounds
+   from the last 24 hours, in English and in at least two other languages, rotating between
+   runs (for example , , ,
+   , , , ,
+   ). Every new space startup story found this way that isn't on the
+   site is a candidate; write it, translating foreign-language sources into English.
 4. Group candidates that are about the same event into one story. Drop everything out of
    scope. Order what's left by newsworthiness (this sets the writing order, not a limit):
    - real events (a launch happened, a contract was signed, a test fired, a failure)
