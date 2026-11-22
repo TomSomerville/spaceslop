@@ -11,6 +11,12 @@ sources:
   - name: New Space Economy
     title: "China launches three Yaogan-51 satellites from Xichang"
     url: https://newspaceeconomy.ca/2026/11/06/china-launches-three-yaogan-51-satellites-from-xichang/
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/1/1f/CZ-2C_rendering.jpg
+  alt: "Illustration of the Long March 2C rocket with its two fairing options (not a photo of this launch)"
+  credit: "Shujianyang / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:CZ-2C_rendering.jpg
 ---
 
 China launched three Yaogan-51 satellites, numbered 07, 08 and 09, on a Long March 2C from the Xichang Satellite Launch Center in Sichuan at 11:58 p.m. Beijing time on November 5 (15:58 UTC). State media said the spacecraft reached their planned orbits.
