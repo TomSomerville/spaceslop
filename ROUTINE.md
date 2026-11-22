@@ -44,9 +44,9 @@ its science results are not.
    these exactly like feed candidates: read the real article before writing.
    **Startup sweep (every run):** also search for new space startups and funding rounds
    from the last 24 hours, in English and in at least two other languages, rotating between
-   runs (for example , , ,
-   , , , ,
-   ). Every new space startup story found this way that isn't on the
+   runs (for example `space startup raises`, `spacetech seed round`, `宇宙スタートアップ 資金調達`,
+   `商业航天 融资`, `우주 스타트업 투자`, `start-up spatiale lève`, `Raumfahrt Startup Finanzierung`,
+   `startup espacial ronda`). Every new space startup story found this way that isn't on the
    site is a candidate; write it, translating foreign-language sources into English.
 4. Group candidates that are about the same event into one story. Drop everything out of
    scope. Order what's left by newsworthiness (this sets the writing order, not a limit):
