@@ -191,6 +191,34 @@
     {
       "name": "Magna Petra",
       "url": "https://magnapetra.com/feed/"
+    },
+    {
+      "name": "Tech.eu Spacetech",
+      "url": "https://tech.eu/category/spacetech/feed"
+    },
+    {
+      "name": "EU-Startups SpaceTech",
+      "url": "https://www.eu-startups.com/tag/spacetech/feed/"
+    },
+    {
+      "name": "Startup Daily (Space)",
+      "url": "https://www.startupdaily.net/topic/space/feed/"
+    },
+    {
+      "name": "BetaKit Deep Tech",
+      "url": "https://betakit.com/tag/deep-tech/feed/"
+    },
+    {
+      "name": "Inc42 Spacetech",
+      "url": "https://inc42.com/?s=spacetech&feed=rss2"
+    },
+    {
+      "name": "Space Ambition",
+      "url": "https://spaceambition.substack.com/feed"
+    },
+    {
+      "name": "Sorabatake 宙畑 (Japan)",
+      "url": "https://sorabatake.jp/feed/"
     }
   ],
   "spaceflight_news_api": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&ordering=-published_at",

@@ -108,3 +108,27 @@ ISS National Lab (https://www.issnationallab.org/press-releases/feed/), ISRO Hum
 | KASA (Korea) | Blocks automated fetches |
 | Moon Daily / Mars Daily | spacedaily.com feeds are blocked; the standalone domains are now off-topic content-farm sites |
 | SpaceNews station/lunar tags | Tag archives stopped updating in 2025 |
+
+# Space startups (2026-11-22)
+
+Feeds added (checked with the collector's parser on 2026-11-22):
+
+| Name | Feed | Notes |
+|---|---|---|
+| Tech.eu Spacetech | https://tech.eu/category/spacetech/feed | European space startup funding |
+| EU-Startups SpaceTech | https://www.eu-startups.com/tag/spacetech/feed/ | European space startups |
+| Startup Daily (Space) | https://www.startupdaily.net/topic/space/feed/ | Australian space startups (posts about monthly) |
+| BetaKit Deep Tech | https://betakit.com/tag/deep-tech/feed/ | Canadian; about a third is space, the routine drops the rest |
+| Inc42 Spacetech | https://inc42.com/?s=spacetech&feed=rss2 | Indian spacetech (Inc42's own search feed) |
+| Space Ambition | https://spaceambition.substack.com/feed | Monthly spacetech VC round-ups; linked from spaceambition.org |
+| Sorabatake 宙畑 | https://sorabatake.jp/feed/ | Japanese space-business news (translated into English by the routine) |
+
+Plus 11 Google News startup searches (English, French, German, Japanese, Korean, Chinese,
+Spanish) and a startup web sweep in ROUTINE.md.
+
+Checked, not added: Sifted (spacetech section blocked, main feed has no space), Crunchbase
+News space tags (stale since June), YourStory (spacetech section behind Cloudflare challenge),
+TechNode (rarely space), 36Kr (bot wall), KrASIA (no feed), Space Capital (no official feed;
+the Substack of that name can't be confirmed as theirs), PR TIMES, BRIDGE, Platum, Startup
+Today, Maddyness, FrenchWeb, Gründerszene (general startup feeds, little or no space),
+deutsche-startups.de NewSpace tag (server timing out; retry later), UchuBiz (feed broken).
