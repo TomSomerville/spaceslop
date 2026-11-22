@@ -11,6 +11,12 @@ sources:
   - name: TechTimes
     title: "China Satellite Internet Launch Came 26 Days After Last; Analysts Blame Rocket Supply, Not Pads"
     url: https://www.techtimes.com/articles/331227/20261120/china-satellite-internet-launch-came-26-days-after-last-analysts-blame-rocket-supply-not-pads.htm
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/5/54/CZ-8A_rendering.jpg
+  alt: "Rendering of the Long March 8A rocket (illustration, not a photo of this launch)"
+  credit: "Shujianyang / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:CZ-8A_rendering.jpg
 ---
 
 China launched the 30th group of its low-orbit internet satellites on a Long March 8A rocket from the Hainan Commercial Spacecraft Launch Site at 7:59 p.m. Beijing time on Friday 20 November (1159 UTC), according to state broadcaster CGTN. The satellites reached their intended orbit, and CGTN called the mission a complete success.
