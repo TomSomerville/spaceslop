@@ -21,6 +21,13 @@ eclipses), planetary science findings (Mars rover geology, etc.), sci-fi and
 entertainment, horoscopes-tier filler, and listicles. A telescope *launch* is in scope;
 its science results are not.
 
+**Starlink:** leave out routine Starlink news: Falcon 9 Starlink deployment launches to
+low Earth orbit, satellite counts, service, pricing, outage and country-availability
+stories. Starlink is only in scope when it goes beyond LEO (for example Starlink or
+Starshield hardware for the Moon, Mars or higher orbits). **Starship is always in scope**:
+every Starship flight, test, vehicle, pad and Starbase story, including Starship flights
+that carry Starlink satellites.
+
 ## Steps
 
 1. `git checkout -B main origin/main && git pull --rebase origin main` so you are on the
@@ -62,11 +69,13 @@ its science results are not.
    base building, and rovers are core beat. The only reasons to skip a candidate are: it
    is out of scope, it is already on the site with no new information, or no source can
    be read.
-   **Launches count as stories.** Every orbital launch in the recent list of
+   **Monitor every launch.** Every orbital launch worldwide in the recent list of
    `data/launches.json` that isn't on the site yet gets its own article (provider, vehicle,
    payload, site, outcome, booster recovery), sourced from the provider's page or a
-   reputable outlet. Upcoming launches within the next ~48 hours with real news attached
-   (a scrub, a first flight, a notable payload) are stories too.
+   reputable outlet. Also check the upcoming list each run: a launch in the next ~48 hours
+   with real news attached (a scrub, a delay, a first flight, a notable payload) is a story
+   too. The one exception is routine Falcon 9 Starlink launches to LEO, which are skipped
+   (see Starlink above); Starship launches are always written.
    **Smaller industry news counts.** Contracts, funding rounds, partnerships, test
    campaigns, facility openings, executive appointments and regulatory filings by space
    companies and agencies are in scope; write each one that is new, even if only one
