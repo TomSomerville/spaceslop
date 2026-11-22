@@ -11,6 +11,12 @@ sources:
   - name: Newsquawk
     title: "SpaceX CEO Elon Musk says Anthropic said they are extremely likely to continue renting compute from SpaceX"
     url: https://www.newsquawk.com/headlines/spacex-spcx-ceo-elon-musk-says-anthropic-ant-said-they-are-extremely-likely-to-continue-renting-compute-from-spacex-and-want-ssignificantly-more
+image:
+  path: https://images-assets.nasa.gov/image/NHQ202409270001/NHQ202409270001~large.jpg
+  alt: "A SpaceX Falcon 9 with Dragon is raised vertical at Space Launch Complex 40 in 2024 (archive photo)"
+  credit: "NASA/Keegan Barber"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/NHQ202409270001
 ---
 
 Elon Musk said this week that Anthropic is "extremely likely" to keep renting computing capacity from SpaceX, and that the most probable outcome is that the AI company will want an additional 10 gigawatts. He made the remarks on Wednesday at the New York Times DealBook Summit, the day before Anthropic's Nasdaq debut, according to investingLive.
