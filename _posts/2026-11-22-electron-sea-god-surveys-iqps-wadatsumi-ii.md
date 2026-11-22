@@ -4,6 +4,12 @@ date: 2026-11-22 20:00:00 +0000
 summary: "Rocket Lab's 'The Sea God Surveys' lifted off from New Zealand on November 2 UTC and placed iQPS's WADATSUMI-II radar satellite in a 575 km orbit."
 category: launch
 story_key: electron-iqps-wadatsumi-ii
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/TROPICS_Rocket_Launch_%28KSC-20230507-PH-RLS01_0001-reupload%29_%28cropped%29.jpg/1280px-TROPICS_Rocket_Launch_%28KSC-20230507-PH-RLS01_0001-reupload%29_%28cropped%29.jpg
+  alt: "Archive photo: a Rocket Lab Electron lifts off from Launch Complex 1 in New Zealand on a 2023 NASA mission"
+  credit: "NASA Kennedy Space Center / Rocket Lab / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:TROPICS_Rocket_Launch_(KSC-20230507-PH-RLS01_0001-reupload)_(cropped).jpg
 sources:
   - name: New Space Economy
     title: "Rocket Lab Deploys WADATSUMI-II on Electron's 99th Flight"
