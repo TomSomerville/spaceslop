@@ -68,7 +68,10 @@ its science results are not.
    news.google.com link. Prefer the original reporter or the company's own press release
    over aggregators, reposts and social media (Facebook, Yahoo reposts, MSN and the like). Use web search when you need context, to confirm a detail, or
    to find a primary source (company press release, the actual post by an executive on X).
-   If you can't read any source for a story, skip that story.
+   If you can't read any source for a story, skip that story **and note its candidate
+   `id`(s)**: these go on the retry list in step 8 so a later run tries again. A
+   candidate with a `retry_attempts` field is one an earlier run couldn't read; try it
+   again like any other candidate (a different source for the same story is fine).
 7. Write the article (format below) to `_posts/`, then **publish it right away**, before
    starting the next story, so readers see each article as soon as it's done:
    - `git add _posts/<file>` and `git commit -m "Newsroom: <headline>"`
@@ -76,19 +79,29 @@ its science results are not.
      pull brought in a post with the same `story_key` as yours, delete yours (`git rm` it
      and commit).
    - `git push origin main`. If the push is rejected, pull with rebase again and retry.
-8. When all stories are done, `python3 scripts/collect.py --mark-seen` so these
-   candidates aren't considered again. Do this even when you published nothing.
+8. When all stories are done, mark candidates seen so they aren't considered again. Do
+   this even when you published nothing:
+   `python3 scripts/collect.py --mark-seen --retry <id> <id> ...`
+   - **Seen** (everything not listed after `--retry`): candidates you published, rejected
+     as out of scope, or skipped as already on the site with no new information.
+   - **`--retry`**: the `id` of every in-scope candidate you skipped only because no
+     source could be read (blocked, 403, paywall, page down, Google link you couldn't
+     resolve). Leave `--retry` off if there are none. These are offered again on later
+     runs and given up after several tries.
+   Never put a candidate on the retry list because you ran out of time or chose not to
+   write it; only for unreadable sources.
 9. Push the seen list, newsroom tracking and launch board:
-   `git add data/seen.json data/newsroom_seen.json assets/launches.json`, `git commit -m "Newsroom: mark seen"`,
-   then pull with rebase and push as in step 7. If `data/seen.json` conflicts, keep the
-   union of both versions' keys.
+   `git add data/seen.json data/retry.json data/newsroom_seen.json assets/launches.json`, `git commit -m "Newsroom: mark seen"`,
+   then pull with rebase and push as in step 7. If `data/seen.json` or `data/retry.json`
+   conflicts, keep the union of both versions' keys (for `retry.json`, drop any key that
+   is also in `seen.json`).
 10. **Image catch-up (required every run, even when you published nothing).** Run
     `grep -L '^image:' _posts/*.md` to list posts with no image. For up to 5 of them,
     newest first, find an image as described in Images below and add it to that post's
     front matter. Commit and push after each one (`"Newsroom: add image to <slug>"`), as in
     step 7. If no suitable image exists for a post, leave it; it shows generated cover art.
 
-Only ever change files in `_posts/`, `assets/img/`, `assets/launches.json`, `data/seen.json` and `data/newsroom_seen.json`. Never edit layouts, config,
+Only ever change files in `_posts/`, `assets/img/`, `assets/launches.json`, `data/seen.json`, `data/retry.json` and `data/newsroom_seen.json`. Never edit layouts, config,
 scripts or these instructions.
 
 ## Article format

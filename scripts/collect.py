@@ -9,6 +9,8 @@ already seen or too old, and writes:
   python scripts/collect.py              collect new candidates
   python scripts/collect.py --hours 48   look back further
   python scripts/collect.py --mark-seen  after a run: mark every current candidate as seen
+  python scripts/collect.py --mark-seen --retry ID ...   ...except these (no source could
+                                         be read); they are offered again on later runs
 """
 import argparse
 import hashlib
@@ -37,6 +39,11 @@ PUBLIC_LAUNCHES = ROOT / "assets" / "launches.json"
 UA = "SpaceSlopBot/1.0 (+https://spaceslop.beached.lol)"
 TIMEOUT = 20
 SEEN_KEEP_DAYS = 21
+# Stories skipped only because no source could be read are retried on later runs
+# (see --retry), until they have been tried this many times or are this old.
+RETRY = DATA / "retry.json"
+RETRY_MAX_ATTEMPTS = 8
+RETRY_MAX_HOURS = 48
 
 
 def fetch(url):
@@ -193,16 +200,50 @@ def save_json(path, obj):
     path.write_text(json.dumps(obj, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def mark_seen():
+def mark_seen(retry_ids=()):
+    """Mark this run's candidates seen, except those listed in retry_ids.
+
+    retry_ids are candidates skipped only because no source could be read. They go to
+    data/retry.json and come back as candidates on the next runs, until they have been
+    tried RETRY_MAX_ATTEMPTS times or are RETRY_MAX_HOURS old; then they are marked seen.
+    """
     seen = load_json(SEEN, {})
+    retry = load_json(RETRY, {})
     cands = load_json(CANDIDATES, {}).get("items", [])
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    for c in cands:
-        seen[c["id"]] = now
-    cutoff = datetime.now(timezone.utc) - timedelta(days=SEEN_KEEP_DAYS)
+    now_dt = datetime.now(timezone.utc)
+    now = now_dt.isoformat(timespec="seconds")
+    by_id = {c["id"]: c for c in cands}
+    retry_ids = set(retry_ids)
+    unknown = sorted(retry_ids - set(by_id))
+    kept, gave_up, marked = 0, 0, 0
+    for cid, c in by_id.items():
+        if cid in retry_ids:
+            entry = retry.get(cid) or {"first_kept": now, "attempts": 0}
+            entry["attempts"] = entry.get("attempts", 0) + 1
+            entry["last_tried"] = now
+            entry["item"] = {k: v for k, v in c.items() if k not in ("retry_attempts",)}
+            too_old = now_dt - datetime.fromisoformat(entry["first_kept"]) >= timedelta(hours=RETRY_MAX_HOURS)
+            if entry["attempts"] >= RETRY_MAX_ATTEMPTS or too_old:
+                seen[cid] = now
+                retry.pop(cid, None)
+                gave_up += 1
+            else:
+                retry[cid] = entry
+                kept += 1
+        else:
+            seen[cid] = now
+            retry.pop(cid, None)
+            marked += 1
+    # Anything already seen (published or rejected by another run) no longer needs a retry.
+    retry = {k: v for k, v in retry.items() if k not in seen}
+    cutoff = now_dt - timedelta(days=SEEN_KEEP_DAYS)
     seen = {k: v for k, v in seen.items() if datetime.fromisoformat(v) >= cutoff}
     save_json(SEEN, seen)
-    print(f"Marked {len(cands)} candidates as seen ({len(seen)} tracked).")
+    save_json(RETRY, retry)
+    print(f"Marked {marked} candidates as seen ({len(seen)} tracked). "
+          f"Kept {kept} for retry, gave up on {gave_up} after too many tries ({len(retry)} waiting).")
+    if unknown:
+        print(f"WARNING: --retry ids not in data/candidates.json, ignored: {' '.join(unknown)}")
 
 
 def collect(hours, dry_run=False):
@@ -309,6 +350,17 @@ def collect(hours, dry_run=False):
         ids.add(i["id"])
         i["published"] = i["published"].isoformat(timespec="minutes") if i["published"] else None
         fresh.append(i)
+    # Stories an earlier run couldn't read a source for: offer them again even if they
+    # have dropped out of the feeds or past the lookback window.
+    retry = load_json(RETRY, {})
+    for cid, entry in retry.items():
+        if cid in seen or cid in ids or not entry.get("item"):
+            continue
+        item = dict(entry["item"])
+        item["id"] = cid
+        item["retry_attempts"] = entry.get("attempts", 0)
+        ids.add(cid)
+        fresh.append(item)
     fresh.sort(key=lambda i: i["published"] or "", reverse=True)
 
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -329,9 +381,12 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--hours", type=int, default=36)
     ap.add_argument("--mark-seen", action="store_true")
+    ap.add_argument("--retry", nargs="*", default=[], metavar="ID",
+                    help="with --mark-seen: candidate ids skipped only because no source could be read; "
+                         "they are offered again on later runs instead of being marked seen")
     ap.add_argument("--dry-run", action="store_true", help="don't update newsroom baselines")
     a = ap.parse_args()
     if a.mark_seen:
-        mark_seen()
+        mark_seen(a.retry)
     else:
         collect(a.hours, a.dry_run)
