@@ -4,6 +4,12 @@ date: 2026-11-22 07:30:00 +0000
 summary: "ISRO chairman V Narayanan says the first uncrewed Gaganyaan test flight is scheduled for December 2026, with about 80 percent of qualification tests done and the rest running into March 2027."
 category: vehicles
 story_key: gaganyaan-g1-december-2026
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Gaganyaan_module_infographic_%28cropped%29.jpg/1280px-Gaganyaan_module_infographic_%28cropped%29.jpg
+  alt: "Infographic of ISRO's Gaganyaan crew and service modules in integrated configuration, shown at the 2018 Bangalore Space Expo"
+  credit: "Dean Sumith / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Gaganyaan_module_infographic_(cropped).jpg
 sources:
   - name: Indian Defence News
     title: "Gaganyaan first test flight set for December 2026, ISRO chief confirms"
