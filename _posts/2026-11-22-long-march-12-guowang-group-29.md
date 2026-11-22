@@ -8,6 +8,12 @@ sources:
   - name: CGTN
     title: "China launches new low-orbit internet satellite group"
     url: https://news.cgtn.com/news/2026-11-09/China-launches-new-low-orbit-internet-satellite-group-1RVg0ys03ba/p.html
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%EF%BC%88%E9%81%A5%E4%BA%8C%EF%BC%89%E7%82%B9%E7%81%AB%E8%B5%B7%E9%A3%9E.jpg/1280px-%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%EF%BC%88%E9%81%A5%E4%BA%8C%EF%BC%89%E7%82%B9%E7%81%AB%E8%B5%B7%E9%A3%9E.jpg
+  alt: "Archive photo: a Long March 12 lifts off from Hainan commercial launch site in August 2025"
+  credit: "中国新闻社 / Wikimedia Commons"
+  license: "CC BY-SA 3.0"
+  source_url: https://commons.wikimedia.org/wiki/File:%E9%95%BF%E5%BE%81%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%EF%BC%88%E9%81%A5%E4%BA%8C%EF%BC%89%E7%82%B9%E7%81%AB%E8%B5%B7%E9%A3%9E.jpg
 ---
 
 China put the 29th group of its low-Earth-orbit internet satellites into orbit on a Long March 12 rocket, lifting off from the Hainan commercial space launch site in Wenchang at 4:24 a.m. on Monday 9 November, according to state broadcaster CGTN. That corresponds to 20:24 UTC on 8 November in public launch trackers. CGTN reported that the satellites reached their preset orbit.
