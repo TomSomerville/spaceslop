@@ -8,6 +8,12 @@ sources:
   - name: RussianSpaceWeb
     title: "Soyuz rocket delivers milsat from Plesetsk"
     url: https://www.russianspaceweb.com/glonass-k-2026-2.html
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/96/Soyuz_2.1b_GLONASS-K2_13L_launch_03.jpg
+  alt: "Archive photo: a Soyuz-2.1b lifts off from Plesetsk carrying a Glonass-K2 satellite"
+  credit: "Ministry of Defence of the Russian Federation / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Soyuz_2.1b_GLONASS-K2_13L_launch_03.jpg
 ---
 
 Russia launched a classified military satellite from the Plesetsk Cosmodrome on 7 November, using a Soyuz-2.1b with a Fregat upper stage from Pad 3 at Site 43. RussianSpaceWeb estimates liftoff at 16:22 Moscow time (1322 UTC) from orbital elements, since no official launch time was released.
