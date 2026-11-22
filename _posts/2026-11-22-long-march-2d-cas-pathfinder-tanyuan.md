@@ -17,6 +17,12 @@ sources:
   - name: Global Times
     title: "China launches satellite from Jiuquan"
     url: https://www.globaltimes.cn/page/202611/1374133.shtml
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/d/d3/CZ-2D_rendering.jpg
+  alt: "Rendering of a Long March 2D rocket (illustration, not the mission itself)"
+  credit: "Shujianyang / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:CZ-2D_rendering.jpg
 ---
 
 A Long March 2D rocket lifted off from the Jiuquan Satellite Launch Center at 7:41 p.m. Beijing time on November 11, placing four Pathfinder satellites, A through D, into a sun-synchronous orbit at about 600 kilometres. China Daily describes them as technology demonstration satellites for the Tanyuan project. Global Times reported that the payload entered its preset orbit successfully.
