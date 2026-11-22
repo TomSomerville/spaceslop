@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:57:08+00:00",
+ "updated": "2026-11-22T13:13:10+00:00",
  "upcoming": [
   {
    "name": "Falcon 9 Block 5 | NROL-136",
@@ -100,11 +100,11 @@
    "location": "Sea Launch"
   },
   {
-   "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
-   "net": "2026-11-30T00:00:00Z",
-   "status": "To Be Determined",
-   "provider": "Isar Aerospace",
-   "location": "Andøya Spaceport"
+   "name": "Long March 12 | SatNet LEO Group TBD?",
+   "net": "2026-12-10T07:00:00Z",
+   "status": "To Be Confirmed",
+   "provider": "China Aerospace Science and Technology Corporation",
+   "location": "Wenchang Space Launch Site, People's Republic of China"
   }
  ]
 }

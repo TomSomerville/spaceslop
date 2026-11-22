@@ -1,8 +1,8 @@
 {
  "ef0822a5d716e101": {
   "first_kept": "2026-11-22T12:43:23+00:00",
-  "attempts": 2,
-  "last_tried": "2026-11-22T12:58:59+00:00",
+  "attempts": 3,
+  "last_tried": "2026-11-22T13:16:12+00:00",
   "item": {
    "title": "SpaceX launches Falcon 9 with satellites for US spy agency",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2EzQWlic3R5OV9nd1F2UDVRSFBXMUd6dnlRQmxOdGZDejl0UHR3UWFTR1h6WlZKLUtiMWhvUHhzdFFiOUxsbXR4LTAwcGlUcWtKUklBb1pucVUwTkV6bVNab2t1V3hlWkl0QU9NcHYtVnVfRDIxNlN3bk9WVXlJTjVPS3pEOTFaNHZGUkxfNHBJdXpMVjlobEpkdnJnMDVkRVE5Q0V3?oc=5",
@@ -11,6 +11,34 @@
    "source": "Breakingthenews.net (via Google News)",
    "needs_original_url": true,
    "id": "ef0822a5d716e101"
+  }
+ },
+ "5794519447235a39": {
+  "first_kept": "2026-11-22T13:16:12+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-22T13:16:12+00:00",
+  "item": {
+   "title": "SpaceX Falcon 9 Smashes Vandenberg Turnaround Record on NROL-136 Launch - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZUdyQ21PbHoxRi1za2VfOXd2OV80NmFRbk1uY21qcndYTl92enUxdHdQSGEzOTVtOFIxSUc1eE9uZDBNUVQzQ201N0RuUmcxb0R0a1AtZUo5aGk2UHJtX08tRXNCZWFiVGx0MG8tSmJ2Z0tOTUUyeFByUHNfVDhqZWN1NTJPcE84OUJ2dkxMRlAwS1Z3ZnRGcUFHMVdvc184VkJWTDNnLW5KUQ?oc=5",
+   "summary": "",
+   "published": "2026-11-22T13:05+00:00",
+   "source": "BASENOR - Tesla Accessories (via Google News)",
+   "needs_original_url": true,
+   "id": "5794519447235a39"
+  }
+ },
+ "63c52c2caf71f3fc": {
+  "first_kept": "2026-11-22T13:16:12+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-22T13:16:12+00:00",
+  "item": {
+   "title": "SpaceX’s launchpad reportedly pulls a record-setting encore",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tWE9yYmhlM3ZTdU1kR1pXTVR1dWMyMUlvSjVsbTdOdFIwcmpYRDF5NVJMWHBZOGJNS3NNVHNEcnpzNzZmeXRlYg?oc=5",
+   "summary": "",
+   "published": "2026-11-22T11:38+00:00",
+   "source": "Digg (via Google News)",
+   "needs_original_url": true,
+   "id": "63c52c2caf71f3fc"
   }
  }
 }
