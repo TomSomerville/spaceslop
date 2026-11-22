@@ -4,6 +4,12 @@ date: 2026-11-22 05:18:00 +0000
 summary: "China put the four Pathfinder technology-demonstration satellites into a 600 km sun-synchronous orbit on November 11, testing tech for future low-frequency astronomy missions."
 category: launch
 story_key: cas-pathfinder-1-long-march-2d
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Long_March_2D_launching_VRSS-1.jpg/1280px-Long_March_2D_launching_VRSS-1.jpg
+  alt: "Archive photo: a Long March 2D launching the VRSS-1 satellite from Jiuquan in 2012"
+  credit: "Cristóbal Alvarado Minic / Wikimedia Commons"
+  license: "CC BY 2.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Long_March_2D_launching_VRSS-1.jpg
 sources:
   - name: China Daily (Hong Kong)
     title: "China launches Pathfinder satellites"
