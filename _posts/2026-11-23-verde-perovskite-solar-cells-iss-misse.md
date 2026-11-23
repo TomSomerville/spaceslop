@@ -8,6 +8,12 @@ sources:
   - name: Payload
     title: "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
     url: https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/
+image:
+  path: https://images-assets.nasa.gov/image/0201587/0201587~large.jpg
+  alt: "Archive photo of the International Space Station, taken by the STS-105 crew in 2001"
+  credit: "MSFC / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/0201587
 ---
 
 Verde Technologies, a solar cell maker that started out serving terrestrial energy, has a NASA contract to put its ultra-thin perovskite cells on the outside of the International Space Station, Payload reported on November 23. The flight is part of NASA's Materials International Space Station Experiment (MISSE), planned for no earlier than June 2027. The cells will sit on the exterior for six months and then return to Earth for analysis.
