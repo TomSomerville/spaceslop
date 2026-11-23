@@ -4,6 +4,12 @@ date: 2026-11-23 01:50:00 +0000
 summary: "Hangzhou-based Guoke Xingqing says it closed several rounds totalling nearly 100 million yuan to build a 1,000-unit-a-year Hall thruster line for satellite constellations."
 category: industry
 story_key: guoke-xingqing-funding
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Xenon_hall_thruster.jpg/1280px-Xenon_hall_thruster.jpg
+  alt: "A 6 kW laboratory Hall thruster firing (archive photo, not Guoke Xingqing hardware)"
+  credit: "Jet Propulsion Laboratory / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Xenon_hall_thruster.jpg
 sources:
   - name: 36Kr (via Sina Finance)
     title: "国科星擎完成多轮融资"
