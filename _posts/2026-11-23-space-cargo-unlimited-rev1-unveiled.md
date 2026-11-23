@@ -11,6 +11,12 @@ sources:
   - name: Interesting Engineering
     title: "Space Cargo upgrades 2,200 lbs return pod"
     url: https://interestingengineering.com/space/space-cargo-upgrades-2200-lbs-return-pod
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BentoBox_de_Space_Cargo_Unlimited_dans_la_capsule_Phoenix_d%27Atmos_Space_Cargo_au_Salon_du_Bourget_2025.jpg/1280px-BentoBox_de_Space_Cargo_Unlimited_dans_la_capsule_Phoenix_d%27Atmos_Space_Cargo_au_Salon_du_Bourget_2025.jpg
+  alt: "A Space Cargo Unlimited BentoBox inside ATMOS Space Cargo's Phoenix capsule at Paris Air Show 2025 (archive photo)"
+  credit: "Artvill / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:BentoBox_de_Space_Cargo_Unlimited_dans_la_capsule_Phoenix_d%27Atmos_Space_Cargo_au_Salon_du_Bourget_2025.jpg
 ---
 
 Space Cargo Unlimited has finally shown off REV1, the reusable reentry vehicle it first announced nearly four years ago, and attached a new date to it. The startup unveiled the design on Nov. 17 at Space Tech Expo in Bremen, Germany, and told Aviation Week it aims to deploy REV1 and its supporting elements in 2030.
