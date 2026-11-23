@@ -4,6 +4,12 @@ date: 2026-11-23 22:10:00 +0000
 summary: "Six VADR task orders buy rides and in-space transfer vehicles first, with payloads matched later; most of the hardware involved has never flown."
 category: moon
 story_key: nasa-moon-base-vadr-task-orders
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/2/20/Artemis_Science-_Exploring_the_Moon%E2%80%99s_South_Pole_%28SVS14886_-_VERT%29.jpg
+  alt: "NASA visualization of the Moon's south pole region, the target area for Moon Base"
+  credit: "NASA's Scientific Visualization Studio - eMITS/Dan Gallagher, NASA/GSFC/Kelsey Young, USRA/Ernie Wright, eMITS/Rob Andre / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Artemis_Science-_Exploring_the_Moon%E2%80%99s_South_Pole_(SVS14886_-_VERT).jpg
 sources:
   - name: Spaceflight Now
     title: "NASA seeks to begin 'intergalactic freight network' with $1.3 billion block purchase of rockets, orbital transfer vehicles"
