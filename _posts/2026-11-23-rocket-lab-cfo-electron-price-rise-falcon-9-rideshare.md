@@ -4,6 +4,12 @@ date: 2026-11-23 11:40:00 +0000
 summary: "CFO Adam Spice says a squeeze on SpaceX rideshare slots could lift Electron pricing within six to nine months, even as Rocket Lab's stock had its worst week on record."
 category: industry
 story_key: rocket-lab-electron-pricing-rideshare
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20240521-PH-RKL01_0001/KSC-20240521-PH-RKL01_0001~large.jpg
+  alt: "Archive photo: NASA's PREFIRE CubeSats encapsulated in an Electron payload fairing at Rocket Lab's New Zealand facility, May 2024"
+  credit: "Rocket Lab / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20240521-PH-RKL01_0001
 sources:
   - name: Stocktwits
     title: "Rocket Lab Could Cash In On SpaceX's Rideshare Crunch"
