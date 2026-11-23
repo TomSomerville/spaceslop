@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:42:16+00:00",
+ "updated": "2026-11-23T06:56:36+00:00",
  "upcoming": [
   {
    "name": "Falcon 9 Block 5 | NROL-136",
@@ -9,18 +9,18 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "net": "2026-11-23T11:09:00Z",
-   "status": "Go for Launch",
-   "provider": "Arianespace",
-   "location": "Guiana Space Centre, French Guiana"
-  },
-  {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
    "net": "2026-11-24T10:13:00Z",
    "status": "To Be Confirmed",
    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan"
+  },
+  {
+   "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+   "net": "2026-11-24T11:09:00Z",
+   "status": "To Be Confirmed",
+   "provider": "Arianespace",
+   "location": "Guiana Space Centre, French Guiana"
   },
   {
    "name": "Falcon 9 Block 5 | USSF-266",
