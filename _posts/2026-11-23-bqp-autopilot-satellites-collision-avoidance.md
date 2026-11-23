@@ -4,6 +4,12 @@ date: 2026-11-23 08:30:00 +0000
 summary: "Syracuse startup BQP, backed by IBM Ventures with $8 million raised, says its software lets satellites decide when to dodge debris; an ISS test is next."
 category: industry
 story_key: bqp-satellite-autopilot
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/The_cost_of_avoiding_collision_ESA23171803.jpg/1280px-The_cost_of_avoiding_collision_ESA23171803.jpg
+  alt: "ESA illustration of satellites in Earth orbit facing collision risk"
+  credit: "European Space Agency / Wikimedia Commons"
+  license: "CC BY-SA 3.0 IGO"
+  source_url: https://commons.wikimedia.org/wiki/File:The_cost_of_avoiding_collision_ESA23171803.jpg
 sources:
   - name: Fortune
     title: "Dodging space junk costs $58 million a year. Meet the Space Force contractor who made 'autopilot for satellites' to save money for taxpayers"
