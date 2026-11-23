@@ -4,6 +4,12 @@ date: 2026-11-23 22:35:00 +0000
 summary: "A Falcon 9 on its 29th flight is due to lift off at 1555 UTC Tuesday with a classified Space Force payload, the fifth government launch SpaceX has flown or scheduled this month."
 category: launch
 story_key: ussf-266-falcon-9
+image:
+  path: https://images-assets.nasa.gov/image/AFRC2025-0170-02/AFRC2025-0170-02~large.jpg
+  alt: "Archive photo: a Falcon 9 lifts off from Space Launch Complex 4 East at Vandenberg on the Sentinel-6B mission in 2025"
+  credit: "NASA/Carla Thomas"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/AFRC2025-0170-02
 sources:
   - name: Spaceflight Now
     title: "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
