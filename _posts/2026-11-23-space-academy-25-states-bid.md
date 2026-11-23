@@ -11,6 +11,12 @@ sources:
   - name: Payload
     title: "States campaign to host the US Space Academy"
     url: https://payloadspace.com/states-campaign-to-host-the-us-space-academy/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Presidential_Commission_on_the_United_States_Space_Academy_%28NHQ202609090011%29.jpg/1280px-Presidential_Commission_on_the_United_States_Space_Academy_%28NHQ202609090011%29.jpg
+  alt: "NASA Deputy Administrator Matt Anderson at a meeting of the Presidential Commission on the United States Space Academy, September 2026"
+  credit: "NASA/Joel Kowsky / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Presidential_Commission_on_the_United_States_Space_Academy_(NHQ202609090011).jpg
 ---
 
 The race to land the proposed U.S. Space Academy now has a field: NASA Deputy Administrator Matt Anderson said on X that 25 states submitted proposals before the bidding window closed. The deadline had been pushed back from its original Oct. 26 date.
