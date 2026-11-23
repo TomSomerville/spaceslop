@@ -11,6 +11,12 @@ sources:
   - name: NHK
     title: "民間移管のH3ロケット 情報収集衛星搭載し来年1月11日打ち上げ"
     url: https://news.web.nhk/newsweb/na/nd-20261120de79027
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/a/ae/JAXA_TNSC_Yoshinobu_LP2.jpg
+  alt: "Launch Pad 2 at the Yoshinobu Launch Complex, Tanegashima Space Center (archive photo)"
+  credit: "Naritama (NARITA Masahiro) / Wikimedia Commons"
+  license: "CC BY-SA 3.0"
+  source_url: https://commons.wikimedia.org/wiki/File:JAXA_TNSC_Yoshinobu_LP2.jpg
 ---
 
 Japan has set January 11, 2027 for the launch of H3 Flight 11, which will carry a government information-gathering satellite from Tanegashima Space Center. The launch window runs from 8:00 to 10:00 a.m. Japan time, according to reports of the November 20 announcements.
