@@ -8,6 +8,12 @@ sources:
   - name: Vodafone
     title: "Vodafone activates resilient integrated terrestrial and satellite connectivity at new Earth-space station"
     url: https://www.vodafone.com/news/newsroom/technology/sat-gateway-malaga
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/BlueBird_11-13_Launches_from_Cape_Canaveral_Space_Force_Station_%289862276%29.jpg/1280px-BlueBird_11-13_Launches_from_Cape_Canaveral_Space_Force_Station_%289862276%29.jpg
+  alt: "A Falcon 9 carrying AST SpaceMobile BlueBird satellites lifts off from Cape Canaveral (archive photo of an earlier mission)"
+  credit: "U.S. Space Force SLD45 by Gwendolyn Kurzen / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:BlueBird_11-13_Launches_from_Cape_Canaveral_Space_Force_Station_(9862276).jpg
 ---
 
 Vodafone and AST SpaceMobile have gone live with what they call Europe's first Earth-space station dedicated to research on integrated terrestrial and low-Earth-orbit (LEO) satellite networks. The Málaga Satellite Centre, announced by Vodafone on 22 November, sits at the University of Málaga's telecommunications engineering school, in cooperation with the university's Mobile & Aerospace Networks Lab (Mobilenet).
