@@ -26,4 +26,4 @@ The altitude range is worth noting. Flights to 140 km are suborbital, and 400 km
 
 Sunburnt Space's earlier flights were far smaller. The company has been flying Pathfinder-class vehicles from sites in New South Wales, so a rocket that lifts over a tonne would be a large step up in size and complexity. The 2027 date is a company plan, and first flights of new rockets frequently slip.
 
-Australia has been trying to build a domestic launch sector, and a home-grown vehicle that offers repeatable test flights would add a new kind of provider alongside orbital launch efforts in the country. Details such as launch site, pricing and customers have yet to be disclosed.
+Details such as launch site, pricing and customers have yet to be disclosed.
