@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:14:19+00:00",
+ "updated": "2026-11-23T16:27:40+00:00",
  "upcoming": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
@@ -93,18 +93,18 @@
    "location": "Haiyang Oriental Spaceport"
   },
   {
+   "name": "Falcon 9 Block 5 | NROL-132",
+   "net": "2026-12-02T20:30:00Z",
+   "status": "To Be Confirmed",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
    "name": "Long March 12 | SatNet LEO Group TBD?",
    "net": "2026-12-10T07:00:00Z",
    "status": "To Be Confirmed",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Wenchang Space Launch Site, People's Republic of China"
-  },
-  {
-   "name": "Ariane 62 | Metop-SG B1",
-   "net": "2026-12-17T00:00:00Z",
-   "status": "To Be Determined",
-   "provider": "Arianespace",
-   "location": "Guiana Space Centre, French Guiana"
   }
  ]
 }
