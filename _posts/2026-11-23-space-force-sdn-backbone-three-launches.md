@@ -4,6 +4,12 @@ date: 2026-11-23 22:55:00 +0000
 summary: "Three Falcon 9 launches in two weeks put 69 satellites up for the Space Force's Space Data Network Backbone, the government-owned constellation SpaceX is building under a $2.29 billion contract."
 category: policy
 story_key: space-force-sdn-backbone-first-satellites
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2016_Falcon_9_at_Vandenberg_Air_Force_Base.jpg/1280px-2016_Falcon_9_at_Vandenberg_Air_Force_Base.jpg
+  alt: "Archive photo of a Falcon 9 vertical at Vandenberg Air Force Base"
+  credit: "SpaceX / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:2016_Falcon_9_at_Vandenberg_Air_Force_Base.jpg
 sources:
   - name: Air & Space Forces Magazine
     title: "3 Launches in 2 Weeks: Space Data Network 'Backbone' Takes Shape"
