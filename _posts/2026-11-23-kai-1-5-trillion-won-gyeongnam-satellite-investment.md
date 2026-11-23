@@ -11,6 +11,12 @@ sources:
   - name: Seoulz
     title: "KAI to invest $1.12 billion in Gyeongnam aerospace and defense"
     url: https://www.seoulz.com/news/kai-invest-1-12-billion-gyeongnam-aerospace-defense
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/KAI_headquarters.jpg/1280px-KAI_headquarters.jpg
+  alt: "Korea Aerospace Industries headquarters in Sacheon, South Gyeongsang Province"
+  credit: "Maryland GovPics / Wikimedia Commons"
+  license: "CC BY 2.0"
+  source_url: https://commons.wikimedia.org/wiki/File:KAI_headquarters.jpg
 ---
 
 Korea Aerospace Industries (KAI), South Korea's main aircraft and satellite manufacturer, has agreed to invest 1.5 trillion won (roughly $1 billion) in South Gyeongsang Province over five years, from 2027 through 2031. The agreement was signed on November 23 at the provincial government headquarters.
