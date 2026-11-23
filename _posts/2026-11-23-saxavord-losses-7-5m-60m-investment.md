@@ -4,6 +4,12 @@ date: 2026-11-23 07:35:00 +0000
 summary: "Shetland Space Centre's 2025 accounts show a pre-tax loss of £7.56m on £3.19m revenue, but an October £60m injection left the UK's northernmost spaceport debt-free."
 category: industry
 story_key: saxavord-2025-accounts
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Latitude_Test_Zone_at_SaxaVord_Spaceport_1.jpg/1280px-Latitude_Test_Zone_at_SaxaVord_Spaceport_1.jpg
+  alt: "Latitude's engine test zone at SaxaVord Spaceport in Shetland (archive photo)"
+  credit: "Latitude / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Latitude_Test_Zone_at_SaxaVord_Spaceport_1.jpg
 sources:
   - name: Shetland Times
     title: "SaxaVord losses climb to £7.5m as spaceport eyes first launches by end of the year"
