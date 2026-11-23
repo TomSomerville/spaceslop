@@ -8,6 +8,12 @@ sources:
   - name: TIKR
     title: "Will 798 Million Unlocked SpaceX Shares on December 8 Swamp Starship's Catch?"
     url: https://www.tikr.com/blog/will-798-million-unlocked-spacex-shares-on-december-8-swamp-starships-catch
+image:
+  path: https://images-assets.nasa.gov/image/iss072e220043/iss072e220043~large.jpg
+  alt: "Archive photo: the plume of a Starship test flight seen from the International Space Station in November 2024"
+  credit: "NASA/Don Pettit"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/iss072e220043
 ---
 
 The final tranche of SpaceX's 180-day IPO lock-up ends on Dec. 8, when up to 797.6 million shares become eligible for sale, according to an analysis from TIKR citing the company's prospectus.
