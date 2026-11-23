@@ -4,6 +4,12 @@ date: 2026-11-23 21:45:00 +0000
 summary: "Engine No. 10001 ran its planned 3 minutes 20 seconds on the Fred Haise Test Stand on Nov. 18, a month after a 500-second run, gathering data for future Artemis missions."
 category: moon
 story_key: rs-25-hot-fire-200s-nov-2026
+image:
+  path: https://images-assets.nasa.gov/image/SSC-20250211-s00125/SSC-20250211-s00125~large.jpg
+  alt: "Teams at Stennis install the first new production RS-25 engine on the Fred Haise Test Stand (archive photo, Feb. 2025)"
+  credit: "Danny Nowlin / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/SSC-20250211-s00125
 sources:
   - name: Beyond Tomorrow
     title: "NASA runs a full 200 second burn on a development RS-25 engine at Stennis"
