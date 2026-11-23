@@ -11,6 +11,12 @@ sources:
   - name: ExecutiveGov
     title: "NASA Seeks Commercial Options to Service Hubble Telescope"
     url: https://www.executivegov.com/articles/nasa-hubble-commercial-servicing-rfi-isaacman
+image:
+  path: https://images-assets.nasa.gov/image/PIA18165/PIA18165~large.jpg
+  alt: "Archive photo: Hubble above Earth's horizon after its 1997 servicing mission"
+  credit: "NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/PIA18165
 ---
 
 NASA has asked the commercial space industry what it could do about the Hubble Space Telescope, which is slowly sinking toward an uncontrolled reentry. The agency posted a request for information (RFI) at the end of October covering three possible missions: raising Hubble's orbit, upgrading it during a servicing visit, or grappling it for a controlled reentry and disposal. Responses are due November 30.
