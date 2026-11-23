@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:27:28+00:00",
+ "updated": "2026-11-23T15:42:27+00:00",
  "upcoming": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
@@ -51,13 +51,6 @@
    "location": "Taiyuan Satellite Launch Center, People's Republic of China"
   },
   {
-   "name": "Kinetica 1 | Unknown Payload",
-   "net": "2026-11-29T01:00:00Z",
-   "status": "To Be Confirmed",
-   "provider": "CAS Space",
-   "location": "Haiyang Oriental Spaceport"
-  },
-  {
    "name": "Long March 6C | Unknown Payload",
    "net": "2026-11-29T03:50:00Z",
    "status": "Go for Launch",
@@ -91,6 +84,13 @@
    "status": "To Be Determined",
    "provider": "Agency for Defense Development",
    "location": "Sea Launch"
+  },
+  {
+   "name": "Kinetica 1 | Unknown Payload",
+   "net": "2026-12-01T01:45:00Z",
+   "status": "Go for Launch",
+   "provider": "CAS Space",
+   "location": "Haiyang Oriental Spaceport"
   },
   {
    "name": "Long March 12 | SatNet LEO Group TBD?",
