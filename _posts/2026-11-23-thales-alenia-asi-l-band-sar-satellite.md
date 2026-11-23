@@ -8,6 +8,12 @@ sources:
   - name: EasyBourse (financial wire)
     title: "Thales Alenia Space décroche un contrat pour développer un satellite radar italien"
     url: https://www.easybourse.com/aeronautique/news/1541815/thales-alenia-space-decroche-un-contrat-pour-developper-un-satellite-radar-italien.html
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Thales_Alenia_Space_sede_Roma.jpg/1280px-Thales_Alenia_Space_sede_Roma.jpg
+  alt: "Thales Alenia Space satellite integration centre in Rome (file photo)"
+  credit: "Carlo Dani / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Thales_Alenia_Space_sede_Roma.jpg
 ---
 
 Thales Alenia Space has been picked by the Italian Space Agency (ASI) to build an L-band synthetic aperture radar (SAR) Earth observation satellite, according to a French-language financial wire report dated 17 November. The company, a joint venture owned 67% by Thales and 33% by Leonardo, will act as prime contractor and take responsibility for the whole system, payload included.
