@@ -11,6 +11,12 @@ sources:
   - name: Analytics India Magazine
     title: "OrbitAID to Demonstrate Satellite Life Extension Mission in 2027"
     url: https://analyticsindiamag.com/ai-news/orbitaid-to-demonstrate-satellite-life-extension-mission-in-2027
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/STS-135_Robotic_Refueling_Mission_module.jpg/1280px-STS-135_Robotic_Refueling_Mission_module.jpg
+  alt: "Archive photo of NASA's Robotic Refueling Mission module, an earlier in-orbit refuelling demonstration"
+  credit: "NASA/Androemj / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:STS-135_Robotic_Refueling_Mission_module.jpg
 ---
 
 OrbitAID Aerospace, a Bengaluru-based startup, is preparing what it describes as an end-to-end satellite life-extension demonstration in low Earth orbit, targeted for the first quarter of 2027. The plan was detailed by Payload and Analytics India Magazine, and is back in the news this week through Indian press coverage.
