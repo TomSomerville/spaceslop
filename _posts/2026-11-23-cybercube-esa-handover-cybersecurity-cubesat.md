@@ -8,6 +8,12 @@ sources:
   - name: Alén Space
     title: "CyberCUBE, developed by GMV with the participation of Alén Space, completes its commissioning phase and handover to ESA"
     url: https://alen.space/cybercube-developed-by-gmv-with-participation-of-alen-space-completes-commissioning-phase-and-handover-to-esa/
+image:
+  path: https://images-assets.nasa.gov/image/PIA22457/PIA22457~large.jpg
+  alt: "Archive photo of a NASA 6U CubeSat with its antenna deployed; not CyberCUBE itself"
+  credit: "NASA/JPL-Caltech"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/PIA22457
 ---
 
 CyberCUBE, a small satellite designed as an in-orbit testbed for cyber defense, has finished commissioning and moved into nominal operations. Spanish company GMV, which led the mission, handed operational control to the European Space Agency's operations team after commissioning tests at ESA's ESEC centre in Redu, Belgium, according to a November 19 post from Alén Space, the cubesat's builder.
