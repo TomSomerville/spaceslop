@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-23T12:14:35+00:00",
+ "updated": "2026-11-23T12:27:06+00:00",
  "upcoming": [
-  {
-   "name": "Falcon 9 Block 5 | NROL-136",
-   "net": "2026-11-22T12:23:56Z",
-   "status": "Launch Successful",
-   "provider": "SpaceX",
-   "location": "Vandenberg SFB, CA, USA"
-  },
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
    "net": "2026-11-24T10:13:00Z",
@@ -105,6 +98,13 @@
    "status": "To Be Confirmed",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Wenchang Space Launch Site, People's Republic of China"
+  },
+  {
+   "name": "Ariane 62 | Metop-SG B1",
+   "net": "2026-12-17T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "Arianespace",
+   "location": "Guiana Space Centre, French Guiana"
   }
  ]
 }
