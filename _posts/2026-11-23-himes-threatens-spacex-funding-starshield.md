@@ -11,6 +11,12 @@ sources:
   - name: Yahoo News
     title: "Top Democrat Threatens SpaceX Funds Over Ukraine Satellite Slowdown"
     url: https://www.yahoo.com/news/politics/articles/top-democrat-threatens-spacex-funds-200548877.html
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/10th_Mountain_Division_utilizes_the_Starshield_during_Combined_Resolve_%288830140%29.jpg/1280px-10th_Mountain_Division_utilizes_the_Starshield_during_Combined_Resolve_%288830140%29.jpg
+  alt: "Archive photo: U.S. soldiers use a Starshield terminal during a 2025 exercise in Germany"
+  credit: "U.S. Army 105MPAD by Capt. Thomas McCarty / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:10th_Mountain_Division_utilizes_the_Starshield_during_Combined_Resolve_(8830140).jpg
 ---
 
 Rep. Jim Himes, the Connecticut Democrat expected to chair the House Intelligence Committee when the new Congress convenes in January, has warned that he may hold up funding for SpaceX-developed government systems until the company and the administration explain what happened to Starshield service in Ukraine. CNN reported the threat on Friday, based on a classified letter to Director of National Intelligence Jay Clayton.
