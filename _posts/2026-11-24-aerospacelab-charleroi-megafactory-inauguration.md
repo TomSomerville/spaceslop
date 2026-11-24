@@ -4,6 +4,12 @@ date: 2026-11-24 22:40:00 +0000
 summary: "Belgium's Aerospacelab is inaugurating its Charleroi megafactory, billed as Europe's largest satellite plant, with capacity for up to 500 satellites a year."
 category: manufacturing
 story_key: aerospacelab-charleroi-megafactory
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Charleroi_-_Aerospacelab%27s_satellite_Megafactory_-_2026-04-21_-_01.jpg/1280px-Charleroi_-_Aerospacelab%27s_satellite_Megafactory_-_2026-04-21_-_01.jpg
+  alt: "Exterior of Aerospacelab's satellite Megafactory in Charleroi, photographed in April 2026"
+  credit: "Jmh2o / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Charleroi_-_Aerospacelab%27s_satellite_Megafactory_-_2026-04-21_-_01.jpg
 sources:
   - name: Teleborsa
     title: "A Charleroi si inaugura la più grande fabbrica di satelliti d'Europa"
