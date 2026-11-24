@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-24T10:12:47+00:00",
+ "updated": "2026-11-24T11:12:53+00:00",
  "upcoming": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-   "net": "2026-11-24T10:17:00Z",
-   "status": "Go for Launch",
+   "net": "2026-11-24T10:17:46Z",
+   "status": "Launch Successful",
    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan"
   },
   {
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "net": "2026-11-24T10:45:00Z",
+   "net": "2026-11-24T11:14:52Z",
    "status": "Go for Launch",
    "provider": "Arianespace",
    "location": "Guiana Space Centre, French Guiana"
@@ -72,13 +72,6 @@
    "location": "Cape Canaveral SFS, FL, USA"
   },
   {
-   "name": "Kuaizhou 11 | Unknown Payload",
-   "net": "2026-11-30T00:00:00Z",
-   "status": "To Be Determined",
-   "provider": "ExPace",
-   "location": "Jiuquan Satellite Launch Center, People's Republic of China"
-  },
-  {
    "name": "Mir | Demo Flight",
    "net": "2026-11-30T00:00:00Z",
    "status": "To Be Determined",
@@ -91,6 +84,13 @@
    "status": "Go for Launch",
    "provider": "CAS Space",
    "location": "Haiyang Oriental Spaceport"
+  },
+  {
+   "name": "Kuaizhou 11 | Unknown Payload",
+   "net": "2026-12-01T08:00:00Z",
+   "status": "To Be Confirmed",
+   "provider": "ExPace",
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China"
   },
   {
    "name": "Falcon 9 Block 5 | NROL-132",
