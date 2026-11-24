@@ -4,6 +4,12 @@ date: 2026-11-24 19:13:46 +0000
 summary: "A 12-page list of funding exceptions sent Nov. 23 includes $2 billion for Artemis hardware, though it is a request, not law, and sits against a proposed 23% NASA cut."
 category: policy
 story_key: artemis-2-billion-anomaly-request
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20210917-PH-FMX01_0068/KSC-20210917-PH-FMX01_0068~large.jpg
+  alt: "Archive photo: the Artemis I Space Launch System inside the Vehicle Assembly Building at Kennedy Space Center"
+  credit: "NASA/Frank Michaux"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20210917-PH-FMX01_0068
 sources:
   - name: The Ace of Space (Eric Berger)
     title: "White House Asks Congress for $2 Billion More for Artemis"
