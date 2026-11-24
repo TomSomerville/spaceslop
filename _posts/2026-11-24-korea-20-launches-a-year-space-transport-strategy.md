@@ -4,6 +4,12 @@ date: 2026-11-24 09:45:00 +0000
 summary: "The Korea AeroSpace Administration's draft space transport strategy aims for more than 20 launches annually and approves development of the Chollian 6 satellite for a 2033 launch."
 category: policy
 story_key: korea-space-transport-strategy
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuri_KSLV-II_TLV.jpg
+  alt: "South Korea's Nuri (KSLV-II) test launch vehicle, an archive photo"
+  credit: "Kiyoen569 / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Nuri_KSLV-II_TLV.jpg
 sources:
   - name: DigitalToday
     title: "Korea space agency seeks over 20 launches a year to build independent space transport capability"
