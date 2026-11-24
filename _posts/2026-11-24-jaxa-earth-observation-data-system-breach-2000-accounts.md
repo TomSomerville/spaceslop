@@ -29,4 +29,4 @@ The system has been disconnected from the network and remains offline, with no r
 
 ## Why it matters
 
-The affected system handles open weather and precipitation data rather than spacecraft operations, and JAXA's account does not suggest any link to flight systems. Still, it adds to a short list of space-agency IT incidents, and JAXA has had to deal with cyber incidents before. For users who reused a password elsewhere, even encrypted credentials are a reason to change them. The English page JAXA published for the notice carries only a title and the date and says the full text is Japanese only, so details here come from the Japanese original.
+The affected system handles open weather and precipitation data rather than spacecraft operations, and JAXA's account does not suggest any link to flight systems. Still, it is a reminder that agency data portals are exposed targets. For users who reused a password elsewhere, even encrypted credentials are a reason to change them. The English page JAXA published for the notice carries only a title and the date and says the full text is Japanese only, so details here come from the Japanese original.
