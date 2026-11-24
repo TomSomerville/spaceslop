@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:14:22+00:00",
+ "updated": "2026-11-24T16:14:18+00:00",
  "upcoming": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
@@ -18,7 +18,7 @@
   {
    "name": "Falcon 9 Block 5 | USSF-266",
    "net": "2026-11-24T16:08:59Z",
-   "status": "Go for Launch",
+   "status": "Launch in Flight",
    "provider": "SpaceX",
    "location": "Vandenberg SFB, CA, USA"
   },
