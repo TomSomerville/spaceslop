@@ -11,6 +11,12 @@ sources:
   - name: Mexico News Daily
     title: "SpaceX denies responsibility for latest space debris on a Mexico beach"
     url: https://mexiconewsdaily.com/news/elon-musks-spacex-denies-responsibility-latest-space-debris-mexico-beach/
+image:
+  path: https://images-assets.nasa.gov/image/iss072e220043/iss072e220043~large.jpg
+  alt: "Archive photo: the plume of a Starship launch from Starbase, Texas, seen from the space station during the sixth flight test in November 2024"
+  credit: "NASA/Don Pettit"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/iss072e220043
 ---
 
 Mexican authorities are pressing SpaceX to take responsibility for suspected rocket debris that has been washing ashore at Bagdad Beach, near Matamoros in Tamaulipas, since around Nov. 17. The fragments are believed to come from the Super Heavy booster that broke up over the Gulf of Mexico on the Nov. 13 Starship test flight, after an aborted catch attempt in which its engines stopped firing too soon.
