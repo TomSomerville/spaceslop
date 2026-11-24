@@ -2066,13 +2066,14 @@
   "istellartech.com/news/event/11501",
   "istellartech.com/news/others/11512",
   "istellartech.com/news/event/11520",
-  "istellartech.com/news/partnerslist/gamma-technologies-llc",
   "istellartech.com/news/interview/zero-development-update-fairing-separation-test",
   "istellartech.com/news/interview/our-team-at-interstellar-technologies-update-2023",
   "istellartech.com/news/interview/zero-development-update-engine-static-fire-test-2",
-  "istellartech.com/news/interview/interstellar-technologies-updates-2023-2024"
+  "istellartech.com/news/interview/interstellar-technologies-updates-2023-2024",
+  "istellartech.com/news/partnerslist/gamma-technologies-llc"
  ],
  "Space One": [
+  "space-one.co.jp/news/news_20261124.html",
   "space-one.co.jp/news/news_20260826.html",
   "space-one.co.jp/news/news_20260525.html",
   "space-one.co.jp/news/news_20260417.html",
@@ -2192,6 +2193,7 @@
  ],
  "Pixxel": [
   "pixxel.space/the-shakuntala-initiative-by-pixxel",
+  "pixxel.space/news/pixxel-signs-mous-with-centum-electronics-and-cs-tech-ai-to-advance-space-and-geospatial-technologies",
   "pixxel.space/news/pixxel-and-iit-kanpur-partner-to-advance-hyperspectral-research-and-earth-observation-applications",
   "pixxel.space/news/pixxel-establishes-pixxel-federal-to-expand-u-s-government-operations",
   "pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet",
@@ -4654,6 +4656,7 @@
   "ir.yorkspacesystems.com/news/news-details/2026/york-space-systems-expands-into-geo-to-support-space-domain-awareness-missions/default.aspx"
  ],
  "Northwood Space": [
+  "northwoodspace.io/blog/milestone-9",
   "northwoodspace.io/blog/northwood-series-c",
   "northwoodspace.io/blog/northwood-opens-torrance-factory-to-mass-produce-satellite-ground-infrastructure",
   "northwoodspace.io/blog/prismhighthroughput",
@@ -6834,6 +6837,7 @@
   "sa.catapult.org.uk/academic-partnership-knowledge-exchange",
   "sa.catapult.org.uk/facilities/antenna-and-rf-testing",
   "sa.catapult.org.uk/news/uk-microgravity-demonstration-programme",
+  "sa.catapult.org.uk/news/satellite-applications-catapult-to-test-autonomous-robotics-on-the-international-space-station",
   "sa.catapult.org.uk/news/uks-first-microgravity-biopharma-accelerator-funds-skin-ageing-and-biomining-research",
   "sa.catapult.org.uk/news/new-national-drone-testing-centre-to-help-unlock-britains-45bn-drone-economy",
   "sa.catapult.org.uk/news/uk-space-minister-joins-launch-of-new-international-investment-programme",
@@ -6842,10 +6846,11 @@
   "sa.catapult.org.uk/news/wholeship-autonomous-systems-and-connectivity-capabilities",
   "sa.catapult.org.uk/news/satellite-applications-catapult-showcases-the-power-of-federated-development-at-smallsat-2025",
   "sa.catapult.org.uk/news/harwell-campus-space-east-and-westcott-sign-landmark-mou-to-advance-the-space-sector-across-southern-england",
-  "sa.catapult.org.uk/news/satellite-applications-catapult-unveils-major-upgrades-to-world-leading-isam-facility-ahead-of-smallsat-2025",
-  "sa.catapult.org.uk/contact-us/how-to-find-us"
+  "sa.catapult.org.uk/contact-us/how-to-find-us",
+  "sa.catapult.org.uk/news/satellite-applications-catapult-unveils-major-upgrades-to-world-leading-isam-facility-ahead-of-smallsat-2025"
  ],
  "CNES": [
+  "cnes.fr/actualites/experts-de-los-controler-lanceur-de-conception-exploitation",
   "cnes.fr/actualites/effets-denvironnement-latmosphere-reduit-nettete-images-satellites",
   "cnes.fr/actualites/projet-plasma-observatory-devient-une-mission-de-lagence-spatiale-europeenne",
   "cnes.fr/actualites/ballon-physalia-cheval-de-troie-cyclones",
@@ -7214,6 +7219,7 @@
   "cnsa.gov.cn/english/n6465652/n6465653/index_10742580_50.html"
  ],
  "China Manned Space Agency": [
+  "cmse.gov.cn/xwzx/202611/t20261124_57876.html",
   "cmse.gov.cn/xwzx/202611/t20261123_57873.html",
   "cmse.gov.cn/xwzx/202611/t20261123_57872.html",
   "cmse.gov.cn/xwzx/202611/t20261117_57861.html",
