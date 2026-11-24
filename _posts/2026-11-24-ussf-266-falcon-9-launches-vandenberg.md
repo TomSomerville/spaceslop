@@ -8,6 +8,12 @@ sources:
   - name: Spaceflight Now
     title: "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
     url: https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Vandenberg_Launches_Starlink_Mission_Aboard_Falcon_9_Rocket_%289635197%29.jpg/1280px-Vandenberg_Launches_Starlink_Mission_Aboard_Falcon_9_Rocket_%289635197%29.jpg
+  alt: "Archive photo: a Falcon 9 launches from Vandenberg Space Force Base on a Starlink mission"
+  credit: "U.S. Space Force photo by 2nd Lt. Andrew Taller / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Vandenberg_Launches_Starlink_Mission_Aboard_Falcon_9_Rocket_(9635197).jpg
 ---
 
 SpaceX launched the classified USSF-266 mission for the U.S. Space Force from Space Launch Complex 4 East at Vandenberg Space Force Base on Tuesday, following the [preview we published on Monday](/2026/11/23/spacex-ussf-266-th-3-vandenberg-preview/). The launch window opened at 1555 UTC (7:55 a.m. Pacific), and the Launch Library board used by this site showed the rocket in flight shortly after that. Anadolu Agency also carried a report that the launch took place. We could not read a full post-launch account, so the final outcome is not independently confirmed here.
