@@ -8,6 +8,12 @@ sources:
   - name: Interfax
     title: "Антропоморфный робот \"Теледроид\" будет доставлен на МКС в ноябре"
     url: https://www.interfax.ru/1116461
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/98/Progress_MS-10_approaches_the_ISS_%281%29.jpg
+  alt: "An earlier Progress cargo ship (MS-10) approaching the International Space Station"
+  credit: "NASA / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Progress_MS-10_approaches_the_ISS_(1).jpg
 ---
 
 Russia's newest cargo ship to the International Space Station is carrying more than propellant and supplies. Roscosmos has said that Teledroid, an anthropomorphic robot meant to help cosmonauts with work outside the station, is due to arrive on Progress MS-36, which lifted off from Baikonur on Nov. 24. The delivery plan below comes from Interfax's report of a Roscosmos statement, which named Progress MS-36 and November; one aggregator headline also describes the robot as launched on the ship, but we could not read that report.
