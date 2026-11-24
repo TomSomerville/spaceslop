@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:16:37+00:00",
+ "updated": "2026-11-24T14:15:33+00:00",
  "upcoming": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
@@ -11,7 +11,7 @@
   {
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
    "net": "2026-11-24T11:14:52Z",
-   "status": "Launch in Flight",
+   "status": "Launch Successful",
    "provider": "Arianespace",
    "location": "Guiana Space Centre, French Guiana"
   },
