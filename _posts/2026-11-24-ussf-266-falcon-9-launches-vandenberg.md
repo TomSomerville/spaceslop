@@ -22,4 +22,4 @@ USSF-266 is the third mission in a series Spaceflight Now calls "TH", after USSF
 
 ## Why it matters
 
-The mission is another entry in an unusually dense run of government launches from Vandenberg this month, including USSF-317 and NROL-136 within about 32 hours of each other. With the Vulcan fleet grounded after its recent failure, SpaceX is carrying much of the Pentagon's launch load, and the TH block alone commits it to roughly 15 more flights over the next year.
+The mission is another entry in an unusually dense run of government launches from Vandenberg this month, including USSF-317 and NROL-136 within about 32 hours of each other. The TH block alone covers 18 launches, so more are expected before the end of 2027.
