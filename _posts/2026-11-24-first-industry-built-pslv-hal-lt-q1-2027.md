@@ -8,9 +8,6 @@ sources:
   - name: The Tribune
     title: "First industry-built PSLV ready for launch in Q1 2027: ISRO chief"
     url: https://www.tribuneindia.com/news/india/first-industry-built-pslv-ready-for-launch-in-q1-2027-isro-chief
-  - name: ANI
-    title: "Gaganyaan mission not delayed, preparations in final phase: ISRO Chairman V Narayanan"
-    url: https://www.aninews.in/news/business/gaganyaan-mission-not-delayed-preparations-in-final-phase-aninews-20261124140553/
 ---
 
 India's first fully industry-built Polar Satellite Launch Vehicle is finished and waiting for a launch slot. ISRO Chairman V Narayanan told the fifth India International Space Conclave on Nov. 24 that the rocket, built by the HAL-L&T consortium, will make its maiden flight in the first quarter of 2027. "The first launch is expected next year in the first quarter," he said, according to The Tribune.

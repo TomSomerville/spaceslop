@@ -15,7 +15,7 @@ sources:
 
 Una Stella, a South Korean launch startup founded in 2022, has been selected for the government's 2026 Global TIPS general R&D program, locking in 5 billion won (about $3.5 million) over four years, according to Korean outlets citing the company's announcement on Nov. 24. Global TIPS is run by the Ministry of SMEs and Startups. One report describes it as backing companies that have raised at least 1.5 billion won in private investment within two years and have overseas track records. The private investment behind Una Stella was not stated in the coverage we read.
 
-The money is earmarked for a 5-ton-class electric motor-pump cycle engine for small launch vehicles, plus the clustering technology needed to fly several engines together. In an electric-pump design, battery-driven motors spin the propellant pumps instead of a gas generator or turbine, a layout also used by Rocket Lab's Rutherford engine. Una Stella says it already built and tested its own engine through earlier TIPS rounds and validated the electric motor-pump system under Scale-up TIPS.
+The money is earmarked for a 5-ton-class electric motor-pump cycle engine for small launch vehicles, plus the clustering technology needed to fly several engines together. In an electric-pump design, battery-driven motors spin the propellant pumps instead of a gas generator or turbine. Una Stella says it already built and tested its own engine through earlier TIPS rounds and validated the electric motor-pump system under Scale-up TIPS.
 
 ## Roadmap
 
