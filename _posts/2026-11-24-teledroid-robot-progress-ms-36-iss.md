@@ -8,12 +8,9 @@ sources:
   - name: Interfax
     title: "Антропоморфный робот \"Теледроид\" будет доставлен на МКС в ноябре"
     url: https://www.interfax.ru/1116461
-  - name: Unite.AI
-    title: "Roscosmos Launches Teledroid Humanoid Robot on Progress MS-36"
-    url: https://www.unite.ai/
 ---
 
-Russia's newest cargo ship to the International Space Station is carrying more than propellant and supplies. Roscosmos has said that Teledroid, an anthropomorphic robot meant to help cosmonauts with work outside the station, is due to arrive on Progress MS-36, which lifted off from Baikonur on Nov. 24 (covered in our earlier [launch report](/2026/11/24/progress-ms-36-launches-baikonur/)). Unite.AI headlined its coverage as the robot having launched on the ship; the detailed delivery plan below comes from Interfax's report of Roscosmos' statement, which gave the arrival as November.
+Russia's newest cargo ship to the International Space Station is carrying more than propellant and supplies. Roscosmos has said that Teledroid, an anthropomorphic robot meant to help cosmonauts with work outside the station, is due to arrive on Progress MS-36, which lifted off from Baikonur on Nov. 24. The delivery plan below comes from Interfax's report of a Roscosmos statement, which named Progress MS-36 and November; one aggregator headline also describes the robot as launched on the ship, but we could not read that report.
 
 ## What it is
 
