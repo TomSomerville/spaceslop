@@ -4,6 +4,12 @@ date: 2026-11-24 06:10:00 +0000
 summary: "Japan's space agency took an Earth observation data distribution system offline after an intruder installed a backdoor and took account names and encrypted passwords of roughly 2,000 users."
 category: policy
 story_key: jaxa-earth-observation-system-breach
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/JAXA_Tsukuba_10.jpg/1280px-JAXA_Tsukuba_10.jpg
+  alt: "JAXA's Tsukuba Space Center in Japan (file photo)"
+  credit: "Syced / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:JAXA_Tsukuba_10.jpg
 sources:
   - name: JAXA
     title: "Report on Information Leakage Following Unauthorized Access to an Earth Observation Data Distribution System"
