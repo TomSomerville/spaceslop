@@ -1,8 +1,8 @@
 {
  "fad0871c6b18b7a8": {
   "first_kept": "2026-11-24T06:14:18+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-24T06:14:18+00:00",
+  "attempts": 2,
+  "last_tried": "2026-11-24T07:13:30+00:00",
   "item": {
    "title": "The Rocket Coming to John Glenn’s Pad: Stoke Space’s Nova Is Arriving at Cape Canaveral",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG1xUFkxSHdQUUdWUUc2VmdWQS1td2ZBRFFZbjBCN1loYXRjOGJNbzY3d19EQ0FfcTBhV2pGRzFZZzlTLTExeERqUlFpZjJqY3Zqam9TRnF1SFpVck55QmNESW9zM3h4dDR1SlVJZDhxQ0NVNFZCdVd5c1pMTnNZZjJjRmVSYWc1UVI0Y1Q0WUtFMGNmN2pKa2h3RkNBczNfWW5sb2ZwcEt5bVdjLVZpT1dvbENVeDZQODNnb0o2Tmk1ajg?oc=5",
@@ -11,6 +11,20 @@
    "source": "TalkOfTitusville.com (via Google News)",
    "needs_original_url": true,
    "id": "fad0871c6b18b7a8"
+  }
+ },
+ "c5e991b86a5b09ad": {
+  "first_kept": "2026-11-24T07:13:30+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-24T07:13:30+00:00",
+  "item": {
+   "title": "Five PSLV missions given to L&T-HAL consortium, rocket getting ready: Isro chief",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLUZ3Qm02SjZPQkRQVGI0bDktRkxVMjhnazBtYjVNVWdCZU45M0s4OUlWRVVkbGsxV0dQeG1PanFiM3drdHBLRzl0My1WUURmNHVlXzVvbjlNenBXMUJZMzBvM1hUMkpTVFNnX3gzMDJTZVdFNjFtcHZEWF93MzVNXzhZU2xycFJmcGotNEZOVzBnTmxqWTZQRnVEUWVqaC16V0lXOUUtZ3E4Sl9uY2tpZEkycEg4d1pVRlp1emI1RUpoLU5yWHVPN1VKZHprQWFwY2xqRlFPZ9IB1wFBVV95cUxPLUZ3Qm02SjZPQkRQVGI0bDktRkxVMjhnazBtYjVNVWdCZU45M0s4OUlWRVVkbGsxV0dQeG1PanFiM3drdHBLRzl0My1WUURmNHVlXzVvbjlNenBXMUJZMzBvM1hUMkpTVFNnX3gzMDJTZVdFNjFtcHZEWF93MzVNXzhZU2xycFJmcGotNEZOVzBnTmxqWTZQRnVEUWVqaC16V0lXOUUtZ3E4Sl9uY2tpZEkycEg4d1pVRlp1emI1RUpoLU5yWHVPN1VKZHprQWFwY2xqRlFPZw?oc=5",
+   "summary": "",
+   "published": "2026-11-24T07:03+00:00",
+   "source": "India Today (via Google News)",
+   "needs_original_url": true,
+   "id": "c5e991b86a5b09ad"
   }
  }
 }
