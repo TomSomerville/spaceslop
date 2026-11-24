@@ -1,8 +1,8 @@
 {
  "017f025701a91f42": {
   "first_kept": "2026-11-24T00:13:26+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-24T00:13:26+00:00",
+  "attempts": 2,
+  "last_tried": "2026-11-24T01:13:36+00:00",
   "item": {
    "title": "Maiden flight of privately built PSLV-N1 delayed again, likely early next year",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkpuUFhGdzd2MTN4LTdtaGlVenctdVU4QXZ1VXYyYlBIcTlqamlEVVJ2UldWOTM3eGxaMUFVbTZpMTJjcUlnNEhPbFNaYjNGb2stY0dLNUF6OWpSU2Z1VVBHODEwZVhrMEFPOHRNT05Zekh0UEdfWVk4M1J5a2ZMVk1zMTUxQ0JacW9NVdIBkwFBVV95cUxPWU1CRjJORVRJZFVySmRZR29OY2VqRjBYU1ltcVBCclhYdXAxNVFFYkNiYlNfUWdoQzEwWmV3eTJqbmJ6SlFlVWdSeDJVNEowNS16bWluVHlBczQyZHdWeE1wVU1BOXZLWHpRR2ticGtoYVlmdloxMmJ6a2FFNnRzY1pWcEp1bEtWeFJMR1BuWG9pcEU?oc=5",
@@ -11,6 +11,48 @@
    "source": "The Indian Express (via Google News)",
    "needs_original_url": true,
    "id": "017f025701a91f42"
+  }
+ },
+ "836a0b4502a55843": {
+  "first_kept": "2026-11-24T01:13:36+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-24T01:13:36+00:00",
+  "item": {
+   "title": "달 탐사 통신도 레이저로…우주청, 지구·달 광통신망 구축 추진",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwM0JBNUNuTEpVZk1QZ2ZQMzcyLWp2UVJzU2o5Yk1fb3h5c1JtQ1VHWHVIRzB3M0tHUlJXMVdlUEpDY2JZdGJjdUhQZENfRWVTU3dFWUw0a3VYV3ktNk9iTA?oc=5",
+   "summary": "",
+   "published": "2026-11-24T01:00+00:00",
+   "source": "아시아경제 (via Google News)",
+   "needs_original_url": true,
+   "id": "836a0b4502a55843"
+  }
+ },
+ "efc7490f02f34874": {
+  "first_kept": "2026-11-24T01:13:36+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-24T01:13:36+00:00",
+  "item": {
+   "title": "\"지구와 달, 레이저로 초고속 연결\"…정부, 2029년 달궤도 통신위성 쏜다",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlM1hQWno1S1RsMVctNXotZEVyN1IzM0FrY2pzVG4tZi1kMk5URUc2NGJqRXlEbHFJLVBsbWpqS2RxQUVUcURZSmYzU2ZxcU5yaGlHajRlQy1CNm1COHBMeNIBeEFVX3lxTE5UTU9UYVdqQ19DX3MyVnFjZXVYejRpTTVnQlFVNlZ3cDVPTWt6Q1JkaWdxOHlVZHZ5SThHQnp2YUZUVDBWT25TcmJ2OFVQaldZZ3lzRE8wbWI1M21nTkFMMnZBa1dPdEwtWnF0WUlTSU1oeVd5LW5sTQ?oc=5",
+   "summary": "",
+   "published": "2026-11-24T01:00+00:00",
+   "source": "뉴시스 (via Google News)",
+   "needs_original_url": true,
+   "id": "efc7490f02f34874"
+  }
+ },
+ "7d360f8f6dd2f9c3": {
+  "first_kept": "2026-11-24T01:13:36+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-24T01:13:36+00:00",
+  "item": {
+   "title": "SpacePNT Selected to Supply Spaceborne GNSS Receiver Subsystem for SWISSto12 HummingSat Platform",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUV0bFZiT3JlWFpPT0RibWE4eTd2d0FrLXYwNEJuT2NITk5kaG9KV08wQ182YVcwUGFCTVVWWU5BQnJELTVNTjZySC1QTF9PLW55cmMwWExJaUF2ZE45U1hmd19zRURheEZOZ2trRGxsdEVyM216R19UUlBLM04xbjFmMzA4RVRPdER2WHpXcjQ2cXlYZWZZcmt4OHJmLUZvM2hnOVRXdmRuN2NJcWhqeG90Z3Yya3MzN1VJWDVWVUpzdDRSZ3Zn?oc=5",
+   "summary": "",
+   "published": "2026-11-24T00:28+00:00",
+   "source": "SatNews Publishers (via Google News)",
+   "needs_original_url": true,
+   "id": "7d360f8f6dd2f9c3"
   }
  }
 }
