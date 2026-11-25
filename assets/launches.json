@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-25T15:13:56+00:00",
+ "updated": "2026-11-25T16:13:59+00:00",
  "upcoming": [
-  {
-   "name": "Falcon 9 Block 5 | USSF-266",
-   "net": "2026-11-24T16:08:59Z",
-   "status": "Launch Successful",
-   "provider": "SpaceX",
-   "location": "Vandenberg SFB, CA, USA"
-  },
   {
    "name": "Long March 2F/G | Shenzhou 24",
    "net": "2026-11-25T00:18:52Z",
@@ -101,6 +94,13 @@
   },
   {
    "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
+   "net": "2026-12-31T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | CHORUS",
    "net": "2026-12-31T00:00:00Z",
    "status": "To Be Determined",
    "provider": "SpaceX",
