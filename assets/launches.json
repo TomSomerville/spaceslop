@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-25T10:13:33+00:00",
+ "updated": "2026-11-25T11:13:54+00:00",
  "upcoming": [
-  {
-   "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-   "net": "2026-11-24T10:17:46Z",
-   "status": "Launch Successful",
-   "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-   "location": "Baikonur Cosmodrome, Republic of Kazakhstan"
-  },
   {
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
    "net": "2026-11-24T11:14:52Z",
@@ -105,6 +98,13 @@
    "status": "To Be Confirmed",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Wenchang Space Launch Site, People's Republic of China"
+  },
+  {
+   "name": "Ariane 62 | Metop-SG B1",
+   "net": "2026-12-18T00:36:00Z",
+   "status": "Go for Launch",
+   "provider": "Arianespace",
+   "location": "Guiana Space Centre, French Guiana"
   }
  ]
 }
