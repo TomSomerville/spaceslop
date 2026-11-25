@@ -1,1 +1,43 @@
-{}
+{
+ "aae48ff40c37ed44": {
+  "first_kept": "2026-11-25T09:13:09+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-25T09:13:09+00:00",
+  "item": {
+   "title": "Arianespace to launch Europe's Metop-SGB1 weather satellite aboard Ariane 6 on 17 December 2026",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUi1ZQWJSYWx6U0tqbXNCMEx2TnhLSXZ2NVFDbHlhWnhSYmJndFlyYkItTzNZYXdwVDY3REhEZ3ptZFNFdVJ2dXJhcGRWMHdheDZTcXFCVnpUU09UczZaaFNBN3dTeEt3Q25HUTBOR29KX2wxNExMdDQ0SE9GV3k1elVoR0dNMTVGOHRFZ1NvdE5WT21hZ2FjTVlvUm8zWDhjd2QtTXQxbGRHTXVFejlDbUpPWHRKQlZCbGdsalNjbXBzR1lOeVZ3?oc=5",
+   "summary": "",
+   "published": "2026-11-25T08:55+00:00",
+   "source": "Newsroom Arianespace (via Google News)",
+   "needs_original_url": true,
+   "id": "aae48ff40c37ed44"
+  }
+ },
+ "8bcca1e4b6e497fe": {
+  "first_kept": "2026-11-25T09:13:09+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-25T09:13:09+00:00",
+  "item": {
+   "title": "Karnataka Welcomes Pixxel’s ₹350 Crore Satellite Manufacturing Investment: Minister MB Patil",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZnBrQ1E2eDFwaUR6bXV0SzFLTjIxRnN4THpOTl9oNU0zaGxCSWszbXVsUzlBR2ktRk82Y2p2VEIzR1V2c3FCekJXMDdSXzVQWGVHaTRzRjEzQ2NITHo2ZXhkMDlkSEt2T29aNnNST0JQTm5sSzdUUkNMUkU0cld4bHJBcXp1dXRCUmY3Yk1YSXFPUVgyN0NUMkZ0OFJqYk40ZGswUXZJQVRiU3NLYU5hN25WS3FXckVjdXBXRUhrX0dIeUxtcmgwYjFiYkt2Y2laaG9OSHBCNDhQYVJSV19USVg3bmtxNW_SAecBQVVfeXFMT2Zwa0NRNngxcGlEem11dEsxS04yMUZzeEx6Tk5faDVNM2hsQklrM211bFM5QUdpLUZPNmNqdlRCM0dVdnNxQnpCVzA3Ul81UFhlR2k0c0YxM0NjSEx6NmV4ZDA5ZEhLdk9vWjZzUk9CUE5ubEs3VFJDTFJFNHJXeGxyQXF6dXV0QlJmN2JNWElxT1FYMjdDVDJGdDhSamJONGRrMFF2SUFUYlNzS2FOYTduVktxV3JFY3VwV0VIa19HSHlMbXJoMGIxYmJLdmNpWmhvTkhwQjQ4UGFSUldfVElYN25rcTVv?oc=5",
+   "summary": "",
+   "published": "2026-11-25T07:27+00:00",
+   "source": "The Hans India (via Google News)",
+   "needs_original_url": true,
+   "id": "8bcca1e4b6e497fe"
+  }
+ },
+ "1f0def880b61b4e8": {
+  "first_kept": "2026-11-25T09:13:09+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-25T09:13:09+00:00",
+  "item": {
+   "title": "FCC Considers Reciprocal Restrictions on Foreign Satellite Operators Amid US-Europe Tensions",
+   "url": "https://spacewatch.global/2026/11/fcc-considers-reciprocal-restrictions-on-foreign-satellite-operators-amid-us-europe-tensions/",
+   "summary": "The US Federal Communications Commission is considering changes to its rules governing foreign satellite operators seeking to provide services in the American market. The proposal would examine whether to revise the conditions under which foreign-licensed satellite systems receive market access in the United States, taking into account how their home countries regulate US-licensed satellite operators.",
+   "published": "2026-11-25T07:00+00:00",
+   "source": "SpaceWatch.Global",
+   "id": "1f0def880b61b4e8"
+  }
+ }
+}
