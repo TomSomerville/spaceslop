@@ -11,6 +11,12 @@ sources:
   - name: Korea Aerospace Administration coverage via Dailian
     title: "우주청, 제3차 우주신기술 4건 지정…우주바이오 첫 선정"
     url: https://www.dailian.co.kr/news/view/1719499/%EC%9A%B0%EC%A3%BC%EC%B2%AD-%EC%A0%9C3%EC%B0%A8-%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B8%B0%EC%88%A0-4%EA%B1%B4-%EC%A7%80%EC%A0%95%EC%9A%B0-2026
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuri_KSLV-II_TLV.jpg
+  alt: "South Korea's Nuri (KSLV-II) rocket test vehicle, an archive photo"
+  credit: "Kiyoen569 / Wikimedia Commons"
+  license: "CC BY-SA 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Nuri_KSLV-II_TLV.jpg
 ---
 
 South Korea's Ministry of Land, Infrastructure and Transport gave final approval on November 25 to the plan for a national industrial complex dedicated to space launch vehicles in Goheung County, the area that hosts the country's existing launch site. The decision was published the same day, according to Financial News.
