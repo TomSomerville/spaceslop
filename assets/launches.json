@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:14:12+00:00",
+ "updated": "2026-11-25T18:13:52+00:00",
  "upcoming": [
   {
    "name": "Long March 2F/G | Shenzhou 24",
@@ -79,6 +79,13 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
+   "name": "Falcon 9 Block 5 | CHORUS",
+   "net": "2026-12-04T12:55:00Z",
+   "status": "Go for Launch",
+   "provider": "SpaceX",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
    "name": "Long March 12 | SatNet LEO Group TBD?",
    "net": "2026-12-10T07:00:00Z",
    "status": "To Be Confirmed",
@@ -94,13 +101,6 @@
   },
   {
    "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
-   "net": "2026-12-31T00:00:00Z",
-   "status": "To Be Determined",
-   "provider": "SpaceX",
-   "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | CHORUS",
    "net": "2026-12-31T00:00:00Z",
    "status": "To Be Determined",
    "provider": "SpaceX",
