@@ -8,6 +8,12 @@ sources:
   - name: EUSPA
     title: "Galileo High Accuracy Service demonstrated in orbit by RISE's OrbFIX receiver"
     url: https://www.euspa.europa.eu/newsroom-events/news/galileo-high-accuracy-service-demonstrated-orbit-rises-orbfix-receiver
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galileo_satellite_model.jpg/1280px-Galileo_satellite_model.jpg
+  alt: "Scale model of a Galileo IOV navigation satellite (archive image, not the system in the story)"
+  credit: "Science Museum Group / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Galileo_satellite_model.jpg
 ---
 
 Romanian InSpace Engineering (RISE) says its OrbFIX GNSS receiver is the first to process operational Galileo High Accuracy Service (HAS) corrections in space, according to a post published Tuesday by the EU Agency for the Space Programme (EUSPA).
