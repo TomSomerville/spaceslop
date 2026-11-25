@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:13:09+00:00",
+ "updated": "2026-11-25T01:13:21+00:00",
  "upcoming": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
@@ -24,8 +24,8 @@
   },
   {
    "name": "Long March 2F/G | Shenzhou 24",
-   "net": "2026-11-25T00:18:49Z",
-   "status": "Go for Launch",
+   "net": "2026-11-25T00:18:52Z",
+   "status": "Launch Successful",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Jiuquan Satellite Launch Center, People's Republic of China"
   },
