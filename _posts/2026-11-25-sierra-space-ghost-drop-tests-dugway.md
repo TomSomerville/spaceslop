@@ -8,6 +8,12 @@ sources:
   - name: Sierra Space
     title: "Sierra Space Completes Multiple Drop Tests of Ghost Rapid Reentry Space Vehicle"
     url: https://www.sierraspace.com/press-releases/sierra-space-completes-multiple-drop-tests-of-ghost-rapid-reentry-space-vehicle/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Sierra_Space_Dream_Chaser_Spaceplane_Documentation_Photographs_%28GRC-2024-C-00111%29.jpg/1280px-Sierra_Space_Dream_Chaser_Spaceplane_Documentation_Photographs_%28GRC-2024-C-00111%29.jpg
+  alt: "Archive photo of Sierra Space's Dream Chaser spaceplane"
+  credit: "NASA/GRC/Jordan Salkin / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Sierra_Space_Dream_Chaser_Spaceplane_Documentation_Photographs_(GRC-2024-C-00111).jpg
 ---
 
 Sierra Space announced on Tuesday that it has finished a drop-test campaign for Ghost, its family of reentry vehicles meant to carry cargo down from orbit to a chosen spot on Earth. The tests took place at the Dugway Proving Ground in Utah as part of U.S. Space Command's Apollo Nexus exercise program.
