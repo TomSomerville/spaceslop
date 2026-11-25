@@ -8,6 +8,12 @@ sources:
   - name: NASA
     title: "Teams Lock in Mission Architecture for NASA's SR-1 Freedom"
     url: https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/1280px-Artemis_I_Launch_%28NHQ202211160017%29.jpg
+  alt: "Archive photo: NASA's Space Launch System lifts off on Artemis I in November 2022"
+  credit: "Joel Kowsky / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160017).jpg
 ---
 
 NASA said on Tuesday that SR-1 Freedom, its planned nuclear-electric spacecraft bound for Mars, has completed a major mission design review and locked in key elements of the vehicle. The review took place in October at NASA's Glenn Research Center in Cleveland, with experts from the agency, the Department of Energy and industry. NASA describes the result as a move from early concept toward a defined design, with launch targeted for late 2028.
