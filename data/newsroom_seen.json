@@ -662,6 +662,8 @@
   "rdw.com/newsroom/type/press-release",
   "rdw.com/newsroom/type/events",
   "rdw.com/newsroom/type/in-the-news",
+  "rdw.com/newsroom/join-redwire-at-landeuro-2026",
+  "rdw.com/newsroom/2026/11/25",
   "rdw.com/newsroom/this-company-just-won-40-million-to-help-power-the-moon",
   "rdw.com/newsroom/2026/11/19",
   "rdw.com/newsroom/redwire-awarded-15-million-contract-to-deliver-elsa-high-performance-low-mass-solar-array-wings-to-ascendarc-for-geo-communications-satellite",
@@ -680,10 +682,10 @@
   "rdw.com/newsroom/redwire-veterans-to-join-washington-commanders-at-salute-to-service-game",
   "rdw.com/newsroom/redwire-awarded-20-million-contract-for-additional-otter-vleo-testing-and-experimentation",
   "rdw.com/newsroom/2026/11/05",
-  "rdw.com/newsroom/redwire-corporation-reports-third-quarter-2026-financial-results-expands-backlog-achieves-record-gross-margins",
-  "rdw.com/newsroom/2026/11/04",
   "rdw.com/product-archive/octopus-isr-and-optics-payloads",
   "rdw.com/capabilities/rf-systems-and-satellite-payloads",
+  "rdw.com/newsroom/redwire-corporation-reports-third-quarter-2026-financial-results-expands-backlog-achieves-record-gross-margins",
+  "rdw.com/newsroom/2026/11/04",
   "rdw.com/newsroom/redwire-co-hosts-youth-football-clinic-for-military-families-with-washington-commanders",
   "rdw.com/newsroom/redwire-announces-shadowvision-software-for-its-octopus-payloads-delivering-mission-critical-data-for-comprehensive-situational-awareness",
   "rdw.com/newsroom/redwire-corporation-to-report-third-quarter-2026-results-on-november-4-2026",
@@ -1055,9 +1057,7 @@
   "rdw.com/newsroom/redwire-successfully-deploys-the-most-powerful-roll-out-solar-arrays-ever-built-prepares-for-major-delivery-in-fourth-quarter",
   "rdw.com/newsroom/redwire-awarded-contract-to-provide-roll-out-solar-arrays-for-axiom-spaces-first-space-station-module",
   "rdw.com/newsroom/redwire-successfully-delivers-onboard-computer-for-esas-comet-interceptor-mission-to-study-pristine-comet",
-  "rdw.com/newsroom/redwire-awarded-contract-to-provide-spacecraft-docking-systems-for-the-exploration-companys-european-space-capsule",
-  "rdw.com/newsroom/paving-the-way-for-artemis-manufacturing-technology-will-be-a-key-enabler-for-sustainable-lunar-operations",
-  "rdw.com/newsroom/redwire-awarded-contract-from-thales-alenia-space-to-provide-docking-system-for-european-habitation-module-on-the-gateway-lunar-space-station"
+  "rdw.com/newsroom/redwire-awarded-contract-to-provide-spacecraft-docking-systems-for-the-exploration-companys-european-space-capsule"
  ],
  "Astranis": [
   "astranis.com/blog/stc-group-advances-saudi-arabia-connectivity-with-dedicated-satellite",
@@ -7371,14 +7371,15 @@
   "eumetsat.int/cimr-synergistic-global-ocean-and-atmospheric-products"
  ],
  "EUSPA": [
+  "euspa.europa.eu/newsroom-events/news/galileo-high-accuracy-service-demonstrated-orbit-rises-orbfix-receiver",
   "euspa.europa.eu/newsroom-events/news/eurocontrol-and-euspa-test-egnos-and-gnss-future-drone-operations",
   "euspa.europa.eu/newsroom-events/news/share-your-galileo-story-euspa-launches-call-user-testimonials",
   "euspa.europa.eu/newsroom-events/news/why-galileo-stands-out-market-outlook-european-unions-unique-gnss-capabilities",
   "euspa.europa.eu/newsroom-events/news/jamming-emerging-cyber-threats-how-protect-european-unions-space-services",
   "euspa.europa.eu/newsroom-events/news/satellite-soil-space-innovation-smarter-farming",
   "euspa.europa.eu/newsroom-events/news/eu-space-market-report-blue-economy",
-  "euspa.europa.eu/newsroom-events/news/galileo-ground-segment-enhanced-resilience-2-new-telemetry-telecommand-and",
   "euspa.europa.eu/newsroom-events/news/industry-day-present-mc-secmon-procurement-opportunity",
+  "euspa.europa.eu/newsroom-events/news/galileo-ground-segment-enhanced-resilience-2-new-telemetry-telecommand-and",
   "euspa.europa.eu/newsroom-events/news/eu-sst-community-gathers-mark-10-years-space-safety-and-sustainability",
   "euspa.europa.eu/newsroom-events/news/iceland-joins-euspas-administrative-board"
  ],
