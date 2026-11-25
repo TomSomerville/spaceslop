@@ -22,6 +22,6 @@ Preferred-negotiator status is not a signed contract. Nara Space said the final 
 
 ## Why it matters
 
-Korea is pushing hard to grow a domestic commercial space sector, and state-owned bodies buying dedicated Earth-observation satellites for their own missions are one of the more reliable sources of orders for startups. For Nara Space, which also has hardware headed for NASA's Artemis II mission according to earlier reporting by Asia Economy, a contract of this size would be a significant addition to its order book.
+Korea is pushing hard to grow a domestic commercial space sector, and state-owned bodies buying dedicated Earth-observation satellites for their own missions are one of the more reliable sources of orders for startups. For Nara Space of this size would be a significant addition to its order book.
 
 The next thing to watch is the signed contract and its final value, which Nara Space would be expected to disclose once negotiations conclude.
