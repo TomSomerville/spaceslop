@@ -8,6 +8,12 @@ sources:
   - name: SpaceQ
     title: "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat"
     url: https://spaceq.ca/osiris-3-usask-csa-cubesat-mission-1/
+image:
+  path: https://images-assets.nasa.gov/image/PIA22457/PIA22457~large.jpg
+  alt: "Archive photo of NASA's RainCube 6U CubeSat, shown as a generic CubeSat example"
+  credit: "NASA/JPL-Caltech"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/PIA22457
 ---
 
 The Canadian Space Agency has awarded the University of Saskatchewan a $2.6 million contract to develop Osiris-3, an atmospheric instrument for a small satellite due to launch in 2029. The agency announced the award on X on Tuesday, according to SpaceQ.
