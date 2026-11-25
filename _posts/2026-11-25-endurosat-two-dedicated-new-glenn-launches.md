@@ -11,6 +11,12 @@ sources:
   - name: GlobeNewswire (via Manila Times)
     title: "EnduroSat Signs Multi-Launch Agreement with Blue Origin for Dedicated New Glenn Missions for Its Customers"
     url: https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/endurosat-signs-multi-launch-agreement-with-blue-origin-for-dedicated-new-glenn-missions-for-its-customers/2477886
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387524%29.jpg/1280px-Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387524%29.jpg
+  alt: "A New Glenn rocket launches from Space Launch Complex 36 at Cape Canaveral in November 2025 (archive photo)"
+  credit: "U.S. Space Force photo by Senior Airman Samuel Becker / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_Rocket_Successful_Launch_(9387524).jpg
 ---
 
 Blue Origin has another New Glenn customer. EnduroSat, the Sofia-based satellite manufacturer, announced on November 25 that it has signed a multi-launch agreement for two dedicated New Glenn 7x2 missions, the first scheduled for 2029. Both flights will leave from Cape Canaveral, Florida, and are reserved for satellites EnduroSat builds for its own customers.

@@ -8,6 +8,12 @@ sources:
   - name: China Manned Space Agency
     title: "神舟二十四号航天员乘组顺利进驻“天宫” 中外航天员实现首次“太空握手”"
     url: https://www.cmse.gov.cn/xwzx/202611/t20261125_57903.html
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/90/Rear_view_of_Tiangong_Space_Station.jpg
+  alt: "Rear view of the Tiangong space station with a Shenzhou spacecraft docked (archive photo)"
+  credit: "China Manned Space Engineering Office / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Rear_view_of_Tiangong_Space_Station.jpg
 ---
 
 Shenzhou-24 has docked with China's Tiangong space station, and its crew is aboard. The China Manned Space Agency said the Shenzhou-23 crew opened the hatch and welcomed the three arrivals at 14:35 Beijing time on November 25. The agency described it as the first time foreign astronauts have entered the station, and the ninth "space reunion" in the history of Chinese crewed flight.
