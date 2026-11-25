@@ -1,8 +1,8 @@
 {
  "7846615fa9f1fc98": {
   "first_kept": "2026-11-25T05:13:30+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-25T05:13:30+00:00",
+  "attempts": 2,
+  "last_tried": "2026-11-25T06:14:39+00:00",
   "item": {
    "title": "ロケット打ち上げ能力強化検討 大樹「LC1」など 経産省、衛星需要に対応",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bzd1ZDBvTmtxTExJUHp2cUhtc0Q4YWozQkFkNzBGQ0NrTnlaVFRmbWVuRndzY1F2VFdiVnBpQlpyT045ZF96ODJJQm9QcjZTRWQ5ZjdHZjA5UQ?oc=5",
@@ -11,20 +11,6 @@
    "source": "北海道新聞デジタル (via Google News)",
    "needs_original_url": true,
    "id": "7846615fa9f1fc98"
-  }
- },
- "3af4a2a3dcab790e": {
-  "first_kept": "2026-11-25T05:13:30+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-25T05:13:30+00:00",
-  "item": {
-   "title": "Korea designates 4 new space technologies, including first in biotechnology",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTFNGSHFfNHJzRHFmdmJPSUl1c0FYT0hOSnBnVGppY2IzZ2hFbXNHNDVXeDdjZ3NXZXNZUm10WFNZT1pmNG5lM0hndEJxOW5GdGJIOVRla2p3dUVfRUVzSC1OTGFiTkFxeW41aTRnZTdVMDV4V2ZRaWw2a0IyNHg4NNIBlAFBVV95cUxPVWkxbWxDN1JBd0hGVkFJaS14SHIxX2pIaHBJWWVHb3BKaHltNU1OeTdwZlBhczR5SmdJcDU3dnR6TVJVU29XLTUyOGpqb0xfU3ZhRFR2Z0lnbGZEeWhFc1FxOGJUUHZ2cTdTYWo0YkhsS1RDWjBHOVFQLXNzdlVyYXI4RE1rc0JldjUyYXE1aUJLaW5K?oc=5",
-   "summary": "",
-   "published": "2026-11-25T04:30+00:00",
-   "source": "Chosunbiz (via Google News)",
-   "needs_original_url": true,
-   "id": "3af4a2a3dcab790e"
   }
  }
 }
