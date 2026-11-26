@@ -11,6 +11,12 @@ sources:
   - name: Stocktwits
     title: "RKLB Stock Rebounds Into Thanksgiving: CFO, COO And Other Execs Sell Nearly $4M In Shares Ahead Of Electron Launch"
     url: https://stocktwits.com/news-articles/markets/equity/rklb-stock-cfo-coo-other-execs-sell-shares-ahead-of-electron-launch/cNbx33ZR9ZR
+image:
+  path: https://images-assets.nasa.gov/image/KSC-20240521-PH-RKL01_0001/KSC-20240521-PH-RKL01_0001~large.jpg
+  alt: "Archive photo: NASA PREFIRE CubeSats encapsulated in an Electron payload fairing in New Zealand in 2024"
+  credit: "Rocket Lab / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/KSC-20240521-PH-RKL01_0001
 ---
 
 Rocket Lab is lining up its 101st Electron launch for the evening of Thanksgiving in the US. The mission, named "Night Owls Never Sleep," will carry one StriX synthetic aperture radar satellite for Japan's Synspective from Launch Complex 1 on the Māhia Peninsula in New Zealand.
