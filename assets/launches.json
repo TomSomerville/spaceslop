@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-26T00:13:09+00:00",
+ "updated": "2026-11-26T01:13:33+00:00",
  "upcoming": [
-  {
-   "name": "Long March 2F/G | Shenzhou 24",
-   "net": "2026-11-25T00:18:52Z",
-   "status": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "location": "Jiuquan Satellite Launch Center, People's Republic of China"
-  },
   {
    "name": "Long March 2D | Unknown Payload",
    "net": "2026-11-26T09:35:00Z",
@@ -101,6 +94,13 @@
   },
   {
    "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
+   "net": "2026-12-31T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)",
    "net": "2026-12-31T00:00:00Z",
    "status": "To Be Determined",
    "provider": "SpaceX",
