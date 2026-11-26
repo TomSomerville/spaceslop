@@ -4,6 +4,12 @@ date: 2026-11-26 14:45:00 +0000
 summary: "A Long March 2D lifted off from Xichang at 09:38 UTC and put the Yaogan 49 group 01 satellites into orbit, China's 681st Long March flight."
 category: launch
 story_key: long-march-2d-yaogan-49-group-01
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/6/6e/Yaogan-36_satellite_launch_%28cropped%29.png
+  alt: "Archive photo: a Long March 2D launches Yaogan 36 from Xichang in 2022"
+  credit: "China News Serivce / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Yaogan-36_satellite_launch_(cropped).png
 sources:
   - name: Venture Atlas (citing Xinhua and China News)
     title: "Long March-2D orbits the Yaogan-49 01 group"
