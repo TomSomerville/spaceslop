@@ -11,6 +11,12 @@ sources:
   - name: SatNews
     title: "Space Force Weighs Acquisition of Five Cislunar Satellites by Late 2029"
     url: https://satnews.com/2026/11/11/space-force-weighs-acquisition-of-five-cislunar-satellites-by-late-2029/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Oracle-M_Hot_Fire_Test-_A_Major_Milestone_in_Cislunar_Space_Situational_Awareness_and_National_Security_%289023446%29.jpg/1280px-Oracle-M_Hot_Fire_Test-_A_Major_Milestone_in_Cislunar_Space_Situational_Awareness_and_National_Security_%289023446%29.jpg
+  alt: "Archive photo of the Oracle-M hot fire test, a Space Force cislunar situational awareness effort, March 2025"
+  credit: "U.S. Space Force SSC by Edgar Nava / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Oracle-M_Hot_Fire_Test-_A_Major_Milestone_in_Cislunar_Space_Situational_Awareness_and_National_Security_(9023446).jpg
 ---
 
 The U.S. Space Force is sounding out industry on a small fleet of spacecraft that would operate beyond geosynchronous orbit, in the space between Earth and the Moon. A request for information, posted on SAM.gov on Nov. 2 under the name Cislunar Space System, asks what vendors could deliver on a fast, low-risk schedule, according to Air & Space Forces Magazine.
