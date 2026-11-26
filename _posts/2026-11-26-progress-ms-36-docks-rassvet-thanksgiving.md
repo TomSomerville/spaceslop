@@ -4,6 +4,12 @@ date: 2026-11-26 13:40:00 +0000
 summary: "Roscosmos' Progress 97 docked automatically to the Earth-facing port of the Rassvet module at 7:08 a.m. EST, a different port from the Poisk docking earlier reporting had described."
 category: stations
 story_key: progress-ms-36
+image:
+  path: https://images-assets.nasa.gov/image/iss040e006000/iss040e006000~large.jpg
+  alt: "Archive photo from 2014 of a Soyuz and a Progress cargo ship docked to the International Space Station"
+  credit: "Reid Wiseman / NASA"
+  license: "Public domain (NASA)"
+  source_url: https://images.nasa.gov/details/iss040e006000
 sources:
   - name: NASA Space Station Blog
     title: "Progress Cargo Craft Docks to Station on Thanksgiving Day"
