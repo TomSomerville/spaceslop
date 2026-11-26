@@ -8,6 +8,12 @@ sources:
   - name: Advanced Television
     title: "Blue Origin planning Feb 2027 launch"
     url: https://www.advanced-television.com/2026/11/26/blue-origin-planning-feb-2027-launch/
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/6/63/Blue_Origin_New_Glenn_flight_2.jpg
+  alt: "Archive photo: New Glenn launches from Space Launch Complex 36 on Nov. 13, 2025"
+  credit: "U.S. Space Force photo by Senior Airman Samuel Becker / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg
 ---
 
 Blue Origin is reportedly now aiming to fly New Glenn again on February 20, 2027, about a month later than the January 2027 target given in early November. The report comes from Advanced Television, which cites unnamed reports and does not name an outlet. Blue Origin has not announced the date, and the article itself describes the delay as unconfirmed.
