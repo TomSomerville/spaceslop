@@ -1894,11 +1894,6 @@
   "astroscale.com/hi-in/news/applications-are-open-for-astroscale-u-s-summer-internship-program"
  ],
  "Interstellar Technologies": [
-  "istellartech.com/news/partnerslist/gamma-technologies-llc",
-  "istellartech.com/news/interview/zero-development-update-fairing-separation-test",
-  "istellartech.com/news/interview/our-team-at-interstellar-technologies-update-2023",
-  "istellartech.com/news/interview/zero-development-update-engine-static-fire-test-2",
-  "istellartech.com/news/interview/interstellar-technologies-updates-2023-2024",
   "istellartech.com/news/releases/6011",
   "istellartech.com/news/releases/6958",
   "istellartech.com/news/releases/6961",
@@ -2075,7 +2070,12 @@
   "istellartech.com/news/releases/11490",
   "istellartech.com/news/event/11501",
   "istellartech.com/news/others/11512",
-  "istellartech.com/news/event/11520"
+  "istellartech.com/news/event/11520",
+  "istellartech.com/news/partnerslist/gamma-technologies-llc",
+  "istellartech.com/news/interview/zero-development-update-fairing-separation-test",
+  "istellartech.com/news/interview/our-team-at-interstellar-technologies-update-2023",
+  "istellartech.com/news/interview/zero-development-update-engine-static-fire-test-2",
+  "istellartech.com/news/interview/interstellar-technologies-updates-2023-2024"
  ],
  "Space One": [
   "space-one.co.jp/news/news_20261124.html",
@@ -3857,6 +3857,12 @@
   "isispace.nl/isispace-group-supplier-code-of-conduct"
  ],
  "Mynaric": [
+  "mynaric.com/blog/marking-black-history-month-2021-with-ralph-emerson",
+  "mynaric.com/blog/the-economics-of-constellations",
+  "mynaric.com/blog/the-aerospace-connectivity-market-the-two-sides-of-the-coin",
+  "mynaric.com/blog/why-laser-communication-is-the-only-choice-for-constellation-builders",
+  "mynaric.com/blog/why-we-need-new-connectivity-from-low-earth-orbit-and-the-stratosphere",
+  "mynaric.com/blog/a-closer-look-at-the-companies-building-the-future-of-connectivity-in-the-skies-and-beyond",
   "mynaric.com/news/mynarics-condor-optical-communications-terminal-achieves-bidirectional-space-to-ground-data-transfer-validating-the-companys-vision-for-scalable-optical-connectivity",
   "mynaric.com/news/mynaric-selected-for-esa-hydron-user-segment-demonstration-activities-under-element-3",
   "mynaric.com/news/mynaric-achieves-free-space-quantum-key-distribution-using-commercially-available-condor-mk3-terminals",
@@ -3985,13 +3991,7 @@
   "mynaric.com/news/mynaric-ag-announces-price-range-for-planned-ipo-and-publishes-securities-prospectus",
   "mynaric.com/news/mynaric-ag-specialist-in-laser-based-air-and-space-communication-networks-plans-ipo",
   "mynaric.com/news/mynaric-signs-design-and-manufacturing-services-agreement-with-airborne-wireless-network-inc",
-  "mynaric.com/news/mynaric-signs-mou-with-airborne-wireless-network-inc-to-transform-in-flight-connectivity",
-  "mynaric.com/blog/marking-black-history-month-2021-with-ralph-emerson",
-  "mynaric.com/blog/the-economics-of-constellations",
-  "mynaric.com/blog/the-aerospace-connectivity-market-the-two-sides-of-the-coin",
-  "mynaric.com/blog/why-laser-communication-is-the-only-choice-for-constellation-builders",
-  "mynaric.com/blog/why-we-need-new-connectivity-from-low-earth-orbit-and-the-stratosphere",
-  "mynaric.com/blog/a-closer-look-at-the-companies-building-the-future-of-connectivity-in-the-skies-and-beyond"
+  "mynaric.com/news/mynaric-signs-mou-with-airborne-wireless-network-inc-to-transform-in-flight-connectivity"
  ],
  "Andøya Space": [
   "andoyaspace.no/who-we-are/history/60-years-in-space",
@@ -4061,6 +4061,7 @@
   "i-qps.net/news/4144"
  ],
  "Axelspace": [
+  "axelspace.com/news/grus3a_image",
   "axelspace.com/news/grus3d_image",
   "axelspace.com/news/spacestrategyfund_onorbitdemonstration",
   "axelspace.com/news/grus3_20261006",
@@ -7705,6 +7706,7 @@
   "eumetsat.int/cimr-synergistic-global-ocean-and-atmospheric-products"
  ],
  "EUSPA": [
+  "euspa.europa.eu/newsroom-events/news/eu-space-market-report-2026-secure-connections-safer-orbits",
   "euspa.europa.eu/newsroom-events/news/galileo-high-accuracy-service-demonstrated-orbit-rises-orbfix-receiver",
   "euspa.europa.eu/newsroom-events/news/eurocontrol-and-euspa-test-egnos-and-gnss-future-drone-operations",
   "euspa.europa.eu/newsroom-events/news/share-your-galileo-story-euspa-launches-call-user-testimonials",
@@ -7712,8 +7714,8 @@
   "euspa.europa.eu/newsroom-events/news/jamming-emerging-cyber-threats-how-protect-european-unions-space-services",
   "euspa.europa.eu/newsroom-events/news/satellite-soil-space-innovation-smarter-farming",
   "euspa.europa.eu/newsroom-events/news/eu-space-market-report-blue-economy",
-  "euspa.europa.eu/newsroom-events/news/industry-day-present-mc-secmon-procurement-opportunity",
   "euspa.europa.eu/newsroom-events/news/galileo-ground-segment-enhanced-resilience-2-new-telemetry-telecommand-and",
+  "euspa.europa.eu/newsroom-events/news/industry-day-present-mc-secmon-procurement-opportunity",
   "euspa.europa.eu/newsroom-events/news/eu-sst-community-gathers-mark-10-years-space-safety-and-sustainability",
   "euspa.europa.eu/newsroom-events/news/iceland-joins-euspas-administrative-board"
  ],
@@ -7943,11 +7945,13 @@
  ],
  "CASC": [
   "spacechina.com/n25/n2014789/n2014804/index.html",
+  "spacechina.com/n25/n2014789/n2014804/c4765981/content.html",
+  "spacechina.com/n25/n2014789/n2014804/c4765967/content.html",
+  "spacechina.com/n25/n2014789/n2014804/c4765941/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4765681/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4764463/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4764123/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4764137/content.html",
-  "spacechina.com/n25/n2014789/n2014804/c4763303/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4761683/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4759235/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4760045/content.html",
@@ -7956,8 +7960,6 @@
   "spacechina.com/n25/n2014789/n2014804/c4755461/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4755401/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4750939/content.html",
-  "spacechina.com/n25/n2014789/n2014804/c4750283/content.html",
-  "spacechina.com/n25/n2014789/n2014804/c4749281/content.html",
   "spacechina.com/n25/n2014789/n2014804/+url+",
   "spacechina.com/n25/n2014789/n2014804/+ url+",
   "spacechina.com/n25/n2014789/n2014804/index_4125630_1.html",
@@ -7999,6 +8001,9 @@
   "spacechina.com/n25/n2014789/n2014804/index_4125630_37.html",
   "spacechina.com/n25/n2014789/n2014804/index_4125630_38.html",
   "spacechina.com/n25/n2014789/n2014804/index_4125630_39.html",
+  "spacechina.com/n25/n2014789/n2014804/c4763303/content.html",
+  "spacechina.com/n25/n2014789/n2014804/c4750283/content.html",
+  "spacechina.com/n25/n2014789/n2014804/c4749281/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4748618/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4748834/content.html",
   "spacechina.com/n25/n2014789/n2014804/c4747541/content.html",
