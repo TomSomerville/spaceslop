@@ -4,6 +4,12 @@ date: 2026-11-27 09:45:00 +0000
 summary: "President Sheinbaum said Mexico wants a meeting with U.S. space authorities on airspace permits, launch frequency and possibly moving the launch site, with debris handled separately."
 category: policy
 story_key: mexico-spacex-airspace-talks
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/SpaceX_workers_looking_at_Super_Heavy_booster.jpg/1280px-SpaceX_workers_looking_at_Super_Heavy_booster.jpg
+  alt: "Archive photo of SpaceX workers looking at a Super Heavy booster at Starbase"
+  credit: "NASA / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:SpaceX_workers_looking_at_Super_Heavy_booster.jpg
 sources:
   - name: Digital Today (citing Reuters)
     title: "Mexico may rein in SpaceX, seeks airspace permits, launch site relocation talks"
