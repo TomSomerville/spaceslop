@@ -1,8 +1,8 @@
 {
  "ba0705a3e949b503": {
   "first_kept": "2026-11-27T08:14:17+00:00",
-  "attempts": 5,
-  "last_tried": "2026-11-27T12:15:36+00:00",
+  "attempts": 6,
+  "last_tried": "2026-11-27T13:16:22+00:00",
   "item": {
    "title": "日本の再使用ロケット「CALLISTO」初飛行、2028年度に延期…設計見直しで2年遅れ",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NmlOdGhjMjVySzBKZ3UyRDNLY0tRTERjd08tTjdFdlFHNUpqUF92YnJBd3l0WjlnYnBwWkNsck1jeExlVDFuUFJaY2txRWJsdUJYTWZ6cnFWd1ZxalNCOHYxcS1tbzBKTnZfU3Jac2ZfN0I0?oc=5",
@@ -15,8 +15,8 @@
  },
  "ab39ca962fbcc7ff": {
   "first_kept": "2026-11-27T09:15:00+00:00",
-  "attempts": 4,
-  "last_tried": "2026-11-27T12:15:36+00:00",
+  "attempts": 5,
+  "last_tried": "2026-11-27T13:16:22+00:00",
   "item": {
    "title": "Estonia Approves Draft of First National Space Activities Act",
    "url": "https://spacewatch.global/2026/11/estonia-approves-draft-of-first-national-space-activities-act/",
@@ -28,8 +28,8 @@
  },
  "afcbbd7c0d9d8c60": {
   "first_kept": "2026-11-27T12:15:36+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T12:15:36+00:00",
+  "attempts": 2,
+  "last_tried": "2026-11-27T13:16:22+00:00",
   "item": {
    "title": "Space Force reopens $13 billion satellite services program to new vendors",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmZ0MjRYeFVLdVJOaU5UV2JJdHhjb1BDaXY2c3NEbHkydVFySXI0UERrdzRBaHNHQkNJc0ZVSkc0UkVnZ0F1aFZOZ1dSRmNYc3RDTXBmbDVrNXhoV3M1eEMySGVuUmkxcUFKYlNrcEVxVEJvNlA0Nl9sdUNGa0VHWm93VXFNWHNKQjFqbzRsQy1FQkc4QXRzcTRibw?oc=5",
@@ -38,62 +38,6 @@
    "source": "SpaceNews (via Google News)",
    "needs_original_url": true,
    "id": "afcbbd7c0d9d8c60"
-  }
- },
- "c99fb3d473bf8252": {
-  "first_kept": "2026-11-27T12:15:36+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T12:15:36+00:00",
-  "item": {
-   "title": "SpaceX Loses Key Starlink Executive After Decade-Long Stint as Chief Michael Nicolls Announces ‘Significa",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNODdJMHdzSFBJWGpZSUJrbEtMSGpILVhVOEtLRFhuRFBaX2hTZUJQODREREdhZ2FtaVg5S3JjV0dhYk5fNG9sTVl4MklpdkRiWlk5Q0tkdFdLLVlSOTJHUVBxcWxNaEZ2QmpMU011c0ZwWVRMNUdFNlVQTmhUSVBESUp3dzlQTS0tdDV6UDk2NkZiZ3BzcE5uNmM0MnpoTUltdnBHWnA1dkFPdWZwM1dJME5TTW1CTDZtdmhNVlR3dGdRS1dJenN1amhXNGVBMVdNU0l3MFRFMTBLMG8tT3lWQnlFRWtPeHQ4UllMQmpnelNac3BycFloc25GX0xmYjVId3NXdkNn?oc=5",
-   "summary": "",
-   "published": "2026-11-27T11:32+00:00",
-   "source": "Benzinga (via Google News)",
-   "needs_original_url": true,
-   "id": "c99fb3d473bf8252"
-  }
- },
- "4102818fbe9ad512": {
-  "first_kept": "2026-11-27T12:15:36+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T12:15:36+00:00",
-  "item": {
-   "title": "SpaceX Executive Chad Gibbs leaves company",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tTGJPbVlCMlpQcmUxbWFadDZab3RPTmg3QXFQQ3EwY2dEN3FraDRJaXFFV19tTnNjdXEySGY5N3prRmtNQmFNX3lmMV8xZmdidml2Zw?oc=5",
-   "summary": "",
-   "published": "2026-11-27T11:28+00:00",
-   "source": "AzerNews (via Google News)",
-   "needs_original_url": true,
-   "id": "4102818fbe9ad512"
-  }
- },
- "05e676c278befdd7": {
-  "first_kept": "2026-11-27T12:15:36+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T12:15:36+00:00",
-  "item": {
-   "title": "Vyoma wants to see 95% of low Earth orbit every three hours",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejBGSzdsZDVsdE5sN1VRbnBCSWlrc1ZnT0RXekVqRS0tRU5xd2d0aGstcUdUUUI2dWVIRWxxd29yWFd1VFNCQk9QeGxWOXJVeXlrMVowajRycE1sTlM4NDEwVFV2M1Etb3I1QXhfLXdVYmhScDZ4TGhhQU9CRUl5d2pfVGZocWxWcDFET25OeVczWERTWDhF?oc=5",
-   "summary": "",
-   "published": "2026-11-27T10:12+00:00",
-   "source": "Dealroom (via Google News)",
-   "needs_original_url": true,
-   "id": "05e676c278befdd7"
-  }
- },
- "b9bef41a2511c7f0": {
-  "first_kept": "2026-11-27T12:15:36+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T12:15:36+00:00",
-  "item": {
-   "title": "EU backs French satellite-to-phone startup Univity with up to $13.9M",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXZ5dkw1cXNCVXRKMEQyOUpoeEtocVpYR25tT2VqMEhac2YzcGsyM0VwZlpxQkFrRVlsSHJlWWs4UDZZaTE3OHdRWndDWFpRTnQ0TFRIY3Y2WUFkX1VMTU91QzJiOTI4a2ZKTTdyS0FCempLZmt3YkNiZG5CZXBtTFdxYkxQay1aR1dhWTVmLWpXQ1cxMnF0clZzLUVBYWJVc1Br?oc=5",
-   "summary": "",
-   "published": "2026-11-26T16:09+00:00",
-   "source": "Dealroom (via Google News)",
-   "needs_original_url": true,
-   "id": "b9bef41a2511c7f0"
   }
  }
 }
