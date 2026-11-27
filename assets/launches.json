@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-27T09:13:04+00:00",
+ "updated": "2026-11-27T10:13:02+00:00",
  "upcoming": [
-  {
-   "name": "Long March 2D | Yaogan 49 Group 01",
-   "net": "2026-11-26T09:38:00Z",
-   "status": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "location": "Xichang Satellite Launch Center, People's Republic of China"
-  },
   {
    "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
    "net": "2026-11-27T00:15:00Z",
@@ -101,6 +94,13 @@
   },
   {
    "name": "Falcon 9 Block 5 | NROL-195",
+   "net": "2026-12-31T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | OneWeb 21",
    "net": "2026-12-31T00:00:00Z",
    "status": "To Be Determined",
    "provider": "SpaceX",
