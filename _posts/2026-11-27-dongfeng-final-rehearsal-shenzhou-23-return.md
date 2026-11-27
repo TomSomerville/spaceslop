@@ -4,6 +4,12 @@ date: 2026-11-27 23:30:00 +0000
 summary: "China's Dongfeng landing site finished its last full-system search-and-recovery drill on Nov. 26, with Shenzhou-23 due home soon carrying Pakistan's first astronaut."
 category: stations
 story_key: shenzhou-23-return
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/90/Rear_view_of_Tiangong_Space_Station.jpg
+  alt: "Archive view of the Tiangong space station with a Shenzhou spacecraft docked at the nadir port"
+  credit: "China Manned Space Engineering Office / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Rear_view_of_Tiangong_Space_Station.jpg
 sources:
   - name: Xinhua
     title: "东风着陆场完成最后一次全系统演练 准备就绪迎神二十三飞船天外归来"
