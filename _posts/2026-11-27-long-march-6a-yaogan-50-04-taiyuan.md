@@ -8,6 +8,12 @@ sources:
   - name: China in Space
     title: "Fourth Retrograde Orbiting Yaogan Reaches Space Out of Taiyuan [Long March 6A Y31]"
     url: https://www.china-in-space.com/p/fourth-retrograde-orbiting-yaogan
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/New_generation_of_LM_rockets.jpg/1280px-New_generation_of_LM_rockets.jpg
+  alt: "Illustration of the new-generation Long March family, including the CZ-6A, CZ-6C and others"
+  credit: "Xiaojun Wang, China Academy of Launch Vehicle Technology / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:New_generation_of_LM_rockets.jpg
 ---
 
 China launched another Yaogan remote sensing satellite on Friday, putting Yaogan-50-04 into a retrograde low Earth orbit with a Long March 6A from Launch Complex 9A at the Taiyuan Satellite Launch Center in Shanxi province.
