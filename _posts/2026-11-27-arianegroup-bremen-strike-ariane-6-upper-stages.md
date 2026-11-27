@@ -4,6 +4,12 @@ date: 2026-11-27 15:15:19 +0000
 summary: "Nearly 650 workers at the Ariane 6 upper-stage plant joined a 24-hour warning strike on 24 November; a wage deal followed two days later."
 category: industry
 story_key: arianegroup-bremen-strike
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Ariane_6_upper_stage_unpacked_at_DLR_Lampoldshausen_01.jpg/1280px-Ariane_6_upper_stage_unpacked_at_DLR_Lampoldshausen_01.jpg
+  alt: "An Ariane 6 upper stage unpacked at the DLR site in Lampoldshausen (archive photo)"
+  credit: "DLR / Wikimedia Commons"
+  license: "CC BY 3.0 de"
+  source_url: https://commons.wikimedia.org/wiki/File:Ariane_6_upper_stage_unpacked_at_DLR_Lampoldshausen_01.jpg
 sources:
   - name: European Spaceflight
     title: "Hundreds of ArianeGroup Workers Strike in Bremen"
