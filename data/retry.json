@@ -1,8 +1,8 @@
 {
  "88b2c000200008b2": {
   "first_kept": "2026-11-27T05:14:25+00:00",
-  "attempts": 2,
-  "last_tried": "2026-11-27T06:13:31+00:00",
+  "attempts": 3,
+  "last_tried": "2026-11-27T07:13:39+00:00",
   "item": {
    "title": "宇宙スタートアップChartに出資 日本企業の宇宙参入を全方位で支援",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40bVd0OHpDWkg0V1ZoaS00Sk5FS1NBc3piWkZubjF1dGt6cHFNX1ZUX3ZNb2dUVVlJNnBOUUJTMk93eHUtRmlsOUU1X1hOUmxTMkxhNUR4MDBPeU5rR0FOOWFyc1h1X1JhUV9r?oc=5",
@@ -11,6 +11,34 @@
    "source": "時事ドットコム (via Google News)",
    "needs_original_url": true,
    "id": "88b2c000200008b2"
+  }
+ },
+ "00bf3e6409327266": {
+  "first_kept": "2026-11-27T07:13:39+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-27T07:13:39+00:00",
+  "item": {
+   "title": "Korean space startup targets 'satellite after-service' market with KT SAT deal",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4SmoyUDN4WU5GWmxBaVVZT1dmWFkxeTRfWW4zalRsZ3hNQVMtVFBkRUNOSWdyaXlodE5mWVp5d2ZDZXVsMGNMeXhiaVB1YWtDeW9lMUsxWQ?oc=5",
+   "summary": "",
+   "published": "2026-11-27T05:50+00:00",
+   "source": "헤럴드경제 (via Google News)",
+   "needs_original_url": true,
+   "id": "00bf3e6409327266"
+  }
+ },
+ "7f37d719e483fc28": {
+  "first_kept": "2026-11-27T07:13:39+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-27T07:13:39+00:00",
+  "item": {
+   "title": "Japan proposes delaying reusable rocket flight test to fiscal 2028",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmlCblpNMHNLSFlrRVYtai0zRGpQMktzR1A0dEluZE9CcXBjNVA3Y3ZNXzhld0k4NGR1VFUzOVk0NTl1RF9RdDVPa2gtVWF4TlpGajNRSFJENDNNUDd3b1llUTNPSGhTZ3Mtdk04Wl9wdmdaZHo2N2xRVHV1blc5WW8wWFhWNEdpRFpWMF9iblUybkhm0gGUAUFVX3lxTE1iaUJuWk0wc0tIWWtFVi1qLTNEalAyS3NHUDR0SW5kT0JxcGM1UDdjdk1fOGV3STg0ZHVUVTM5WTQ1OXVEX1F0NU9raC1VYXhOWkZqM1FIUkQ0M01QN3dvWWVRM09IaFNncy12TThaX3B2Z1pkejY3bFFUdXVuVzlZbzBYWFY0R2lEWlYwX2JuVTJuSGY?oc=5",
+   "summary": "",
+   "published": "2026-11-27T04:38+00:00",
+   "source": "Chosunbiz (via Google News)",
+   "needs_original_url": true,
+   "id": "7f37d719e483fc28"
   }
  }
 }
