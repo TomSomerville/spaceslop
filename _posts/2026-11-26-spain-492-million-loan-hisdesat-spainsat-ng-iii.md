@@ -11,6 +11,12 @@ sources:
   - name: Avion Revue
     title: "Aprobado el nuevo préstamo a Hisdesat para el desarrollo del SPAINSAT-NG III"
     url: https://www.avionrevue.com/espacio/aprobado-el-nuevo-prestamo-a-hisdesat-para-el-desarrollo-del-spainsat-ng-iii/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/SpainSat_NG-1_launch_%288866796%29.jpg/1280px-SpainSat_NG-1_launch_%288866796%29.jpg
+  alt: "A Falcon 9 carrying SpainSat NG-1 lifts off from Kennedy Space Center in January 2025 (archive photo)"
+  credit: "U.S. Space Force photo by Robert Mason / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:SpainSat_NG-1_launch_(8866796).jpg
 ---
 
 The Spanish government has approved a direct loan of 492.2 million euros to Hisdesat, the operator of Spain's secure military and government satellite communications, to develop, build, launch and commission SpainSat NG III. The Council of Ministers cleared the Royal Decree on Nov. 24, according to Spanish trade press.
