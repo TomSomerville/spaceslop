@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:13:54+00:00",
+ "updated": "2026-11-27T18:13:10+00:00",
  "upcoming": [
   {
    "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
@@ -9,9 +9,9 @@
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
   },
   {
-   "name": "Long March 6A | Unknown Payload",
-   "net": "2026-11-27T13:00:00Z",
-   "status": "Go for Launch",
+   "name": "Long March 6A | Yaogan 50-04",
+   "net": "2026-11-27T13:05:00Z",
+   "status": "Launch Successful",
    "provider": "China Aerospace Science and Technology Corporation",
    "location": "Taiyuan Satellite Launch Center, People's Republic of China"
   },
