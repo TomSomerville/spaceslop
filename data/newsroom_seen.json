@@ -5918,14 +5918,16 @@
   "ohb.de/en/news/ohb-and-astroscale-sign-agreement-to-strengthen-space-security-and-orbital-services-capabilities"
  ],
  "Leonardo": [
-  "leonardo.com/en/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
-  "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
+  "leonardo.com/nl/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
+  "leonardo.com/nl/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/en/press-release-detail/-/detail/26-11-2026-leonardo-roll-out-of-the-first-m-346-pan-for-the-italian-air-force-s-frecce-tricolori-aerobatic-team",
   "leonardo.com/en/press-release-detail/-/detail/23-11-2026-leonardo-and-the-peruvian-air-force-sign-long-term-c-27j-spartan-logistics-support-agreement",
   "leonardo.com/en/press-release-detail/-/detail/bulgarian-air-force-launches-major-c-27j-spartan-fleet-upgrade%c2%a0",
   "leonardo.com/en/press-release-detail/-/detail/09-11-2026-enel-and-leonardo-sign-memorandum-of-understanding-on-energy-technology-and-security-at-the-service-of-italy-and-its-businesses",
+  "leonardo.com/en/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
   "leonardo.com/en/press-release-detail/-/detail/03-11-2026-fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali-osn-",
   "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-at-euronaval-with-new-c5istar-solutions-to-address-the-challenges-of-modern-maritime-scenarios",
+  "leonardo.com/en/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/en/press-release-detail/-/detail/02-11-2026-leonardo-2027-financial-calendar",
   "leonardo.com/en/press-release-detail/-/detail/22-10-2026-leonardo-over-10-of-the-group-s-energy-consumption-in-italy-to-be-self-generated",
   "leonardo.com/en/investors/debt-and-credit-rating",
@@ -5936,8 +5938,6 @@
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/performance-and-esg-impacts",
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/development-and-new-skills",
   "leonardo.com/en/suppliers/becoming-a-supplier/sustainable-supply-chain/commitment-and-esg-results",
-  "leonardo.com/nl/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
-  "leonardo.com/nl/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
   "leonardo.com/en/press-release-detail/-/detail/21-10-2026-cugs-project-marks-major-step-forward-for-european-unmanned-ground-capabilities",
   "leonardo.com/pt/press-release-detail/-/detail/05-11-2026-leonardo-board-of-directors-approves-9m2026-results",
   "leonardo.com/pt/press-release-detail/-/detail/03-11-2026-leonardo-improves-its-esg-performance-in-s-p-global-and-ecovadis-assessments",
@@ -7290,6 +7290,7 @@
   "sa.catapult.org.uk/news/using-space-data-to-restore-nature-four-sme-projects-lead-the-way-with-take-off-funding"
  ],
  "CNES": [
+  "cnes.fr/actualites/strateole-2-quinze-ballons-ciel-equatorial",
   "cnes.fr/actualites/bepicolombo-atteint-mercure-apres-8-ans-de-voyage",
   "cnes.fr/actualites/hera-devoile-premiers-secrets-de-dimorphos-lasteroide-touche-dart",
   "cnes.fr/actualites/experts-de-los-controler-lanceur-de-conception-exploitation",
@@ -7822,11 +7823,11 @@
   "diu.mil/latest/diu-and-dawg-launch-autonomous-vehicle-orchestrator-prize-challenge"
  ],
  "UK Civil Aviation Authority": [
+  "caa.co.uk/newsroom/news/uk-civil-aviation-authority-statement-norse-atlantic-uk-limited-norse",
   "consultations.caa.co.uk/portfolio-delivery/33a004f3/consultation/subpage.2025-06-25.8275747910",
   "caa.co.uk/newsroom/news/regulator-launches-consultation-on-recovery-of-heathrow-expansion-early-costs",
   "caa.co.uk/newsroom/news/smartphones-scottish-salmon-and-mangoes-increase-in-air-cargo-takes-uk-aviation-sector-to-new-heights",
   "caa.co.uk/newsroom/news/holidaymakers-warned-to-beware-of-online-scams-and-ai-generated-fake-deals-during-black-friday",
-  "caa.co.uk/newsroom/news/taking-off-number-of-pilot-licences-held-by-women-rises-twice-as-fast-as-those-held-by-men",
   "caa.co.uk/newsroom/news/update-on-usa-flight-disruption",
   "caa.co.uk/newsroom/news",
   "caa.co.uk/newsroom/blogs/the-new-civil-aviation-authority-website",
@@ -7839,6 +7840,7 @@
   "caa.co.uk/newsroom/press-office",
   "caa.co.uk/newsroom/caa-skywise",
   "caa.co.uk/newsroom/caa-podcasts",
+  "caa.co.uk/newsroom/news/taking-off-number-of-pilot-licences-held-by-women-rises-twice-as-fast-as-those-held-by-men",
   "caa.co.uk/newsroom/news/uk-civil-aviation-authority-consults-on-202728-charges",
   "caa.co.uk/newsroom/news/caa-asks-stakeholders-to-share-information-about-impact-of-nats-technical-incident-on-8-september",
   "caa.co.uk/newsroom/news/caa-considers-establishing-more-stakeholder-panels-to-improve-engagement-and-rulemaking",
