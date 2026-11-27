@@ -1,22 +1,8 @@
 {
- "88b2c000200008b2": {
-  "first_kept": "2026-11-27T05:14:25+00:00",
-  "attempts": 3,
-  "last_tried": "2026-11-27T07:13:39+00:00",
-  "item": {
-   "title": "宇宙スタートアップChartに出資 日本企業の宇宙参入を全方位で支援",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40bVd0OHpDWkg0V1ZoaS00Sk5FS1NBc3piWkZubjF1dGt6cHFNX1ZUX3ZNb2dUVVlJNnBOUUJTMk93eHUtRmlsOUU1X1hOUmxTMkxhNUR4MDBPeU5rR0FOOWFyc1h1X1JhUV9r?oc=5",
-   "summary": "",
-   "published": "2026-11-27T03:16+00:00",
-   "source": "時事ドットコム (via Google News)",
-   "needs_original_url": true,
-   "id": "88b2c000200008b2"
-  }
- },
  "00bf3e6409327266": {
   "first_kept": "2026-11-27T07:13:39+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T07:13:39+00:00",
+  "attempts": 2,
+  "last_tried": "2026-11-27T08:14:17+00:00",
   "item": {
    "title": "Korean space startup targets 'satellite after-service' market with KT SAT deal",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4SmoyUDN4WU5GWmxBaVVZT1dmWFkxeTRfWW4zalRsZ3hNQVMtVFBkRUNOSWdyaXlodE5mWVp5d2ZDZXVsMGNMeXhiaVB1YWtDeW9lMUsxWQ?oc=5",
@@ -29,8 +15,8 @@
  },
  "7f37d719e483fc28": {
   "first_kept": "2026-11-27T07:13:39+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T07:13:39+00:00",
+  "attempts": 2,
+  "last_tried": "2026-11-27T08:14:17+00:00",
   "item": {
    "title": "Japan proposes delaying reusable rocket flight test to fiscal 2028",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmlCblpNMHNLSFlrRVYtai0zRGpQMktzR1A0dEluZE9CcXBjNVA3Y3ZNXzhld0k4NGR1VFUzOVk0NTl1RF9RdDVPa2gtVWF4TlpGajNRSFJENDNNUDd3b1llUTNPSGhTZ3Mtdk04Wl9wdmdaZHo2N2xRVHV1blc5WW8wWFhWNEdpRFpWMF9iblUybkhm0gGUAUFVX3lxTE1iaUJuWk0wc0tIWWtFVi1qLTNEalAyS3NHUDR0SW5kT0JxcGM1UDdjdk1fOGV3STg0ZHVUVTM5WTQ1OXVEX1F0NU9raC1VYXhOWkZqM1FIUkQ0M01QN3dvWWVRM09IaFNncy12TThaX3B2Z1pkejY3bFFUdXVuVzlZbzBYWFY0R2lEWlYwX2JuVTJuSGY?oc=5",
@@ -39,6 +25,61 @@
    "source": "Chosunbiz (via Google News)",
    "needs_original_url": true,
    "id": "7f37d719e483fc28"
+  }
+ },
+ "9253bfcb3fca9f40": {
+  "first_kept": "2026-11-27T08:14:17+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-27T08:14:17+00:00",
+  "item": {
+   "title": "SSC Space and Andøya Space Partner to Strengthen Nordic Orbital Launch Capabilities",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3MyS2JDcjBaUjZ2TXNKLTFRUjVNbUFoMG1oMmRtTS1VSXhqSlRnN1Ixb1ZwQ3dHVW93d1NsY245cGRKU2NnR0lHOXVMZm1IUXZRbFZEeExNQUJSMjhrSE91OTZsMHlwSjJBa3VXalZlWFV3QTFOd3NCTjRlaGVEbDBFN0V4Q1EydnlybV83bExRd01JeE4wMHgydU93V1hDYnFSRVNmT0prV3M4Z1pMcEdYdWx5UDBnTUE?oc=5",
+   "summary": "",
+   "published": "2026-11-27T07:51+00:00",
+   "source": "SpaceWatch.GLOBAL (via Google News)",
+   "needs_original_url": true,
+   "id": "9253bfcb3fca9f40"
+  }
+ },
+ "ba0705a3e949b503": {
+  "first_kept": "2026-11-27T08:14:17+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-27T08:14:17+00:00",
+  "item": {
+   "title": "日本の再使用ロケット「CALLISTO」初飛行、2028年度に延期…設計見直しで2年遅れ",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NmlOdGhjMjVySzBKZ3UyRDNLY0tRTERjd08tTjdFdlFHNUpqUF92YnJBd3l0WjlnYnBwWkNsck1jeExlVDFuUFJaY2txRWJsdUJYTWZ6cnFWd1ZxalNCOHYxcS1tbzBKTnZfU3Jac2ZfN0I0?oc=5",
+   "summary": "",
+   "published": "2026-11-27T07:35+00:00",
+   "source": "BigGo ファイナンス (via Google News)",
+   "needs_original_url": true,
+   "id": "ba0705a3e949b503"
+  }
+ },
+ "8af330dc7f9859be": {
+  "first_kept": "2026-11-27T08:14:17+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-27T08:14:17+00:00",
+  "item": {
+   "title": "SSC Space and Andøya Space Partner to Strengthen Nordic Orbital Launch Capabilities",
+   "url": "https://spacewatch.global/2026/11/ssc-space-and-andoya-space-partner-to-strengthen-nordic-orbital-launch-capabilities/",
+   "summary": "SSC Space and Andøya Space have signed a Memorandum of Understanding to strengthen cooperation in orbital launch services and develop an integrated Arctic space ecosystem. The partnership will combine the companies' complementary capabilities in Sweden and Norway to support safe, reliable, resilient and competitive access to space for European and international customers.",
+   "published": "2026-11-27T07:00+00:00",
+   "source": "SpaceWatch.Global",
+   "id": "8af330dc7f9859be"
+  }
+ },
+ "77b838267f2365d5": {
+  "first_kept": "2026-11-27T08:14:17+00:00",
+  "attempts": 1,
+  "last_tried": "2026-11-27T08:14:17+00:00",
+  "item": {
+   "title": "La Fuerza Aérea de Chile lanzará los microsatélites SNSAT-1 y SNSAT-2 en el cohete Falcon 9 de SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVozeE1SQi04MjlPOU04YjVfaFpoVWRtMkJSLVhmV0JscUR1Sm9DOU9MS2wwS0E0MmxvMVJib2oxMjFjNFR3c0VlUi1Td3NXb0U1dzRoanczdjh3dHdJaldQUTFzb1BiZTJaMXlhQ2NZMmhVQXFVZGo4N3FGWjJUMzUxb2VNUllOczhZTjJ1NTJ1Q0VJWF9EOGVR?oc=5",
+   "summary": "",
+   "published": "2026-11-26T10:40+00:00",
+   "source": "Defensa.com (via Google News)",
+   "needs_original_url": true,
+   "id": "77b838267f2365d5"
   }
  }
 }
