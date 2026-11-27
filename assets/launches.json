@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:12:39+00:00",
+ "updated": "2026-11-27T05:12:29+00:00",
  "upcoming": [
   {
    "name": "Long March 2D | Yaogan 49 Group 01",
@@ -11,7 +11,7 @@
   {
    "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
    "net": "2026-11-27T00:15:00Z",
-   "status": "Payload Deployed",
+   "status": "Launch Successful",
    "provider": "Rocket Lab",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
   },
