@@ -1,8 +1,8 @@
 {
  "87160f55e5d3245c": {
   "first_kept": "2026-11-27T19:14:02+00:00",
-  "attempts": 2,
-  "last_tried": "2026-11-27T20:14:18+00:00",
+  "attempts": 3,
+  "last_tried": "2026-11-27T21:14:21+00:00",
   "item": {
    "title": "北大発新興「ミヨルニア・スペースワークス」 ロケット試作機完成 数年内の打ち上げ目指す",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qOFU3dGt3VDhkbWZqa29MZUhrdzhMMEJZMzlPcEJHUjBzbWxhblFCRGdpYlRobFcyODNhclJ1NjNPT2YzUlI3VUJ1REljR0hXb2cwX2JyVFlBQQ?oc=5",
@@ -11,48 +11,6 @@
    "source": "北海道新聞デジタル (via Google News)",
    "needs_original_url": true,
    "id": "87160f55e5d3245c"
-  }
- },
- "ddd5c8f5a52ea0ca": {
-  "first_kept": "2026-11-27T20:14:18+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T20:14:18+00:00",
-  "item": {
-   "title": "UL-Lafayette, SpaceX reach deal to lease former Pecan Island School",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFhFMG5FZ285cXRHbGFtekNDekpJSVNBazZtelF3bDZJNU92V0g2dE9USERla1cyX09PT3ltRnhkZ0UwQWRNMU1SZU4wM2JqSGF0NXRCdHRBTUlWRHdLa2tDNkJVLTVpMXlvVDdfUVBzUVJqeHNHUGtPTWVLQ2xDclE1VzZvNFRVbzZUWDdBQnpfdHltbE4xS1phWDh6ZXhTS3FxNkJQUGFHVV9OeWVWLWFab3Y0YzdmNW9lRE1OaTFJM184d0FKMlZMLVFpRTgxMHduWldpeVNOeVduZ2RWbVpn?oc=5",
-   "summary": "",
-   "published": "2026-11-27T19:40+00:00",
-   "source": "WWLTV.com (via Google News)",
-   "needs_original_url": true,
-   "id": "ddd5c8f5a52ea0ca"
-  }
- },
- "d06cc27c8611ae0a": {
-  "first_kept": "2026-11-27T20:14:18+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T20:14:18+00:00",
-  "item": {
-   "title": "Texas land deal with SpaceX lists $10 but what does it really mean?",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGMjJEcTdyTmF2Z2dwZkllNlJIcThWLUJ6WGUtLWlFdWVyNVBrUTJQMU05NllNNkFPTHlKRm5lTVJuVGJrZVJIRHpWcWxmSC1hS251bkU1Uml1NmhrRTBKb0lZQmtqcUppTUZGdGlyX01OR3hTN0hFM29HQQ?oc=5",
-   "summary": "",
-   "published": "2026-11-27T18:38+00:00",
-   "source": "https://latination.com/ (via Google News)",
-   "needs_original_url": true,
-   "id": "d06cc27c8611ae0a"
-  }
- },
- "e311a1af4fc15c24": {
-  "first_kept": "2026-11-27T20:14:18+00:00",
-  "attempts": 1,
-  "last_tried": "2026-11-27T20:14:18+00:00",
-  "item": {
-   "title": "UL Lafayette Hands SpaceX a 40-Year Lease on a Former Louisiana School for $1 a Year - Trading Rent for a $10 Million Renovation Commitment",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDBmVno0VGZfNDF3UDJLOGVGNEVwajhvSHdEc0ozOVVIbDBEN2RIRGFISm5zOHp4VHFZV1VpbVMxeVh1NjVOcmpyWXdWZ2htNnNtZEd6aWdoU3ZfdWdFWjFoY24xY3d6ZGdGTEJLT0sxMXVJR3VpMjNBanM0SFplSngzMjk3TzI3dm1peE1ucGl4ek1IZk04ZC1YTUIxcW1tdEhfc2xpam5KRF9GVWlTazhkb0hSRFRYNjVXM3RWWWtiMGlNR2VfaVZIaDg0NUpXckxwREk1Q3Z3Q0xjbGZCNFRZSVJxcDlIVXNURjFaLU1DRmtBRmdB?oc=5",
-   "summary": "",
-   "published": "2026-11-27T17:43+00:00",
-   "source": "Gadget Review (via Google News)",
-   "needs_original_url": true,
-   "id": "e311a1af4fc15c24"
   }
  }
 }
