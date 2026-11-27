@@ -11,6 +11,12 @@ sources:
   - name: ITmedia Mobile
     title: "“Starlink依存”からの脱却へ 楽天が「Rakuten AST」で自前の衛星通信にこだわるワケ 三木谷氏らが力説"
     url: https://www.itmedia.co.jp/mobile/articles/2611/09/news089.html
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/BlueBird_11-13_Launches_from_Cape_Canaveral_Space_Force_Station_%289862276%29.jpg/1280px-BlueBird_11-13_Launches_from_Cape_Canaveral_Space_Force_Station_%289862276%29.jpg
+  alt: "Archive photo: a Falcon 9 carrying AST SpaceMobile BlueBird 11-13 launches from Cape Canaveral in August 2026"
+  credit: "U.S. Space Force SLD45 by Gwendolyn Kurzen / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:BlueBird_11-13_Launches_from_Cape_Canaveral_Space_Force_Station_(9862276).jpg
 ---
 
 Rakuten AST, the new direct-to-phone satellite company formed by Rakuten Mobile and AST SpaceMobile, is in talks with Mitsubishi Heavy Industries (MHI) over satellite production and future domestic launches, according to Japanese business coverage of the company's November 9 briefing.
