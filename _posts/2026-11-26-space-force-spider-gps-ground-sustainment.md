@@ -8,6 +8,12 @@ sources:
   - name: DefenseScoop
     title: "Space Systems Command eyes mid-2028 for GPS sustainment upgrade contract"
     url: https://defensescoop.com/2026/11/24/space-systems-command-gps-sustainment-upgrade-contract/
+image:
+  path: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/GPS_Block_IIIA.jpg/1280px-GPS_Block_IIIA.jpg
+  alt: "Artist's impression of a GPS Block IIIA satellite in orbit"
+  credit: "U.S. Air Force / Wikimedia Commons"
+  license: "Public domain"
+  source_url: https://commons.wikimedia.org/wiki/File:GPS_Block_IIIA.jpg
 ---
 
 Space Systems Command is lining up the follow-on to the contract that keeps the GPS ground system running, and it wants the new deal to do more than keep the lights on. A sources-sought notice dated Nov. 20 describes the Sustaining Position, Navigation and Timing (PNT) and Integrating with Development to Enhance Readiness contract, or SPIDER, with an award targeted for mid-2028, DefenseScoop reported.
