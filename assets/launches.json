@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-28T00:13:26+00:00",
+ "updated": "2026-11-28T01:13:17+00:00",
  "upcoming": [
-  {
-   "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
-   "net": "2026-11-27T00:15:00Z",
-   "status": "Launch Successful",
-   "provider": "Rocket Lab",
-   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand"
-  },
   {
    "name": "Long March 6A | Yaogan 50-04",
    "net": "2026-11-27T13:05:00Z",
@@ -105,6 +98,13 @@
    "status": "To Be Determined",
    "provider": "SpaceX",
    "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
+   "net": "2026-12-31T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Cape Canaveral SFS, FL, USA"
   }
  ]
 }
