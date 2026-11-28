@@ -4,6 +4,12 @@ date: 2026-11-28 10:30:00 +0000
 summary: "China's two crews held the in-orbit handover ceremony on Nov. 28, clearing Shenzhou-23 and Pakistan's Muhammad Zeeshan Ali to return while Zhu Yangzhu stays for a year."
 category: stations
 story_key: shenzhou-23-return
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/90/Rear_view_of_Tiangong_Space_Station.jpg
+  alt: "Archive view of the Tiangong space station with a Shenzhou spacecraft docked at the nadir port"
+  credit: "China Manned Space Engineering Office / Wikimedia Commons"
+  license: "CC BY 4.0"
+  source_url: https://commons.wikimedia.org/wiki/File:Rear_view_of_Tiangong_Space_Station.jpg
 sources:
   - name: China Manned Space Agency
     title: "神舟二十三号和神舟二十四号航天员完成在轨交接"
