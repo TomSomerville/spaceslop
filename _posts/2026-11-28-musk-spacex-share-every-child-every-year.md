@@ -11,6 +11,12 @@ sources:
   - name: Yahoo Finance
     title: "Elon Musk Doubles Down on Giving Back With Plan to Distribute SpaceX Shares to Children"
     url: https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDdMbXFTdVJ6cDZVOUEwcTczMklMeEhETkJFV3gwX0Y4MGxRU3ZHR04ta0pIQWRuc1RWdnYtS2VoVDB2NVBoOUdoUjJ4OG1LTmtKUGlLWFhkRjlHdTZrbmVMdTBiemEwVGZ4MjUtVTBRU1Q2M3JoNFBPaHhNbU1EZVh6OWcxUm9TMnAtMVNaSXE4ZDdMUm8tWlhB?oc=5
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg
+  alt: "Archive photo of a SpaceX Falcon 9 Starlink mission"
+  credit: "Official SpaceX Photos / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg
 ---
 
 Elon Musk has widened a plan to put SpaceX stock in the hands of American children, saying he will donate another share to every child in the US each year. Search results describing the expansion say the extra pledge came after his original announcement on 25 November; we could not read the underlying posts or the Forbes report directly.
