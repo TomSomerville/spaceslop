@@ -8,6 +8,12 @@ sources:
   - name: Oninvest (summarising Bloomberg)
     title: "Bloomberg: SpaceX eyeing Anterix and NextNav spectrum to build mobile network"
     url: https://en.oninvest.com/article/bloomberg-spacex-eyeing-anterix-and-nextnav-spectrum-to-build-mobile-network
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg
+  alt: "Archive photo of a SpaceX Falcon 9 Starlink mission"
+  credit: "Official SpaceX Photos / Wikimedia Commons"
+  license: "CC0"
+  source_url: https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg
 ---
 
 SpaceX is reportedly interested in buying spectrum from two US companies, Anterix and NextNav, as it works to turn Starlink Mobile into a full wireless carrier. Bloomberg reported it on 27 November; we read the report through a summary published by Oninvest, not Bloomberg's original, and there is no confirmation from SpaceX. Anterix shares rose 10.6 percent that day and NextNav shares rose 14.5 percent.
