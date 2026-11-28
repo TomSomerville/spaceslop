@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-28T12:13:10+00:00",
+ "updated": "2026-11-28T13:13:04+00:00",
  "upcoming": [
-  {
-   "name": "Long March 6A | Yaogan 50-04",
-   "net": "2026-11-27T13:05:00Z",
-   "status": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "location": "Taiyuan Satellite Launch Center, People's Republic of China"
-  },
   {
    "name": "Long March 6C | Unknown Payload",
    "net": "2026-11-29T03:50:00Z",
@@ -105,6 +98,13 @@
    "status": "To Be Determined",
    "provider": "SpaceX",
    "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+   "net": "2026-12-31T00:00:00Z",
+   "status": "To Be Determined",
+   "provider": "SpaceX",
+   "location": "Vandenberg SFB, CA, USA"
   }
  ]
 }
